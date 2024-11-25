@@ -6,6 +6,7 @@ models_CL-no-cluster_only-original-KC
 .idea
 kc_annotation/all-mpnet-base-v2
 *.pyc
+.DS_Store
 representation_learning/logs
 representation_learning/wandb
 /representation_learning/*.json
