@@ -1,0 +1,1 @@
+This repository is the clone of [KCQRL](https://github.com/oezyurty/KCQRL): Automated **K**nowledge **C**oncept Annotation and **Q**uestion **R**epresentation **L**earning for Knowledge Tracing [paper](https://arxiv.org/abs/2410.01727).

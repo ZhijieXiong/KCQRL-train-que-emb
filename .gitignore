@@ -1,0 +1,11 @@
+models
+models_CL-cluster_only-KC
+models_CL-cluster_only-original-KC
+models_CL-no-cluster_only-KC
+models_CL-no-cluster_only-original-KC
+.idea
+kc_annotation/all-mpnet-base-v2
+*.pyc
+representation_learning/logs
+representation_learning/wandb
+/representation_learning/*.json

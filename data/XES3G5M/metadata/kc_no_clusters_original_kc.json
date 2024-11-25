@@ -1,0 +1,2597 @@
+{
+  "0": [
+    "Other types in the principle of multiplication"
+  ],
+  "1": [
+    "Comprehensive principle of addition and multiplication"
+  ],
+  "2": [
+    "Item matching"
+  ],
+  "3": [
+    "Dyeing counting problem"
+  ],
+  "4": [
+    "Combination of object quantity"
+  ],
+  "5": [
+    "Route matching problem"
+  ],
+  "6": [
+    "Translation of geometric ideas"
+  ],
+  "7": [
+    "Find the perimeter of trap shaped irregular shapes"
+  ],
+  "8": [
+    "Calculate the perimeter of irregular stair shapes"
+  ],
+  "9": [
+    "Rectangular perimeter"
+  ],
+  "10": [
+    "Perimeter of rectangular composite shape"
+  ],
+  "11": [
+    "Formula method: perimeter of rectangle and square"
+  ],
+  "12": [
+    "Geometric method reduces overall blank space"
+  ],
+  "13": [
+    "Geometric methods remain invariant"
+  ],
+  "14": [
+    "Graphic cognition"
+  ],
+  "15": [
+    "Graphic cutting and splicing"
+  ],
+  "16": [
+    "Split graphics (no need to divide equally)"
+  ],
+  "17": [
+    "Square combination shape perimeter"
+  ],
+  "18": [
+    "Formulas for the area of rectangles and squares"
+  ],
+  "19": [
+    "Connection method"
+  ],
+  "20": [
+    "Find contradictions"
+  ],
+  "21": [
+    "Exclusion of Contradiction Law"
+  ],
+  "22": [
+    "half-genuine and half-sham"
+  ],
+  "23": [
+    "Integer multiple relationship"
+  ],
+  "24": [
+    "Extraction of Common Factors in Integer Multiplication (Ordinary Type)"
+  ],
+  "25": [
+    "Directly apply the law of distribution"
+  ],
+  "26": [
+    "Extracting common factors from integers"
+  ],
+  "27": [
+    "Divine reasoning"
+  ],
+  "28": [
+    "Combination of rectangular and square shapes with perimeter"
+  ],
+  "29": [
+    "Table method"
+  ],
+  "30": [
+    "Vertical division"
+  ],
+  "31": [
+    "Off balance sheet division calculation"
+  ],
+  "32": [
+    "Find the general term for arithmetic sequences"
+  ],
+  "33": [
+    "Sum of arithmetic sequences"
+  ],
+  "34": [
+    "Integer number of good friends"
+  ],
+  "35": [
+    "Application of the Middle Theorem"
+  ],
+  "36": [
+    "Multiplication and division offset"
+  ],
+  "37": [
+    "Calculate tolerances for arithmetic sequences"
+  ],
+  "38": [
+    "Extraction of common divisor for integer division (ordinary type)"
+  ],
+  "39": [
+    "The Minesweeper game"
+  ],
+  "40": [
+    "Rectangular Count"
+  ],
+  "41": [
+    "square"
+  ],
+  "42": [
+    "Closed tree planting type issue (with more than 10 segments)"
+  ],
+  "43": [
+    "Understand line segments"
+  ],
+  "44": [
+    "Line segment count"
+  ],
+  "45": [
+    "Interval issue"
+  ],
+  "46": [
+    "Type of tree planting at both ends (with more than 10 segments)"
+  ],
+  "47": [
+    "Planting trees on one end"
+  ],
+  "48": [
+    "Bell ringing issue"
+  ],
+  "49": [
+    "The issue of planting trees at both ends"
+  ],
+  "50": [
+    "Multiplication application (rhyme)"
+  ],
+  "51": [
+    "The problem of not planting trees at both ends (with a segment size of less than or equal to 10)"
+  ],
+  "52": [
+    "The problem of not planting trees at both ends"
+  ],
+  "53": [
+    "Planting trees at both ends"
+  ],
+  "54": [
+    "Climbing stairs problem"
+  ],
+  "55": [
+    "The problem of basic arrangement cycle"
+  ],
+  "56": [
+    "Single variable restoration problem"
+  ],
+  "57": [
+    "Period in dates"
+  ],
+  "58": [
+    "Inverse operation"
+  ],
+  "59": [
+    "Multi quantity restoration problem"
+  ],
+  "60": [
+    "Restore problem"
+  ],
+  "61": [
+    "Two quantity restoration problem"
+  ],
+  "62": [
+    "Unified problem"
+  ],
+  "63": [
+    "Divide by half"
+  ],
+  "64": [
+    "Single person simple itinerary issue"
+  ],
+  "65": [
+    "Double normalization problem"
+  ],
+  "66": [
+    "Rectangular perimeter formula"
+  ],
+  "67": [
+    "triangle"
+  ],
+  "68": [
+    "Logical drawing"
+  ],
+  "69": [
+    "The cycle of numbers"
+  ],
+  "70": [
+    "Directly apply the formula to calculate the unit price"
+  ],
+  "71": [
+    "Compound bar chart"
+  ],
+  "72": [
+    "Simple analysis of data"
+  ],
+  "73": [
+    "Computational solution"
+  ],
+  "74": [
+    "Single object bar chart"
+  ],
+  "75": [
+    "Multiple object bar chart"
+  ],
+  "76": [
+    "bar chart"
+  ],
+  "77": [
+    "Simple Statistical Table"
+  ],
+  "78": [
+    "Two dimensional tolerance and rejection"
+  ],
+  "79": [
+    "Flexible grouping"
+  ],
+  "80": [
+    "Using grouping method to solve the problem of basic chicken and rabbit in the same cage"
+  ],
+  "81": [
+    "Prototype question"
+  ],
+  "82": [
+    "Three measures of tolerance and rejection"
+  ],
+  "83": [
+    "Digital Comprehensive Issues"
+  ],
+  "84": [
+    "Principle of tolerance and repulsion"
+  ],
+  "85": [
+    "Page number issue"
+  ],
+  "86": [
+    "Number of page numbers"
+  ],
+  "87": [
+    "The concept of parallelogram"
+  ],
+  "88": [
+    "The formula for the area of a parallelogram"
+  ],
+  "89": [
+    "Using area to calculate perimeter"
+  ],
+  "90": [
+    "Understand right angled trapezoids"
+  ],
+  "91": [
+    "The method for calculating the area of a quadrilateral with two diagonal lines perpendicular to each other"
+  ],
+  "92": [
+    "The formula for the area of a trapezoid"
+  ],
+  "93": [
+    "Formula method for calculating trapezoidal area"
+  ],
+  "94": [
+    "Overlay coverage"
+  ],
+  "95": [
+    "Seeking area in reverse"
+  ],
+  "96": [
+    "Calculate speed directly using a formula"
+  ],
+  "97": [
+    "Characteristics of parallelogram corners"
+  ],
+  "98": [
+    "Trapezoidal area formula"
+  ],
+  "99": [
+    "Depart simultaneously"
+  ],
+  "100": [
+    "Simple itinerary problem for two people"
+  ],
+  "101": [
+    "Depart at different times and travel in opposite directions"
+  ],
+  "102": [
+    "Practical application"
+  ],
+  "103": [
+    "logic analysis"
+  ],
+  "104": [
+    "Starting simultaneously and heading towards each other"
+  ],
+  "105": [
+    "Calculate the distance directly using a formula"
+  ],
+  "106": [
+    "The addition and subtraction rules of odd and even numbers"
+  ],
+  "107": [
+    "Departing at different times"
+  ],
+  "108": [
+    "The application of odd and even numbers"
+  ],
+  "109": [
+    "Mixed calculation of odd and even numbers"
+  ],
+  "110": [
+    "The parity of sum and product"
+  ],
+  "111": [
+    "Constructing numbers using the law of parity"
+  ],
+  "112": [
+    "Multiplication vertical puzzle"
+  ],
+  "113": [
+    "Dividing features of the tail number system"
+  ],
+  "114": [
+    "Eliminate initial acquaintance"
+  ],
+  "115": [
+    "Characteristics of multiples of 3"
+  ],
+  "116": [
+    "Application of the Dividing Characteristics of Harmony Series"
+  ],
+  "117": [
+    "Understanding odd and even numbers"
+  ],
+  "118": [
+    "Division vertical puzzle"
+  ],
+  "119": [
+    "Off table multiplication calculation"
+  ],
+  "120": [
+    "Additive horizontal form"
+  ],
+  "121": [
+    "special products "
+  ],
+  "122": [
+    "The principle of bit value in integer addition and subtraction arithmetic"
+  ],
+  "123": [
+    "Calculating the known positions of a continuous natural number rectangular number table"
+  ],
+  "124": [
+    "Find the position of known numbers in a continuous natural number rectangular number table"
+  ],
+  "125": [
+    "Sequence and Table of Numbers"
+  ],
+  "126": [
+    "Pancake problem"
+  ],
+  "127": [
+    "Total time problem"
+  ],
+  "128": [
+    "Coordination during transportation"
+  ],
+  "129": [
+    "Distance=speed x time"
+  ],
+  "130": [
+    "Pursuing and meeting together"
+  ],
+  "131": [
+    "Simple integer equation"
+  ],
+  "132": [
+    "Differences in age patterns"
+  ],
+  "133": [
+    "Algebraic formula"
+  ],
+  "134": [
+    "One variable linear equation solving application problems"
+  ],
+  "135": [
+    "Integer coefficient equation"
+  ],
+  "136": [
+    "Encountering problems, seeking distance and"
+  ],
+  "137": [
+    "Solving application problems with equations"
+  ],
+  "138": [
+    "The shortest route"
+  ],
+  "139": [
+    "Square perimeter"
+  ],
+  "140": [
+    "Cleverly find the circumference"
+  ],
+  "141": [
+    "The perimeter of an irregular polygon"
+  ],
+  "142": [
+    "Number of numerical groups (non repeating)"
+  ],
+  "143": [
+    "Find the maximum value using enumeration method"
+  ],
+  "144": [
+    "Number of card decks"
+  ],
+  "145": [
+    "Vertical numerical puzzle with graphic and textual addition"
+  ],
+  "146": [
+    "Vertical multiplication"
+  ],
+  "147": [
+    "First, unify, then summarize"
+  ],
+  "148": [
+    "Directly calculate the average"
+  ],
+  "149": [
+    "General type comprehensive question"
+  ],
+  "150": [
+    "Weighted average"
+  ],
+  "151": [
+    "Mean problem"
+  ],
+  "152": [
+    "Score addition and subtraction"
+  ],
+  "153": [
+    "The nature of fractions"
+  ],
+  "154": [
+    "The significance of scores"
+  ],
+  "155": [
+    "Tree diagram"
+  ],
+  "156": [
+    "Graphic cycle"
+  ],
+  "157": [
+    "Circular operation cycle issue"
+  ],
+  "158": [
+    "Cycle in a circle"
+  ],
+  "159": [
+    "Find patterns in sequence and fill in numbers"
+  ],
+  "160": [
+    "The multiplication law of odd and even numbers"
+  ],
+  "161": [
+    "The distributive law of clever integer multiplication"
+  ],
+  "162": [
+    "Allocation laws such as integer division and clever operations"
+  ],
+  "163": [
+    "Commercial invariance property"
+  ],
+  "164": [
+    "Clever calculation of integer multiplication and division method"
+  ],
+  "165": [
+    "Formula method for calculating the area of a rectangle or square"
+  ],
+  "166": [
+    "Two quantities and double"
+  ],
+  "167": [
+    "Twice the quantity"
+  ],
+  "168": [
+    "Multiple quantities and multiples"
+  ],
+  "169": [
+    "The practical application of division"
+  ],
+  "170": [
+    "Given the multiple relationship between two quantities and the sum of the two quantities, calculate the two quantities"
+  ],
+  "171": [
+    "Given the multiple relationship between two quantities and one quantity, calculate the multiple quantities"
+  ],
+  "172": [
+    "Non integer multiples, difference multiples, remaining"
+  ],
+  "173": [
+    "Non integer multiples, insufficient difference multiples"
+  ],
+  "174": [
+    "Quantity difference multiple"
+  ],
+  "175": [
+    "The problem of difference and multiplication"
+  ],
+  "176": [
+    "What is the ratio of change in application questions"
+  ],
+  "177": [
+    "Given the multiple relationship between two quantities and the difference between them, calculate the two quantities"
+  ],
+  "178": [
+    "The practical application of subtraction"
+  ],
+  "179": [
+    "Integer difference multiple"
+  ],
+  "180": [
+    "Dark difference type double difference problem"
+  ],
+  "181": [
+    "Distinguish between Big Moon and Small Moon"
+  ],
+  "182": [
+    "Calculate the day of the week"
+  ],
+  "183": [
+    "Odd order magic square filling method"
+  ],
+  "184": [
+    "Date period in rectangular number table"
+  ],
+  "185": [
+    "Transforming Illusion Square"
+  ],
+  "186": [
+    "Retrieve information from statistical charts"
+  ],
+  "187": [
+    "One stroke judgment"
+  ],
+  "188": [
+    "The application of a single stroke"
+  ],
+  "189": [
+    "Unequal transformation equals (no graph)"
+  ],
+  "190": [
+    "Standard Six Palaces"
+  ],
+  "191": [
+    "Understand right angles, acute angles, and obtuse angles"
+  ],
+  "192": [
+    "Cognition of angles"
+  ],
+  "193": [
+    "Writing with multiple decimal places"
+  ],
+  "194": [
+    "Comparing the size of multiple decimal places"
+  ],
+  "195": [
+    "Decimal addition and subtraction vertical calculation"
+  ],
+  "196": [
+    "Decimal ratio size"
+  ],
+  "197": [
+    "Counting units for decimals (decimal places, percentiles, thousandths)"
+  ],
+  "198": [
+    "Calculation of angles"
+  ],
+  "199": [
+    "Using special angles to calculate angles"
+  ],
+  "200": [
+    "Basic relationship and differences in age issues"
+  ],
+  "201": [
+    "Classification enumeration method number graph"
+  ],
+  "202": [
+    "Age and"
+  ],
+  "203": [
+    "The sum of age issues multiplied by type"
+  ],
+  "204": [
+    "Four mixed operations"
+  ],
+  "205": [
+    "Add parentheses"
+  ],
+  "206": [
+    "Required symbol type"
+  ],
+  "207": [
+    "24 o'clock game"
+  ],
+  "208": [
+    "Basic types of profit and loss, profit and loss issues"
+  ],
+  "209": [
+    "Special points or areas"
+  ],
+  "210": [
+    "Profit and loss issues"
+  ],
+  "211": [
+    "Exactly divided"
+  ],
+  "212": [
+    "Loss problem"
+  ],
+  "213": [
+    "Addition and disassembly (specified number)"
+  ],
+  "214": [
+    "Addition and disassembly (application)"
+  ],
+  "215": [
+    "Given a number of points, things are divided"
+  ],
+  "216": [
+    "Addition and division (not exactly the same number)"
+  ],
+  "217": [
+    "Splitting numbers can be repeated"
+  ],
+  "218": [
+    "Number of permutations"
+  ],
+  "219": [
+    "unlimited"
+  ],
+  "220": [
+    "Addition and subtraction rounding synthesis"
+  ],
+  "221": [
+    "Minghe Mingcha"
+  ],
+  "222": [
+    "Queuing problem"
+  ],
+  "223": [
+    "Other types in the principle of addition"
+  ],
+  "224": [
+    "Simple column equation solving application problems"
+  ],
+  "225": [
+    "Parallelogram area formula"
+  ],
+  "226": [
+    "Understand the base and height of a parallelogram"
+  ],
+  "227": [
+    "Formula method for calculating the area of a parallelogram"
+  ],
+  "228": [
+    "Rising number (falling number)"
+  ],
+  "229": [
+    "Number of matchsticks arranged"
+  ],
+  "230": [
+    "Matchstick swing formula"
+  ],
+  "231": [
+    "Subtractive vertical puzzle"
+  ],
+  "232": [
+    "Additive vertical puzzle"
+  ],
+  "233": [
+    "Commutative law of multiplication"
+  ],
+  "234": [
+    "Integer multiplication operation"
+  ],
+  "235": [
+    "Law of multiplication combination"
+  ],
+  "236": [
+    "Mixed operations of four integers"
+  ],
+  "237": [
+    "Constructing distributive laws using the method of splitting numbers"
+  ],
+  "238": [
+    "Don't wait to change, don't wait (give more)"
+  ],
+  "239": [
+    "Age difference"
+  ],
+  "240": [
+    "Age axis"
+  ],
+  "241": [
+    "rectangle"
+  ],
+  "242": [
+    "Comprehensive Conversion"
+  ],
+  "243": [
+    "Item matching (with special requirements)"
+  ],
+  "244": [
+    "Principle of multiplication"
+  ],
+  "245": [
+    "Basic Applications of Arrangement"
+  ],
+  "246": [
+    "Arrangement synthesis"
+  ],
+  "247": [
+    "Rule cutting and splicing rule graphics (without grids)"
+  ],
+  "248": [
+    "Mixed operation of integer multiplication and division"
+  ],
+  "249": [
+    "Ordinary type"
+  ],
+  "250": [
+    "Find regular definitions for new operations"
+  ],
+  "251": [
+    "Basic operations of Gaussian notation"
+  ],
+  "252": [
+    "Calculate the number of terms in an arithmetic sequence"
+  ],
+  "253": [
+    "Practical application of arithmetic sequence"
+  ],
+  "254": [
+    "Graphic pattern"
+  ],
+  "255": [
+    "Arithmetic sequence"
+  ],
+  "256": [
+    "Other dyes"
+  ],
+  "257": [
+    "Basic Problems of Solid Matrix"
+  ],
+  "258": [
+    "Addition or subtraction of solid square matrix"
+  ],
+  "259": [
+    "Square Problem"
+  ],
+  "260": [
+    "Basic problems of hollow square matrix"
+  ],
+  "261": [
+    "Addition or subtraction of hollow square matrix"
+  ],
+  "262": [
+    "knockout"
+  ],
+  "263": [
+    "one-cycle match"
+  ],
+  "264": [
+    "2-1-0 points system"
+  ],
+  "265": [
+    "Quantity and difference issues"
+  ],
+  "266": [
+    "The Four Quantity Relationship in Division"
+  ],
+  "267": [
+    "The double problem"
+  ],
+  "268": [
+    "Know less and seek more"
+  ],
+  "269": [
+    "Application Problems of Solving Binary Linear Equations with Integer Coefficients"
+  ],
+  "270": [
+    "Copy the wrong number to obtain the result, find the correct one"
+  ],
+  "271": [
+    "The issue of periodicity in time"
+  ],
+  "272": [
+    "General problem"
+  ],
+  "273": [
+    "Hide conditions"
+  ],
+  "274": [
+    "Leg fold shape"
+  ],
+  "275": [
+    "Using grouping method to solve the problem of deformed chickens and rabbits in the same cage"
+  ],
+  "276": [
+    "Head fold type"
+  ],
+  "277": [
+    "Formula method"
+  ],
+  "278": [
+    "Formula method for calculating meeting time"
+  ],
+  "279": [
+    "Single speed transmission issue"
+  ],
+  "280": [
+    "Starting from the same location at the same time, turning back and encountering each other"
+  ],
+  "281": [
+    "Half model of any quadrilateral"
+  ],
+  "282": [
+    "Two people meet and pursue problems"
+  ],
+  "283": [
+    "Dividing features of the He system"
+  ],
+  "284": [
+    "Addition and subtraction of multi digit numbers"
+  ],
+  "285": [
+    "Multiplication of Multiple Numbers"
+  ],
+  "286": [
+    "Constructing allocation laws using integer division method"
+  ],
+  "287": [
+    "Integer disassembly, patching, and rounding"
+  ],
+  "288": [
+    "Location relationship"
+  ],
+  "289": [
+    "Cup flipping issue"
+  ],
+  "290": [
+    "Simple time management problem"
+  ],
+  "291": [
+    "Each point is not equivalent"
+  ],
+  "292": [
+    "Train passing by"
+  ],
+  "293": [
+    "Multiple people meet and pursue problems"
+  ],
+  "294": [
+    "Item substitution"
+  ],
+  "295": [
+    "Given how many times (less) and how many portions there are between two quantities, find one portion"
+  ],
+  "296": [
+    "Given the number of times (less) and one portion between two quantities, calculate the multiple portions"
+  ],
+  "297": [
+    "Fundamentals of Equations"
+  ],
+  "298": [
+    "Using equations to solve application problems in the form of profit and loss problems"
+  ],
+  "299": [
+    "Ladder type numbering method"
+  ],
+  "300": [
+    "List all possible routes"
+  ],
+  "301": [
+    "Ordered enumeration"
+  ],
+  "302": [
+    "Wugong Kenken Sudoku"
+  ],
+  "303": [
+    "Arrange and combine"
+  ],
+  "304": [
+    "Passing type recursion"
+  ],
+  "305": [
+    "Calculate the average of tolerance and exclusion"
+  ],
+  "306": [
+    "Number of numerical groups (repeatable)"
+  ],
+  "307": [
+    "Cycle issue"
+  ],
+  "308": [
+    "Division application"
+  ],
+  "309": [
+    "Using formulas to calculate efficiency for individual work"
+  ],
+  "310": [
+    "Sawing wood type issue"
+  ],
+  "311": [
+    "Type of tree planting at both ends (with segments less than or equal to 10)"
+  ],
+  "312": [
+    "Give a few numbers and use enumeration to find the number of digits that make up the number of digits"
+  ],
+  "313": [
+    "General group size issue"
+  ],
+  "314": [
+    "Payment method enumeration"
+  ],
+  "315": [
+    "Given each number, take the average"
+  ],
+  "316": [
+    "Addition and subtraction of fractions with different denominators"
+  ],
+  "317": [
+    "Common denominator"
+  ],
+  "318": [
+    "Law of combination of integer multiplication"
+  ],
+  "319": [
+    "Integer utilizing product/quotient invariance property"
+  ],
+  "320": [
+    "Area Conversion "
+  ],
+  "321": [
+    "Length Conversion "
+  ],
+  "322": [
+    "The practical application of addition"
+  ],
+  "323": [
+    "The problem of double quantity and double quantity"
+  ],
+  "324": [
+    "The problem of excess and multiplication"
+  ],
+  "325": [
+    "Two times the difference in quantity"
+  ],
+  "326": [
+    "Square perimeter formula"
+  ],
+  "327": [
+    "Calculation module"
+  ],
+  "328": [
+    "Cycle in Time"
+  ],
+  "329": [
+    "What day of the week is a certain date"
+  ],
+  "330": [
+    "Magic Square Number Relationship"
+  ],
+  "331": [
+    "Line selection calculation type"
+  ],
+  "332": [
+    "Even order magic square filling method"
+  ],
+  "333": [
+    "Calculate the average"
+  ],
+  "334": [
+    "Combination module"
+  ],
+  "335": [
+    "Multi stroke application"
+  ],
+  "336": [
+    "Variant question"
+  ],
+  "337": [
+    "Using fake methods to solve the problem of inverted chicken and rabbit cages"
+  ],
+  "338": [
+    "Geometry module"
+  ],
+  "339": [
+    "Using fake methods to solve the problem of deformed chickens and rabbits in the same cage"
+  ],
+  "340": [
+    "Understanding decimals"
+  ],
+  "341": [
+    "Subtractive Vertical"
+  ],
+  "342": [
+    "Additive vertical"
+  ],
+  "343": [
+    "Understanding numbers, digits, and numerical concepts"
+  ],
+  "344": [
+    "Judgment of Angle"
+  ],
+  "345": [
+    "Conversion substitution"
+  ],
+  "346": [
+    "Equal relationship"
+  ],
+  "347": [
+    "Equivalent substitution transfer type"
+  ],
+  "348": [
+    "Substitution operation"
+  ],
+  "349": [
+    "Letter represents number"
+  ],
+  "350": [
+    "Use letters to represent quantity relationships (a+bx)"
+  ],
+  "351": [
+    "Use letters to represent quantity relationships (ax+bx)"
+  ],
+  "352": [
+    "Yingying problem"
+  ],
+  "353": [
+    "Multiplication and division"
+  ],
+  "354": [
+    "Multiplication and Splitting (Application)"
+  ],
+  "355": [
+    "Integer Splitting Application"
+  ],
+  "356": [
+    "Fill in symbols on both sides"
+  ],
+  "357": [
+    "Addition and division (no requirement)"
+  ],
+  "358": [
+    "Extract common factor"
+  ],
+  "359": [
+    "Find darkness and"
+  ],
+  "360": [
+    "The practical application of combining numbers and shapes"
+  ],
+  "361": [
+    "Formula method for calculating the area of a triangle"
+  ],
+  "362": [
+    "Triangle area"
+  ],
+  "363": [
+    "Division with remainder"
+  ],
+  "364": [
+    "The relationship between remainder and divisor"
+  ],
+  "365": [
+    "Definition of perimeter"
+  ],
+  "366": [
+    "Given the edge length, calculate the perimeter"
+  ],
+  "367": [
+    "Number of groups with special requirements"
+  ],
+  "368": [
+    "Find the cycle pattern in the calendar"
+  ],
+  "369": [
+    "Distinguish between leap years and regular years"
+  ],
+  "370": [
+    "Dark doubling type binary difference doubling problem"
+  ],
+  "371": [
+    "Draw a statistical table"
+  ],
+  "372": [
+    "Calculation of rectangular area after side length change"
+  ],
+  "373": [
+    "Formula for calculating the area of a rectangle"
+  ],
+  "374": [
+    "Multiple strokes become one stroke"
+  ],
+  "375": [
+    "Double entry statistical table"
+  ],
+  "376": [
+    "Total price=Unit price x Quantity"
+  ],
+  "377": [
+    "Application of addition and subtraction"
+  ],
+  "378": [
+    "Factor and multiplier basis"
+  ],
+  "379": [
+    "Provide the calculation method and result, and find the beginning"
+  ],
+  "380": [
+    "Using special angles to find angles"
+  ],
+  "381": [
+    "Sequence pattern"
+  ],
+  "382": [
+    "The law of decimal point movement"
+  ],
+  "383": [
+    "The movement of decimal points"
+  ],
+  "384": [
+    "Conversion of Yuan, Jiao, and Fen units"
+  ],
+  "385": [
+    "Combining numbers and graphs to find patterns (multi graph)"
+  ],
+  "386": [
+    "Classification graphics"
+  ],
+  "387": [
+    "Basic types of profit and loss"
+  ],
+  "388": [
+    "Grouping method for integer addition and subtraction"
+  ],
+  "389": [
+    "Integer benchmark method"
+  ],
+  "390": [
+    "Integer subtraction property"
+  ],
+  "391": [
+    "The mental calculation of subtracting ten digits from two digits"
+  ],
+  "392": [
+    "Combination number"
+  ],
+  "393": [
+    "The greatest common factor of the majority"
+  ],
+  "394": [
+    "The overall idea of seeking area"
+  ],
+  "395": [
+    "Subtraction of Text and Text in Vertical Numerical Puzzle"
+  ],
+  "396": [
+    "Vertical numerical puzzle"
+  ],
+  "397": [
+    "Integer complement construction"
+  ],
+  "398": [
+    "Directly apply the distributive law to integers"
+  ],
+  "399": [
+    "Classification of lines, rays, and segments"
+  ],
+  "400": [
+    "Understanding line segments, straight lines, and rays"
+  ],
+  "401": [
+    "The difference between brightness and darkness"
+  ],
+  "402": [
+    "Straight lines and intersection points"
+  ],
+  "403": [
+    "Combining numbers and graphs to find patterns (single graph)"
+  ],
+  "404": [
+    "Comprehensive problem of hollow square matrix"
+  ],
+  "405": [
+    "Comprehensive problem of solid matrix"
+  ],
+  "406": [
+    "Judgment of leap year and peace year for non whole century years"
+  ],
+  "407": [
+    "Application question module"
+  ],
+  "408": [
+    "Convert objects into items"
+  ],
+  "409": [
+    "Integral feature synthesis"
+  ],
+  "410": [
+    "Understanding of multiples"
+  ],
+  "411": [
+    "Characteristics of multiples of 2"
+  ],
+  "412": [
+    "Characteristics of multiples of 5"
+  ],
+  "413": [
+    "Operational law"
+  ],
+  "414": [
+    "Several times"
+  ],
+  "415": [
+    "The Transformation of Age Issues"
+  ],
+  "416": [
+    "Gradually adjust one's thinking"
+  ],
+  "417": [
+    "The idea of combining numbers and shapes"
+  ],
+  "418": [
+    "Numerical operations"
+  ],
+  "419": [
+    "Inverse solution of unknown type"
+  ],
+  "420": [
+    "Basic Problems of Triangular Array"
+  ],
+  "421": [
+    "Optimizing the time for multiple people to do one thing"
+  ],
+  "422": [
+    "Each point is equivalent"
+  ],
+  "423": [
+    "Payment method under preferential conditions"
+  ],
+  "424": [
+    "Simple drawer principle"
+  ],
+  "425": [
+    "Least favorable principle"
+  ],
+  "426": [
+    "Principle of structural drawer"
+  ],
+  "427": [
+    "Graphic Sudoku"
+  ],
+  "428": [
+    "Renting a boat, renting a car, and offering the most suitable prices for both large and small vehicles"
+  ],
+  "429": [
+    "The idea of combining numbers and shapes"
+  ],
+  "430": [
+    "Multiple application questions"
+  ],
+  "431": [
+    "Number of digits"
+  ],
+  "432": [
+    "average"
+  ],
+  "433": [
+    "The inverse proportion in the itinerary"
+  ],
+  "434": [
+    "And unchanged"
+  ],
+  "435": [
+    "3-1-0 points system"
+  ],
+  "436": [
+    "Calculation of Money"
+  ],
+  "437": [
+    "Quantity rate corresponds to unit 1"
+  ],
+  "438": [
+    "Square sequence"
+  ],
+  "439": [
+    "Integer proportional sequence"
+  ],
+  "440": [
+    "Fibonacci sequence recursion"
+  ],
+  "441": [
+    "Graph facet recursion"
+  ],
+  "442": [
+    "parallelogram"
+  ],
+  "443": [
+    "Line to surface recursion"
+  ],
+  "444": [
+    "Cut pizza"
+  ],
+  "445": [
+    "Second-order arithmetic sequence"
+  ],
+  "446": [
+    "Combining numbers and shapes to find patterns"
+  ],
+  "447": [
+    "Parallelogram area"
+  ],
+  "448": [
+    "Understanding quadrilaterals"
+  ],
+  "449": [
+    "Basic zoom"
+  ],
+  "450": [
+    "Simultaneous doubling of two quantities"
+  ],
+  "451": [
+    "Application of trapezoidal area formula"
+  ],
+  "452": [
+    "Divide the graphics equally"
+  ],
+  "453": [
+    "Problem of meeting multiple people"
+  ],
+  "454": [
+    "Inductive recursion"
+  ],
+  "455": [
+    "Magnification problem"
+  ],
+  "456": [
+    "logical reasoning"
+  ],
+  "457": [
+    "Assuming that chickens and rabbits are in the same cage"
+  ],
+  "458": [
+    "Construction and argumentation"
+  ],
+  "459": [
+    "Application of differential system partitioning features"
+  ],
+  "460": [
+    "The maximum value in the tail number system"
+  ],
+  "461": [
+    "The Dividing Characteristics of Basic Composite Numbers"
+  ],
+  "462": [
+    "The two allocation objects are different"
+  ],
+  "463": [
+    "Solving proportional problems using equation method"
+  ],
+  "464": [
+    "Graphic translation and rotation"
+  ],
+  "465": [
+    "Complex proportion problem"
+  ],
+  "466": [
+    "Calculate the perimeter of composite irregular shapes"
+  ],
+  "467": [
+    "Solving Profit and Loss Problems with Equation Method"
+  ],
+  "468": [
+    "Inverted type"
+  ],
+  "469": [
+    "Understanding of Triangles"
+  ],
+  "470": [
+    "The issue of planting trees on closed roads"
+  ],
+  "471": [
+    "Route traversal"
+  ],
+  "472": [
+    "The properties of decimals"
+  ],
+  "473": [
+    "Decimal Reading and Writing Rules"
+  ],
+  "474": [
+    "The counting unit of decimals"
+  ],
+  "475": [
+    "Multiple strokes"
+  ],
+  "476": [
+    "Simple multiplication and clever calculation"
+  ],
+  "477": [
+    "Number of digits (specified digit size)"
+  ],
+  "478": [
+    "Optimal limit method"
+  ],
+  "479": [
+    "Segmentation and splicing"
+  ],
+  "480": [
+    "Small careless question type"
+  ],
+  "481": [
+    "Parity of Harmony"
+  ],
+  "482": [
+    "data processing"
+  ],
+  "483": [
+    "Directly use formulas to calculate quantities"
+  ],
+  "484": [
+    "Statistical charts"
+  ],
+  "485": [
+    "Triangular trilateration (the sum of the two sides is greater than the third side)"
+  ],
+  "486": [
+    "an isosceles triangle"
+  ],
+  "487": [
+    "Polygon interior angles and"
+  ],
+  "488": [
+    "Integer division operation"
+  ],
+  "489": [
+    "Multiple times the quantity"
+  ],
+  "490": [
+    "Given the multiple relationship between two quantities and multiple quantities, find one quantity"
+  ],
+  "491": [
+    "magic square"
+  ],
+  "492": [
+    "Inverse application of parallelogram area formula"
+  ],
+  "493": [
+    "Estimation with remainder division"
+  ],
+  "494": [
+    "Classification Discussion Ideas"
+  ],
+  "495": [
+    "Unequal transformation equals (with figure)"
+  ],
+  "496": [
+    "Given the face value, calculate the possible composition"
+  ],
+  "497": [
+    "The significance of division"
+  ],
+  "498": [
+    "Get to know Unit 1"
+  ],
+  "499": [
+    "Four Palace Killer Sudoku"
+  ],
+  "500": [
+    "Folding and unfolding graphics"
+  ],
+  "501": [
+    "Adjacent numbers are only filled with plus sign groups"
+  ],
+  "502": [
+    "Using the translation method to calculate the circumference of a composite shape"
+  ],
+  "503": [
+    "Principle of addition and multiplication"
+  ],
+  "504": [
+    "Application of parallelogram area formula"
+  ],
+  "505": [
+    "Solving other problems using equation method"
+  ],
+  "506": [
+    "Shaking hands and toasting issues"
+  ],
+  "507": [
+    "Integer division property"
+  ],
+  "508": [
+    "Formula for calculating the area of a square"
+  ],
+  "509": [
+    "Inverse formula for square area"
+  ],
+  "510": [
+    "Dark magnification and magnification issues"
+  ],
+  "511": [
+    "What day of the week is it in a few more days"
+  ],
+  "512": [
+    "Accumulated Illusion Formula"
+  ],
+  "513": [
+    "Single object line chart"
+  ],
+  "514": [
+    "Composite line chart"
+  ],
+  "515": [
+    "Calculate the area of a string graph"
+  ],
+  "516": [
+    "Rotating cutting to supplement the area"
+  ],
+  "517": [
+    "Decimal addition operation"
+  ],
+  "518": [
+    "Comparing decimal sizes"
+  ],
+  "519": [
+    "Triangle internal and external angles"
+  ],
+  "520": [
+    "horn"
+  ],
+  "521": [
+    "Related to multiples"
+  ],
+  "522": [
+    "Harmony problem"
+  ],
+  "523": [
+    "Truncation and summation of arithmetic sequences"
+  ],
+  "524": [
+    "Use letters to represent the quantity relationship ax"
+  ],
+  "525": [
+    "The power of product"
+  ],
+  "526": [
+    "Clever operator filling"
+  ],
+  "527": [
+    "Square area"
+  ],
+  "528": [
+    "Composition and read-write of numbers within 1000"
+  ],
+  "529": [
+    "The rounding method of integer addition and subtraction"
+  ],
+  "530": [
+    "Compare the size of one decimal place"
+  ],
+  "531": [
+    "Direct angle calculation"
+  ],
+  "532": [
+    "Using equations in the form of sum difference multiple problems to solve application problems"
+  ],
+  "533": [
+    "Simple periodic pattern"
+  ],
+  "534": [
+    "Find the quantity"
+  ],
+  "535": [
+    "Using fake methods to solve the problem of basic chicken and rabbit in the same cage"
+  ],
+  "536": [
+    "Understanding of Non Divisional Scores"
+  ],
+  "537": [
+    "Unit conversion"
+  ],
+  "538": [
+    "Convert decimals to fractions"
+  ],
+  "539": [
+    "Convert fractions to decimals"
+  ],
+  "540": [
+    "Decimal addition and subtraction"
+  ],
+  "541": [
+    "Decimal disassembly and rounding"
+  ],
+  "542": [
+    "Given time, find angle"
+  ],
+  "543": [
+    "Number of angles"
+  ],
+  "544": [
+    "Equilateral triangle counting"
+  ],
+  "545": [
+    "Grid point construction number graph"
+  ],
+  "546": [
+    "Triangle Counting"
+  ],
+  "547": [
+    "The age difference remains unchanged"
+  ],
+  "548": [
+    "Power operation of power"
+  ],
+  "549": [
+    "The multiplication operation of power"
+  ],
+  "550": [
+    "Complete Square Formula"
+  ],
+  "551": [
+    "The principle of decimal addition and subtraction in terms of positional values"
+  ],
+  "552": [
+    "Positive application of square difference formula"
+  ],
+  "553": [
+    "Reverse application of square difference formula"
+  ],
+  "554": [
+    "Integer substitution method"
+  ],
+  "555": [
+    "Given a small grid, calculate the perimeter"
+  ],
+  "556": [
+    "Find the multiple relationship"
+  ],
+  "557": [
+    "Use the multiplication mnemonic of 2-5 to find the quotient"
+  ],
+  "558": [
+    "Concept and Classification of Parallelograms"
+  ],
+  "559": [
+    "Penwise multiplication: multiplying two digits by two digits (without carrying)"
+  ],
+  "560": [
+    "Find the quotient using the multiplication mnemonic of 6"
+  ],
+  "561": [
+    "Non numeric arrangement"
+  ],
+  "562": [
+    "Penile multiplication: multiplying two digits by two digits (carry)"
+  ],
+  "563": [
+    "Three digit number multiplied by two digit number"
+  ],
+  "564": [
+    "Penwise multiplication: multiplying three digits by two digits"
+  ],
+  "565": [
+    "Closed tree planting type issue (number of segments less than or equal to 10)"
+  ],
+  "566": [
+    "Don't wait to change, don't wait"
+  ],
+  "567": [
+    "Quantity difference problem"
+  ],
+  "568": [
+    "Remainder problem with remainder division"
+  ],
+  "569": [
+    "Integer division"
+  ],
+  "570": [
+    "The difference remains unchanged"
+  ],
+  "571": [
+    "Multi stroke judgment"
+  ],
+  "572": [
+    "Using equations to solve application problems in the form of age problems"
+  ],
+  "573": [
+    "Mixed operations of power"
+  ],
+  "574": [
+    "Using letters to represent operational laws and formulas"
+  ],
+  "575": [
+    "Multiple sequence"
+  ],
+  "576": [
+    "Enumeration method"
+  ],
+  "577": [
+    "Multiple digits divided by multiple digits"
+  ],
+  "578": [
+    "graphics translations "
+  ],
+  "579": [
+    "Hypothesis method for determining truth and falsehood"
+  ],
+  "580": [
+    "The correspondence between numbers and page numbers"
+  ],
+  "581": [
+    "Number of Numbers Application"
+  ],
+  "582": [
+    "Programmatic computation"
+  ],
+  "583": [
+    "Oral multiplication: multiplying a hundred whole numbers by one digit"
+  ],
+  "584": [
+    "The Application of Integer Special Numbers"
+  ],
+  "585": [
+    "The relationship between the number of trees and intervals"
+  ],
+  "586": [
+    "Problem of not planting trees at both ends (with more than 10 segments)"
+  ],
+  "587": [
+    "Preliminary understanding of flat graphics"
+  ],
+  "588": [
+    "Characteristics of square corners"
+  ],
+  "589": [
+    "Rule graphics collage rule graphics"
+  ],
+  "590": [
+    "Basic Applications of Combination"
+  ],
+  "591": [
+    "Change one of the numbers and find a new average"
+  ],
+  "592": [
+    "Quantity rate corresponds to finding unit one"
+  ],
+  "593": [
+    "The simplest score"
+  ],
+  "594": [
+    "Addition of fractions with different denominators"
+  ],
+  "595": [
+    "What percentage of the whole does a part make up"
+  ],
+  "596": [
+    "Cut the rope"
+  ],
+  "597": [
+    "Repetition of graphics"
+  ],
+  "598": [
+    "Grid type"
+  ],
+  "599": [
+    "Deformation of the Four Palaces Region"
+  ],
+  "600": [
+    "Simple Sudoku game"
+  ],
+  "601": [
+    "Formula within 20 groups"
+  ],
+  "602": [
+    "Mixed operations of decimal addition and subtraction"
+  ],
+  "603": [
+    "Division calculation within the table"
+  ],
+  "604": [
+    "One end tree planting type issue (with segments less than or equal to 10)"
+  ],
+  "605": [
+    "Symmetric games"
+  ],
+  "606": [
+    "The properties of equations"
+  ],
+  "607": [
+    "Conversion of units for square centimeters, square decimeters, and square meters"
+  ],
+  "608": [
+    "Record data using the \"positive\" character method"
+  ],
+  "609": [
+    "Given the changes in length and width, calculate the change in area"
+  ],
+  "610": [
+    "Number of line segments"
+  ],
+  "611": [
+    "Integer multiplication allocation law"
+  ],
+  "612": [
+    "The concept of arithmetic sequence"
+  ],
+  "613": [
+    "Cleverly fill in parentheses"
+  ],
+  "614": [
+    "Remainder feature"
+  ],
+  "615": [
+    "Oral multiplication: multiplying two digits by two digits (without carrying)"
+  ],
+  "616": [
+    "Know 0"
+  ],
+  "617": [
+    "Given the time it takes to saw into certain segments, calculate the time it takes to saw into other segments"
+  ],
+  "618": [
+    "Dictionary sorting method"
+  ],
+  "619": [
+    "Simple cycle calculation"
+  ],
+  "620": [
+    "Understand the unit of area"
+  ],
+  "621": [
+    "The contour model is being applied multiple times"
+  ],
+  "622": [
+    "Judgment of Parallelograms"
+  ],
+  "623": [
+    "Reverse thinking"
+  ],
+  "624": [
+    "Line statistical chart"
+  ],
+  "625": [
+    "Geometric counting with multiple tolerance and repulsion"
+  ],
+  "626": [
+    "Addition and subtraction application rhyme"
+  ],
+  "627": [
+    "The sum of interior angles of a polygon"
+  ],
+  "628": [
+    "Using the translation method to calculate the circumference"
+  ],
+  "629": [
+    "Application of tail removal method based on actual situation"
+  ],
+  "630": [
+    "Polynomial combination of graphic area"
+  ],
+  "631": [
+    "One end tree planting issue"
+  ],
+  "632": [
+    "The problem of not planting trees at both ends"
+  ],
+  "633": [
+    "Planting trees on both ends and planting types on both sides"
+  ],
+  "634": [
+    "Comparison of Non Divisional Scores"
+  ],
+  "635": [
+    "One end tree planting type issue (with more than 10 segments)"
+  ],
+  "636": [
+    "The problem of chickens and rabbits in the same cage"
+  ],
+  "637": [
+    "Two assumptions"
+  ],
+  "638": [
+    "Special Number Series"
+  ],
+  "639": [
+    "Arithmetic sequence and estimation"
+  ],
+  "640": [
+    "Manual division: Divide three digits by two digits"
+  ],
+  "641": [
+    "The equation only needs to be filled with a plus minus sign"
+  ],
+  "642": [
+    "Given the product, find the factor"
+  ],
+  "643": [
+    "Other graphic segmentation"
+  ],
+  "644": [
+    "Truth or falsehood"
+  ],
+  "645": [
+    "List method to find corresponding"
+  ],
+  "646": [
+    "Counting by adding lines"
+  ],
+  "647": [
+    "The common factor in multiple digits"
+  ],
+  "648": [
+    "Multi digit operations and numerical correlations"
+  ],
+  "649": [
+    "Find the known position of the arithmetic sequence rectangular number table"
+  ],
+  "650": [
+    "Find the position of known numbers in a rectangular number table of arithmetic sequences"
+  ],
+  "651": [
+    "Line deletion method for counting"
+  ],
+  "652": [
+    "Half of a rectangular model"
+  ],
+  "653": [
+    "Comprehensive application of area formula"
+  ],
+  "654": [
+    "Application of Triangle Area Formula"
+  ],
+  "655": [
+    "One stroke"
+  ],
+  "656": [
+    "Standard Four Palaces"
+  ],
+  "657": [
+    "Integer addition operation"
+  ],
+  "658": [
+    "Addition subtraction subtraction method"
+  ],
+  "659": [
+    "Using the law of parity to construct equations"
+  ],
+  "660": [
+    "Solve the equation: ax+b=c of this type"
+  ],
+  "661": [
+    "Basic relationship of age issue"
+  ],
+  "662": [
+    "Translation of geometric ideas"
+  ],
+  "663": [
+    "Rotation of geometric ideas"
+  ],
+  "664": [
+    "The area of an irregular polygon"
+  ],
+  "665": [
+    "The practical application of multiplication"
+  ],
+  "666": [
+    "Simultaneously addressing issues"
+  ],
+  "667": [
+    "Score splitting"
+  ],
+  "668": [
+    "General summary"
+  ],
+  "669": [
+    "Recursive determination of line points"
+  ],
+  "670": [
+    "Trapezoidal area"
+  ],
+  "671": [
+    "Operational issues"
+  ],
+  "672": [
+    "The number of split scores is uncertain"
+  ],
+  "673": [
+    "Touch the ball"
+  ],
+  "674": [
+    "Addition and division (specified number)"
+  ],
+  "675": [
+    "The practical application of point and line layout"
+  ],
+  "676": [
+    "The maximum value of point and line layout"
+  ],
+  "677": [
+    "Inclusion and exclusion criteria (non overlapping)"
+  ],
+  "678": [
+    "The problem of unification and generalization"
+  ],
+  "679": [
+    "Water intake and drainage issues"
+  ],
+  "680": [
+    "Convert to perimeter issues such as vegetable gardens and fences"
+  ],
+  "681": [
+    "Procedural flow type"
+  ],
+  "682": [
+    "Graphic cognitive angle"
+  ],
+  "683": [
+    "Counting and the Mystery of Numbers"
+  ],
+  "684": [
+    "Enumeration idea"
+  ],
+  "685": [
+    "Waiting for the high model to be applied once"
+  ],
+  "686": [
+    "Connecting baskets (barrels, bottles, etc.) with items (without considering the weight of baskets, barrels, bottles, etc.)"
+  ],
+  "687": [
+    "The difference between darkness and brightness"
+  ],
+  "688": [
+    "Cut, supplement, and translate to calculate the area of a polygon"
+  ],
+  "689": [
+    "Point determination line recursion"
+  ],
+  "690": [
+    "Calculate the total number of rectangular teams"
+  ],
+  "691": [
+    "Basic Problems of Hexagonal Arrays"
+  ],
+  "692": [
+    "Venn "
+  ],
+  "693": [
+    "Using equations to solve application problems in the form of written questions"
+  ],
+  "694": [
+    "2-0 points system"
+  ],
+  "695": [
+    "The problem of sequence operation cycle"
+  ],
+  "696": [
+    "The application of power"
+  ],
+  "697": [
+    "What is the problem of finding the nth number"
+  ],
+  "698": [
+    "Linear travel problem"
+  ],
+  "699": [
+    "Specific quantity engineering issues"
+  ],
+  "700": [
+    "Dividing features of differential systems"
+  ],
+  "701": [
+    "Application of the Dividing Feature of the Tail Number System"
+  ],
+  "702": [
+    "The determination of odd and even numbers"
+  ],
+  "703": [
+    "Overlapping straight line type"
+  ],
+  "704": [
+    "Decimal basis"
+  ],
+  "705": [
+    "Other variations of Sudoku"
+  ],
+  "706": [
+    "Application problems of solving multivariate linear equations"
+  ],
+  "707": [
+    "Grouping method to separate chickens and rabbits in the same cage"
+  ],
+  "708": [
+    "Black and white dyeing"
+  ],
+  "709": [
+    "Intra table multiplication calculation"
+  ],
+  "710": [
+    "Divide multiple digits by one digit"
+  ],
+  "711": [
+    "Understanding of multiplication"
+  ],
+  "712": [
+    "wrong bus"
+  ],
+  "713": [
+    "Two encounters"
+  ],
+  "714": [
+    "The variation of the circumference of a long square cut and pieced together"
+  ],
+  "715": [
+    "Apply the method of integration based on actual situations"
+  ],
+  "716": [
+    "Multiplication of remainder"
+  ],
+  "717": [
+    "The mutual variation between parallelogram and trapezoid"
+  ],
+  "718": [
+    "Remainder property synthesis"
+  ],
+  "719": [
+    "the measure of area"
+  ],
+  "720": [
+    "Reverse doubling type two quantity difference problem"
+  ],
+  "721": [
+    "Overlapping set type"
+  ],
+  "722": [
+    "Matchstick games"
+  ],
+  "723": [
+    "The Application of the Maximum Principle in Geometry"
+  ],
+  "724": [
+    "Extract the number of card decks"
+  ],
+  "725": [
+    "Given the total number, calculate the average"
+  ],
+  "726": [
+    "Multiplication operation sequence"
+  ],
+  "727": [
+    "Addition and subtraction synthesis"
+  ],
+  "728": [
+    "Number arrangement pattern"
+  ],
+  "729": [
+    "Application of the Dividing Feature of Composite Numbers"
+  ],
+  "730": [
+    "Application problems for solving indefinite equations"
+  ],
+  "731": [
+    "Conversion between horizontal and vertical"
+  ],
+  "732": [
+    "The multiplication of 7"
+  ],
+  "733": [
+    "Division with 0 in the middle"
+  ],
+  "734": [
+    "Penwise division: dividing two digits by one digit"
+  ],
+  "735": [
+    "Oral division: dividing two digits by one digit"
+  ],
+  "736": [
+    "Product invariant property"
+  ],
+  "737": [
+    "Classification of Scores"
+  ],
+  "738": [
+    "Direct split between two scores"
+  ],
+  "739": [
+    "Last digit"
+  ],
+  "740": [
+    "Construct parallel lines"
+  ],
+  "741": [
+    "decimal"
+  ],
+  "742": [
+    "Four decimal operations"
+  ],
+  "743": [
+    "Equal height model"
+  ],
+  "744": [
+    "The maximum value problem of multiple tolerance and rejection"
+  ],
+  "745": [
+    "Corresponding normal number graph"
+  ],
+  "746": [
+    "Encountering problems and seeking speed from one party"
+  ],
+  "747": [
+    "Encountering back and forth"
+  ],
+  "748": [
+    "Shape cognition parallelogram"
+  ],
+  "749": [
+    "Convert to issues related to the area of vegetable gardens, fences, etc"
+  ],
+  "750": [
+    "Given the unit one and partial quantity, calculate the fraction (percentage)"
+  ],
+  "751": [
+    "Grouping method"
+  ],
+  "752": [
+    "Square in the middle, circle in the middle"
+  ],
+  "753": [
+    "Dark and Dark Difference"
+  ],
+  "754": [
+    "The maximum value of the product of two numbers"
+  ],
+  "755": [
+    "Numerical method"
+  ],
+  "756": [
+    "Simultaneously depart and walk backwards"
+  ],
+  "757": [
+    "Variable magnification type two quantity difference problem"
+  ],
+  "758": [
+    "distributive law "
+  ],
+  "759": [
+    "Group combination"
+  ],
+  "760": [
+    "Nail board drawing graphics"
+  ],
+  "761": [
+    "code"
+  ],
+  "762": [
+    "Time calculation"
+  ],
+  "763": [
+    "Multi digit subtraction"
+  ],
+  "764": [
+    "Principles of Symbolic Mathematics"
+  ],
+  "765": [
+    "Understand the unit of length"
+  ],
+  "766": [
+    "Given the current age of the two individuals, calculate how many years later (before) they will be n times older"
+  ],
+  "767": [
+    "Understand the base and height of a trapezoid"
+  ],
+  "768": [
+    "Given the unit one and partial quantity, calculate the fraction"
+  ],
+  "769": [
+    "The number of zeros at the end of the product"
+  ],
+  "770": [
+    "Equilateral triangle"
+  ],
+  "771": [
+    "Classification of Triangles"
+  ],
+  "772": [
+    "Solving the equation: a (x-b)=c of this type"
+  ],
+  "773": [
+    "Multiplication with 0 at the end"
+  ],
+  "774": [
+    "Manual division: Divide three digits by one digit"
+  ],
+  "775": [
+    "Additivity of remainder"
+  ],
+  "776": [
+    "Finding patterns for remainder"
+  ],
+  "777": [
+    "Classification of flat graphics"
+  ],
+  "778": [
+    "Mutual conversion of single and multiple statistical tables"
+  ],
+  "779": [
+    "The concept of trapezoid"
+  ],
+  "780": [
+    "direction"
+  ],
+  "781": [
+    "Construct grid points"
+  ],
+  "782": [
+    "Square and rectangle"
+  ],
+  "783": [
+    "solid square "
+  ],
+  "784": [
+    "Standard method"
+  ],
+  "785": [
+    "Integer splitting"
+  ],
+  "786": [
+    "Travel speed and time"
+  ],
+  "787": [
+    "Remainder problem"
+  ],
+  "788": [
+    "The upper base, lower base, and height of a trapezoid"
+  ],
+  "789": [
+    "Replacing a scale with an object on one side"
+  ],
+  "790": [
+    "Replacing a balance with multiple objects on one side"
+  ],
+  "791": [
+    "Convert text into formula substitution"
+  ],
+  "792": [
+    "Equivalent substitution addition and subtraction type"
+  ],
+  "793": [
+    "Connecting baskets (barrels, bottles, etc.) with items (considering the weight of baskets, barrels, bottles, etc.)"
+  ],
+  "794": [
+    "Clip and push pin issues"
+  ],
+  "795": [
+    "Subtractive Horizontal Form"
+  ],
+  "796": [
+    "Enumeration of possibilities for match scores"
+  ],
+  "797": [
+    "Calculation of time"
+  ],
+  "798": [
+    "time conversion "
+  ],
+  "799": [
+    "Combining numbers with letters"
+  ],
+  "800": [
+    "Take an approximate value"
+  ],
+  "801": [
+    "The relationship between the middle term and the first and last terms"
+  ],
+  "802": [
+    "Standard number method"
+  ],
+  "803": [
+    "Cleverly fill in the maximum value in the operator"
+  ],
+  "804": [
+    "Comprehensive application of parallelogram properties"
+  ],
+  "805": [
+    "Symmetrically dividing the area of a parallelogram into equal parts at the center"
+  ],
+  "806": [
+    "Reverse use of high model"
+  ],
+  "807": [
+    "Bird Head Model"
+  ],
+  "808": [
+    "Additive indeterminate equation"
+  ],
+  "809": [
+    "Comparative logical reasoning"
+  ],
+  "810": [
+    "Given the length width relationship, calculate the circumference"
+  ],
+  "811": [
+    "Interconversion between bases"
+  ],
+  "812": [
+    "Binary application"
+  ],
+  "813": [
+    "Binary multiplication and division operations"
+  ],
+  "814": [
+    "Chain discount"
+  ],
+  "815": [
+    "Fractional substitution method"
+  ],
+  "816": [
+    "Complex score calculation"
+  ],
+  "817": [
+    "Overall approximation"
+  ],
+  "818": [
+    "Directly extract the common factor/formula"
+  ],
+  "819": [
+    "straight line"
+  ],
+  "820": [
+    "Tree planting issue"
+  ],
+  "821": [
+    "Rounding up"
+  ],
+  "822": [
+    "Draw using a triangle and protractor"
+  ],
+  "823": [
+    "Draw an angle of a specified degree"
+  ],
+  "824": [
+    "Find a consensus (accomplice)"
+  ],
+  "825": [
+    "Equation method for solving chicken and rabbit in the same cage"
+  ],
+  "826": [
+    "Counting module"
+  ],
+  "827": [
+    "Grouping method for decimal addition and subtraction"
+  ],
+  "828": [
+    "Subtracting decimals with the same ending"
+  ],
+  "829": [
+    "Direct substitution"
+  ],
+  "830": [
+    "Decimal base method"
+  ],
+  "831": [
+    "Odd and even point problem"
+  ],
+  "832": [
+    "The application of decimal \"good friend number\""
+  ],
+  "833": [
+    "Horizontal movement (able to draw)"
+  ],
+  "834": [
+    "Cutting and assembling regular graphics along the line (with grids)"
+  ],
+  "835": [
+    "Differential multiple"
+  ],
+  "836": [
+    "The maximum value of the horizontal numerical puzzle"
+  ],
+  "837": [
+    "Basic cooperation issues"
+  ],
+  "838": [
+    "Basic type"
+  ],
+  "839": [
+    "Move more and make up for less"
+  ],
+  "840": [
+    "Composition of different face values for a given total price"
+  ],
+  "841": [
+    "Directly apply the formula to calculate the total price"
+  ],
+  "842": [
+    "Quantity rate corresponds to known unit 1"
+  ],
+  "843": [
+    "Given the average of certain quantities, calculate the average of the population pairs"
+  ],
+  "844": [
+    "Cuboids and cubes"
+  ],
+  "845": [
+    "Extraction of common divisors in decimal division (ordinary type)"
+  ],
+  "846": [
+    "Hollow square matrix"
+  ],
+  "847": [
+    "Equivalent substitution type"
+  ],
+  "848": [
+    "Plane geometry machining"
+  ],
+  "849": [
+    "Convert fractions to decimals"
+  ],
+  "850": [
+    "Number Bridge"
+  ],
+  "851": [
+    "The circumference and area of a diamond shape"
+  ],
+  "852": [
+    "Identify other directions based on one direction"
+  ],
+  "853": [
+    "Multiplying two digits by one digit (consecutive carry)"
+  ],
+  "854": [
+    "Multiplying three digits by one digit (multiplication with zeros in the middle)"
+  ],
+  "855": [
+    "Comparison and selection plan for group tickets, adult tickets, and student tickets"
+  ],
+  "856": [
+    "Estimation of division operation results"
+  ],
+  "857": [
+    "Application of multiplication and division method"
+  ],
+  "858": [
+    "The pattern on the clock"
+  ],
+  "859": [
+    "Age issue"
+  ],
+  "860": [
+    "Find the values of parameters from the solution of a quadratic equation"
+  ],
+  "861": [
+    "Definition of a quadratic equation with one variable"
+  ],
+  "862": [
+    "Defining the values of parameters by a quadratic equation"
+  ],
+  "863": [
+    "Given the time to reach a certain floor, calculate the time to reach other floors"
+  ],
+  "864": [
+    "Sum multiple, difference multiple, and sum difference of age problem types"
+  ]
+}
