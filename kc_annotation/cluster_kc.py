@@ -67,9 +67,9 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Cluster KCs using HDBSCAN.")
     parser.add_argument('--path_kc_questions_map', type=str, help="Path to the KC questions map JSON file.", 
-                        default='/home/xiongzj/myProjects/KCQRL-main/data/XES3G5M/metadata/kc_questions_map_original_kc.json')
+                        default='/home/xiongzj/myProjects/KCQRL-main/data/moocradar-C_746997/metadata/kc_questions_map.json')
     parser.add_argument('--write_path', type=str, help="Path to write the clustered KC questions map JSON file.", 
-                        default='/home/xiongzj/myProjects/KCQRL-main/data/XES3G5M/metadata/kc_clusters_hdbscan_original_kc.json')
+                        default='/home/xiongzj/myProjects/KCQRL-main/data/moocradar-C_746997/metadata/kc_clusters_hdbscan.json')
     args = parser.parse_args()
 
     main(args)

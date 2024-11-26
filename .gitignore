@@ -10,3 +10,5 @@ kc_annotation/all-mpnet-base-v2
 representation_learning/logs
 representation_learning/wandb
 /representation_learning/*.json
+embs
+emb_models

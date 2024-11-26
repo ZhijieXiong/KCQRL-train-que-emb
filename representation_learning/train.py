@@ -48,13 +48,13 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Train a model on Math Dataset")
     parser.add_argument('--json_file_dataset', type=str,
-                        default="../data/XES3G5M/metadata/questions_translated_kc_sol_annotated_mapped.json",
+                        default="../data/moocradar-C_746997/metadata/questions_translated_kc_sol_annotated_mapped.json",
                         help='Path to the JSON file containing the dataset')
     parser.add_argument('--json_file_cluster_kc', type=str,
-                        default="../data/XES3G5M/metadata/kc_clusters_hdbscan.json",
+                        default="../data/moocradar-C_746997/metadata/kc_clusters_hdbscan.json",
                         help='Path to the JSON file containing KC cluster mappings')
     parser.add_argument('--json_file_kc_questions', type=str,
-                        default="../data/XES3G5M/metadata/kc_questions_map.json",
+                        default="../data/moocradar-C_746997/metadata/kc_questions_map.json",
                         help='Path to the JSON file mapping KCs to question IDs')
     parser.add_argument('--batch_size', type=int, default=32, help='Training batch size')
     parser.add_argument('--eval_batch_size', type=int, default=256, help='Evaluation batch size')
@@ -72,7 +72,7 @@ if __name__ == '__main__':
     parser.add_argument('--no_cuda', action='store_true', help='Disable CUDA even if available')
     parser.add_argument('--disable_clusters', action='store_true', help='Disable the false negative elimination from clustering.')
     parser.add_argument('--wandb_project_name', type=str,
-                        default="KCQRL",
+                        default="KCQRL-moocradar-C_746997",
                         help='Name of the Wandb project to track the experiments.')
     
     args = parser.parse_args()

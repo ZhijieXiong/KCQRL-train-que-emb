@@ -1,0 +1,6221 @@
+{
+  "Unidirectional conductivity of diodes": [
+    0
+  ],
+  "Forward and reverse characteristics of diodes": [
+    0
+  ],
+  "Evaluating diode performance based on forward and reverse currents": [
+    0
+  ],
+  "Interpreting diode characteristic curves": [
+    0
+  ],
+  "Comparing diode specifications for optimal selection": [
+    0
+  ],
+  "Diode characteristics": [
+    1,
+    2
+  ],
+  "Unidirectional conductivity": [
+    1
+  ],
+  "Forward current": [
+    1
+  ],
+  "Reverse current": [
+    1
+  ],
+  "Voltage-current relationship in diodes": [
+    1
+  ],
+  "Silicon diode forward voltage": [
+    2
+  ],
+  "Germanium diode forward voltage": [
+    2
+  ],
+  "Reverse current in silicon diode": [
+    2
+  ],
+  "Reverse current in germanium diode": [
+    2
+  ],
+  "Ohm's Law": [
+    3,
+    26,
+    27,
+    31,
+    49,
+    75,
+    129,
+    164,
+    186,
+    187,
+    211,
+    217,
+    219,
+    260,
+    261,
+    284,
+    289,
+    293,
+    294
+  ],
+  "Direct proportionality between current and voltage": [
+    3
+  ],
+  "Effect of temperature on resistance": [
+    3
+  ],
+  "Inverse proportionality between current and resistance": [
+    3
+  ],
+  "Bipolar Junction Transistor (BJT) operation": [
+    4
+  ],
+  "Saturation region of BJT": [
+    4
+  ],
+  "Active region of BJT": [
+    4
+  ],
+  "Cutoff region of BJT": [
+    4
+  ],
+  "Forward-biased junction": [
+    4
+  ],
+  "Reverse-biased junction": [
+    4
+  ],
+  "Temperature effects on semiconductor materials": [
+    5,
+    7
+  ],
+  "Germanium vs Silicon transistor characteristics": [
+    5
+  ],
+  "Bipolar Junction Transistor (BJT) operating regions": [
+    5
+  ],
+  "Transistor temperature sensitivity": [
+    5
+  ],
+  "Temperature effects on semiconductors": [
+    6
+  ],
+  "Charge carrier mobility": [
+    6
+  ],
+  "Base current and collector current relationship": [
+    6
+  ],
+  "Current amplification factor β definition": [
+    6
+  ],
+  "Minority carrier concentration in semiconductors": [
+    7
+  ],
+  "Collector-emitter saturation current (ICEO) in transistors": [
+    7
+  ],
+  "Semiconductor physics": [
+    8
+  ],
+  "Thermal energy effects on semiconductors": [
+    8
+  ],
+  "Potential barrier in p-n junctions": [
+    8
+  ],
+  "Carrier concentration in semiconductors": [
+    8
+  ],
+  "Behavior of diodes and transistors with temperature": [
+    8
+  ],
+  "Base-emitter junction characteristics": [
+    8,
+    72,
+    73
+  ],
+  "Temperature dependence of transistor parameters": [
+    8
+  ],
+  "Transistor characteristics": [
+    9,
+    10,
+    11,
+    35,
+    36,
+    80,
+    217,
+    303,
+    478
+  ],
+  "Temperature effects on transistors": [
+    9,
+    10,
+    11,
+    80
+  ],
+  "Base-emitter voltage (Vbe) relationship with temperature": [
+    9
+  ],
+  "Forward input characteristic curve of a transistor": [
+    9
+  ],
+  "Base-emitter voltage (Vbe)": [
+    10,
+    11,
+    80
+  ],
+  "Collector current (Ic)": [
+    10,
+    11,
+    80
+  ],
+  "Output characteristic curve of a transistor": [
+    10
+  ],
+  "Base current (Ib)": [
+    11,
+    80
+  ],
+  "Output characteristic curves of a transistor": [
+    11
+  ],
+  "Directly coupled amplifier circuit": [
+    12,
+    433
+  ],
+  "Coupling capacitors": [
+    12,
+    376
+  ],
+  "AC and DC components in signals": [
+    12
+  ],
+  "RC coupling in amplifiers": [
+    13
+  ],
+  "Capacitors block DC and allow AC": [
+    13
+  ],
+  "Transistor biasing in amplifier circuits": [
+    13
+  ],
+  "Load resistor in amplifier circuits": [
+    13
+  ],
+  "Direct coupling amplifier circuits can amplify both DC and AC signals": [
+    14
+  ],
+  "Amplifier circuits are designed to pass both types of signals without blocking": [
+    14
+  ],
+  "Capacitor function in circuits": [
+    15
+  ],
+  "AC and DC signals": [
+    15
+  ],
+  "Capacitive reactance": [
+    15,
+    374,
+    375,
+    390,
+    393
+  ],
+  "Frequency and capacitance relationship": [
+    15
+  ],
+  "Short circuit concept in electronics": [
+    15
+  ],
+  "Direct Coupled Amplifier Circuit": [
+    16,
+    17
+  ],
+  "RC Coupled Amplifier Circuit": [
+    16,
+    17
+  ],
+  "Amplification of DC Signals": [
+    16
+  ],
+  "Capacitive Coupling": [
+    16
+  ],
+  "Phase Shift in Amplifiers": [
+    16,
+    409
+  ],
+  "DC Level Maintenance": [
+    16
+  ],
+  "Sine Wave Signal Amplification": [
+    17
+  ],
+  "Capacitors in Amplifier Circuits": [
+    17
+  ],
+  "DC and AC Signal Handling": [
+    17
+  ],
+  "Amplification Circuit Basics": [
+    18,
+    430
+  ],
+  "Signal Fidelity in Amplifiers": [
+    18
+  ],
+  "Transistor Operation in Circuits": [
+    18
+  ],
+  "Input and Output Signal Relationship in Transistors": [
+    18
+  ],
+  "Load and Power Supply Considerations in Amplifiers": [
+    18
+  ],
+  "Transistor operation in cutoff region": [
+    19
+  ],
+  "Base-emitter junction forward biasing": [
+    19
+  ],
+  "Common-emitter amplifier configuration": [
+    19,
+    21,
+    22,
+    28
+  ],
+  "Input loop in amplifiers": [
+    19
+  ],
+  "Cutoff distortion in transistors": [
+    19
+  ],
+  "Transistor operation in saturation region": [
+    20,
+    22,
+    24
+  ],
+  "Common-emitter amplifier characteristics": [
+    20,
+    209,
+    377,
+    388
+  ],
+  "Output signal clipping in amplifiers": [
+    20
+  ],
+  "Graphical analysis of transistor circuits": [
+    20
+  ],
+  "Load line analysis in transistor circuits": [
+    20
+  ],
+  "Transistor operation regions": [
+    21,
+    33,
+    140,
+    185,
+    365
+  ],
+  "Cutoff distortion in amplifiers": [
+    21
+  ],
+  "Base-emitter voltage (VBE)": [
+    21
+  ],
+  "Forward biasing conditions": [
+    21
+  ],
+  "Effect of VBB on transistor biasing": [
+    21
+  ],
+  "Role of collector resistance (RC) in amplifier circuits": [
+    22
+  ],
+  "Q-point and its effect on amplifier performance": [
+    22
+  ],
+  "Biasing conditions in transistor amplifiers": [
+    22
+  ],
+  "Saturation distortion in transistor amplifiers": [
+    22
+  ],
+  "Dynamic range in amplifiers": [
+    22
+  ],
+  "Input signal amplitude and its effect on distortion": [
+    22
+  ],
+  "Graphical method for distortion analysis": [
+    23
+  ],
+  "Common-emitter amplifier circuit": [
+    23,
+    239,
+    389
+  ],
+  "Input and output waveforms": [
+    23
+  ],
+  "Transistor operation nonlinearity": [
+    23
+  ],
+  "Base-emitter voltage control in amplifiers": [
+    24
+  ],
+  "Collector-emitter voltage control in amplifiers": [
+    24
+  ],
+  "Role of biasing resistors in transistor circuits": [
+    24
+  ],
+  "Effect of changing VBB on base current": [
+    24
+  ],
+  "Effect of changing RC on collector voltage": [
+    24
+  ],
+  "Transistor regions and states": [
+    25
+  ],
+  "DC voltmeter usage": [
+    25
+  ],
+  "Cutoff region characteristics": [
+    25
+  ],
+  "Active (amplification) region characteristics": [
+    25
+  ],
+  "Saturation region characteristics": [
+    25
+  ],
+  "Transistor damage indicators": [
+    25
+  ],
+  "Voltage Divider Rule": [
+    26,
+    27,
+    49,
+    164,
+    211,
+    260,
+    261
+  ],
+  "Input Resistance of Amplifiers": [
+    26
+  ],
+  "Effect of Input Resistance on Signal Attenuation": [
+    26
+  ],
+  "Output Resistance Impact on Signal Amplification": [
+    27
+  ],
+  "Biasing network in transistor circuits": [
+    28
+  ],
+  "Coupling capacitors in amplifier circuits": [
+    28
+  ],
+  "AC signal amplification in transistor circuits": [
+    28
+  ],
+  "Transistor operating regions": [
+    28,
+    64
+  ],
+  "Transistor operation principles": [
+    29,
+    312
+  ],
+  "Base current and transistor damage": [
+    29
+  ],
+  "Circuit amplification basics": [
+    29
+  ],
+  "Short circuit effects on circuits": [
+    29
+  ],
+  "Power supply polarity in circuits": [
+    29
+  ],
+  "DC path in circuits": [
+    30,
+    421
+  ],
+  "AC path in circuits": [
+    30
+  ],
+  "Capacitors in DC and AC circuits": [
+    30
+  ],
+  "Power supply in AC analysis": [
+    30
+  ],
+  "Transistor output characteristics": [
+    31
+  ],
+  "β (current gain) definition": [
+    31
+  ],
+  "Relationship between IBQ and ICQ": [
+    31
+  ],
+  "Voltage divider rule": [
+    31,
+    344
+  ],
+  "Collector-emitter voltage calculation": [
+    31
+  ],
+  "Voltage in circuits": [
+    32
+  ],
+  "Reading and interpreting voltage values": [
+    32
+  ],
+  "Understanding multiple choice questions in electrical circuits": [
+    32
+  ],
+  "Base current and cutoff": [
+    33
+  ],
+  "Collector current and saturation": [
+    33
+  ],
+  "Resistor values in transistor circuits": [
+    33
+  ],
+  "Cutoff distortion": [
+    33
+  ],
+  "Saturation distortion": [
+    33
+  ],
+  "Power dissipation in transistors": [
+    34
+  ],
+  "Maximum collector dissipation power": [
+    34
+  ],
+  "Excessive voltage in transistors": [
+    34
+  ],
+  "Excessive current in transistors": [
+    34
+  ],
+  "Excessive temperature in transistors": [
+    34
+  ],
+  "Common-emitter configuration": [
+    35,
+    94,
+    117,
+    118,
+    120
+  ],
+  "DC current gain": [
+    35
+  ],
+  "AC current gain": [
+    35
+  ],
+  "Ideal transistor assumptions": [
+    35,
+    217
+  ],
+  "Collector-emitter voltage": [
+    36
+  ],
+  "Maximum ratings of transistors": [
+    36
+  ],
+  "Avalanche breakdown": [
+    36
+  ],
+  "Transistor current gain": [
+    37,
+    366,
+    368
+  ],
+  "Characteristic frequency fT": [
+    37
+  ],
+  "Frequency response of transistors": [
+    37
+  ],
+  "Transistor input resistance rbe is a dynamic parameter": [
+    38
+  ],
+  "rbe varies with the static operating point": [
+    38
+  ],
+  "Dynamic parameters are affected by static conditions in amplification circuits": [
+    38
+  ],
+  "Voltage gain definition": [
+    39
+  ],
+  "Quiescent operating point definition": [
+    39
+  ],
+  "Biasing conditions in amplifiers": [
+    39
+  ],
+  "Effect of quiescent operating point on amplifier gain": [
+    39
+  ],
+  "Static operating point (Q-point)": [
+    40,
+    76
+  ],
+  "Amplifier circuit operation": [
+    40
+  ],
+  "Dynamic parameters of an amplifier": [
+    40
+  ],
+  "Signal amplification and distortion": [
+    40,
+    317
+  ],
+  "Circuit performance and stability": [
+    40
+  ],
+  "Transistor operation in amplification state": [
+    41,
+    322
+  ],
+  "Base-emitter voltage is relatively constant": [
+    41
+  ],
+  "Effect of resistor change on voltage drop": [
+    41
+  ],
+  "Relationship between base voltage and base current": [
+    41
+  ],
+  "Impact of base current on static current IBQ": [
+    41
+  ],
+  "Voltage Gain": [
+    42,
+    106,
+    200,
+    471
+  ],
+  "Resistance in Circuit": [
+    42
+  ],
+  "Direct Proportionality": [
+    42
+  ],
+  "Understanding of input resistance in circuits": [
+    43
+  ],
+  "Knowledge of how component changes affect circuit parameters": [
+    43
+  ],
+  "Ability to interpret the effect of circuit modifications on input resistance": [
+    43
+  ],
+  "Circuit Configuration": [
+    44,
+    178
+  ],
+  "Components Influence on Resistance": [
+    44
+  ],
+  "Parallel Combination of Resistors": [
+    44
+  ],
+  "Bypass Element Effect": [
+    44
+  ],
+  "Output Resistance Calculation": [
+    44
+  ],
+  "Transistor Characteristics": [
+    45,
+    48
+  ],
+  "Base-Emitter Voltage Constancy": [
+    45
+  ],
+  "Collector Current Dependence on Resistance": [
+    45
+  ],
+  "Base Current Determination": [
+    45
+  ],
+  "Circuits and Input Resistance": [
+    46
+  ],
+  "External Components in Circuits": [
+    46
+  ],
+  "Internal Configuration of Circuits": [
+    46
+  ],
+  "Effect of Component Changes on Circuit Parameters": [
+    46
+  ],
+  "Transistor biasing": [
+    47,
+    359
+  ],
+  "Small-signal parameters": [
+    47,
+    79
+  ],
+  "Saturation region": [
+    47,
+    147
+  ],
+  "Output resistance calculation": [
+    47,
+    163
+  ],
+  "Effect of biasing on transistor parameters": [
+    47
+  ],
+  "Voltage Amplification Factor": [
+    48,
+    190
+  ],
+  "Circuit Components": [
+    48
+  ],
+  "Resistor Values": [
+    48
+  ],
+  "Circuit Gain": [
+    48
+  ],
+  "Effect of Component Changes on Amplifier Gain": [
+    48
+  ],
+  "Relationship between Base-Emitter Voltage and Base Current in a BJT": [
+    49
+  ],
+  "Relationship between Base Current and Collector Current in a BJT": [
+    49
+  ],
+  "Concept of Static Operating Point in Transistor Circuits": [
+    49
+  ],
+  "Decrease in value": [
+    50
+  ],
+  "Quantitative comparison": [
+    50
+  ],
+  "Internal Resistance in Circuits": [
+    51
+  ],
+  "Current-Voltage Relationship (Ohm's Law)": [
+    51
+  ],
+  "Circuit Analysis Basics": [
+    51
+  ],
+  "Bypass Capacitor Function": [
+    52
+  ],
+  "Resistor Impact on Biasing Conditions": [
+    52
+  ],
+  "Circuit Performance Factors": [
+    52
+  ],
+  "Understanding of fractions and their relationship to the denominator": [
+    53
+  ],
+  "Concept of resistance in electrical circuits": [
+    53
+  ],
+  "Relationship between individual resistances and overall resistance in a circuit": [
+    53
+  ],
+  "Understanding of increase and decrease in numerical values": [
+    54
+  ],
+  "Interpreting statements in context": [
+    54
+  ],
+  "Logical reasoning and deduction": [
+    54
+  ],
+  "Understanding of resistance or impedance": [
+    55
+  ],
+  "Ability to interpret statements about changes in resistance or impedance": [
+    55
+  ],
+  "Ability to refer back to previous information to validate a statement": [
+    55
+  ],
+  "Knowledge of how to determine the truth value of a statement based on given information": [
+    55
+  ],
+  "Transistor operating point stabilization": [
+    56
+  ],
+  "Collector current (ICQ)": [
+    56
+  ],
+  "Collector-emitter voltage (UCEQ)": [
+    56
+  ],
+  "Temperature variations": [
+    56
+  ],
+  "Beta (β) variations": [
+    56
+  ],
+  "Temperature Compensation": [
+    57,
+    58
+  ],
+  "DC Negative Feedback": [
+    57,
+    249
+  ],
+  "Static Operating Point Stability": [
+    57
+  ],
+  "Circuit Design": [
+    58
+  ],
+  "Output Current": [
+    58,
+    82
+  ],
+  "Net Input Current": [
+    58
+  ],
+  "Temperature Variations": [
+    58
+  ],
+  "Stability in Circuit Performance": [
+    58
+  ],
+  "Thermistor behavior": [
+    59
+  ],
+  "Transistor temperature drift": [
+    59
+  ],
+  "Base-emitter voltage temperature dependence": [
+    59
+  ],
+  "Positive Temperature Coefficient definition": [
+    59
+  ],
+  "Temperature Coefficient": [
+    60
+  ],
+  "Transistor Base-Emitter Voltage": [
+    60
+  ],
+  "Thermistors in Circuits": [
+    60
+  ],
+  "Negative Temperature Coefficient": [
+    60
+  ],
+  "Positive Temperature Coefficient": [
+    60
+  ],
+  "DC equivalent model of a transistor": [
+    61
+  ],
+  "Static operating point analysis": [
+    61
+  ],
+  "Biasing conditions": [
+    61
+  ],
+  "Active region of operation": [
+    61
+  ],
+  "Transistor DC equivalent model": [
+    62
+  ],
+  "Input circuit modeling in transistors": [
+    62
+  ],
+  "High resistance in transistor input circuits": [
+    62
+  ],
+  "Small signal voltage source in transistor models": [
+    62
+  ],
+  "Transistor DC Equivalent Model": [
+    63
+  ],
+  "Current-Controlled Current Source": [
+    63
+  ],
+  "Voltage-Controlled Current Source": [
+    63
+  ],
+  "Bipolar Junction Transistor (BJT)": [
+    63
+  ],
+  "Field-Effect Transistor (FET)": [
+    63
+  ],
+  "Transistor external characteristics": [
+    64
+  ],
+  "DC equivalent model construction": [
+    64
+  ],
+  "V-I curves": [
+    64
+  ],
+  "h-parameter equivalent model": [
+    65,
+    67
+  ],
+  "small-signal analysis": [
+    65,
+    67
+  ],
+  "dynamic analysis": [
+    65
+  ],
+  "amplifier circuit": [
+    65
+  ],
+  "transistor behavior": [
+    65,
+    67
+  ],
+  "h-parameter model": [
+    66,
+    69
+  ],
+  "low-frequency small-signal analysis": [
+    66
+  ],
+  "parasitic elements": [
+    66
+  ],
+  "capacitances": [
+    66
+  ],
+  "high-frequency small-signal analysis": [
+    66
+  ],
+  "voltage gain calculation": [
+    67
+  ],
+  "directly coupled amplifier circuit analysis": [
+    67
+  ],
+  "Solving for static operating point in electronic circuits": [
+    68
+  ],
+  "DC biasing conditions": [
+    68
+  ],
+  "Setting up and solving systems of equations in circuits": [
+    68
+  ],
+  "Understanding transistors and their operation": [
+    68
+  ],
+  "Interpreting multiple-choice questions in electronics": [
+    68
+  ],
+  "Transistor operation": [
+    69,
+    128,
+    212,
+    306,
+    313,
+    448
+  ],
+  "Base-emitter resistance": [
+    69
+  ],
+  "Collector-base current relationship": [
+    69
+  ],
+  "Voltage gain in a common-emitter amplifier": [
+    70
+  ],
+  "Parallel resistance calculation": [
+    70
+  ],
+  "Effect of load resistance on voltage gain": [
+    70
+  ],
+  "Knowledge of output resistance in electronic circuits": [
+    71
+  ],
+  "Understanding of how output resistance can change in different scenarios": [
+    71
+  ],
+  "Input resistance of a common-emitter amplifier": [
+    72
+  ],
+  "Biasing resistors in a common-emitter amplifier": [
+    72
+  ],
+  "Load independence in amplifier circuits": [
+    72
+  ],
+  "Input resistance in amplifiers": [
+    73,
+    131
+  ],
+  "Transistor biasing resistors": [
+    73
+  ],
+  "Signal source internal resistance independence": [
+    73
+  ],
+  "Output resistance definition": [
+    74
+  ],
+  "Circuit characteristics independence from external components": [
+    74
+  ],
+  "Transistor characteristics (β and rbe)": [
+    75
+  ],
+  "Collector current calculation": [
+    75
+  ],
+  "Voltage drop across resistors": [
+    75
+  ],
+  "Amplifier gain calculation": [
+    75
+  ],
+  "Sinusoidal signal properties": [
+    75
+  ],
+  "RMS value calculation": [
+    75
+  ],
+  "DC analysis methods": [
+    76
+  ],
+  "AC equivalent circuits": [
+    76,
+    242
+  ],
+  "Graphical methods": [
+    76
+  ],
+  "Load lines": [
+    76
+  ],
+  "Graphical methods in mathematics": [
+    77
+  ],
+  "Distortion analysis": [
+    77
+  ],
+  "Visual representation of transformations": [
+    77
+  ],
+  "Quantifying distortions through graphs": [
+    77
+  ],
+  "Understanding of high-frequency and large signal analysis": [
+    78
+  ],
+  "Knowledge of the limitations of certain methods or devices in high-frequency applications": [
+    78
+  ],
+  "AC equivalent circuit method": [
+    79
+  ],
+  "Voltage gain": [
+    79,
+    197,
+    198,
+    239
+  ],
+  "Input resistance": [
+    79,
+    282,
+    353,
+    354,
+    376,
+    484,
+    485
+  ],
+  "Output resistance": [
+    79,
+    354,
+    376
+  ],
+  "DC load line": [
+    80
+  ],
+  "Output characteristic curve": [
+    80
+  ],
+  "Static operating point": [
+    80
+  ],
+  "Temperature effects on semiconductor devices": [
+    81
+  ],
+  "Leakage current in transistors": [
+    81
+  ],
+  "Energy barrier and electron flow in semiconductors": [
+    81
+  ],
+  "Relationship between temperature and reverse saturation current": [
+    81
+  ],
+  "Current Amplification Factor": [
+    82
+  ],
+  "Input Current": [
+    82
+  ],
+  "Negative feedback in transistor circuits": [
+    83
+  ],
+  "Stability of Q point in transistor circuits": [
+    83
+  ],
+  "Effect of Re on amplifier gain": [
+    83
+  ],
+  "Trade-offs in circuit design": [
+    83
+  ],
+  "Understanding of multiple choice questions": [
+    84,
+    188
+  ],
+  "Interpreting given options": [
+    84
+  ],
+  "Identifying the correct answer from options provided": [
+    84
+  ],
+  "Comprehension of numerical values": [
+    84
+  ],
+  "Understanding of numerical values": [
+    85
+  ],
+  "Interpreting multiple choice options": [
+    85,
+    172
+  ],
+  "Identifying the smallest value in a list": [
+    85
+  ],
+  "Understanding of previous context or questions": [
+    86
+  ],
+  "Ability to interpret given options": [
+    86
+  ],
+  "Recognition of final answer from provided solution": [
+    86
+  ],
+  "Understanding of previous question context": [
+    87
+  ],
+  "Basic arithmetic verification": [
+    87
+  ],
+  "Multiple choice selection process": [
+    87
+  ],
+  "Amplifier Gain": [
+    88,
+    93,
+    403
+  ],
+  "Output Signal Relationship": [
+    88
+  ],
+  "Parameter Influence on Amplifier Performance": [
+    88
+  ],
+  "Amplifier operation": [
+    89,
+    297
+  ],
+  "Signal distortion": [
+    89
+  ],
+  "Linear amplification": [
+    89
+  ],
+  "Clipping phenomenon": [
+    89
+  ],
+  "Signal representation accuracy": [
+    89
+  ],
+  "Stability in Systems": [
+    90
+  ],
+  "Robustness of Electrical Circuits": [
+    90
+  ],
+  "Effect of Component Changes on System Behavior": [
+    90
+  ],
+  "Understanding the relationship between parameters and outputs in mathematical functions": [
+    91
+  ],
+  "Interpreting the meaning of \"basically unchanged\" in the context of a function's behavior": [
+    91
+  ],
+  "Evaluating the impact of changes (or lack thereof) in input parameters on the output of a system or function": [
+    91
+  ],
+  "Understanding of basic function behavior": [
+    92
+  ],
+  "Knowledge of how parameters affect function outputs": [
+    92
+  ],
+  "Ability to interpret the meaning of increasing a parameter in a given context": [
+    92
+  ],
+  "Signal Amplification Basics": [
+    93
+  ],
+  "Input and Output Signals Relationship": [
+    93
+  ],
+  "Effect of Gain on Amplifier Performance": [
+    93
+  ],
+  "Transistor configurations": [
+    94,
+    110,
+    112,
+    131,
+    242,
+    303
+  ],
+  "Common-base configuration": [
+    94,
+    118,
+    120,
+    124
+  ],
+  "Common-collector configuration": [
+    94,
+    118,
+    120
+  ],
+  "Voltage gain in transistor amplifiers": [
+    94
+  ],
+  "Quiescent current in transistor circuits": [
+    94
+  ],
+  "AC signal analysis in transistor circuits": [
+    94
+  ],
+  "Comparing numerical values": [
+    95
+  ],
+  "Determining the smallest value among given options": [
+    95
+  ],
+  "Temperature stability in electronic components": [
+    96
+  ],
+  "Interpreting performance characteristics of ICQs": [
+    96
+  ],
+  "Comparing options based on given criteria": [
+    96
+  ],
+  "Voltage gain in amplifiers": [
+    97,
+    161,
+    235,
+    316,
+    319,
+    374,
+    375,
+    410,
+    517
+  ],
+  "Current gain in amplifiers": [
+    97,
+    125,
+    316
+  ],
+  "Power gain in amplifiers": [
+    97
+  ],
+  "Common collector amplifier characteristics": [
+    97,
+    316
+  ],
+  "Circuit Analysis": [
+    98,
+    178,
+    190,
+    228
+  ],
+  "Parallel Resistance Calculation": [
+    98
+  ],
+  "Common Collector Amplifier Characteristics": [
+    98,
+    196
+  ],
+  "Load Effect on Input Resistance": [
+    98
+  ],
+  "High Input Resistance of Common Collector Amplifier": [
+    99
+  ],
+  "Low Output Resistance of Common Collector Amplifier": [
+    99
+  ],
+  "Impedance Matching in Amplifier Stages": [
+    99
+  ],
+  "Emitter Follower Configuration": [
+    99,
+    195
+  ],
+  "Common-collector amplifier configuration": [
+    100
+  ],
+  "Transistor terminals: Base, Collector, Emitter": [
+    100
+  ],
+  "Circuit connections in common-collector configuration": [
+    100
+  ],
+  "Input and output signals in amplifiers": [
+    100
+  ],
+  "The voltage gain of a transistor amplifier is directly proportional to the current gain (β) of the transistor": [
+    101
+  ],
+  "Current gain (β) increase leads to an increase in voltage gain": [
+    101
+  ],
+  "Transistor amplifier circuit operation principles": [
+    101
+  ],
+  "Transistor input resistance formula": [
+    102
+  ],
+  "Effect of β on input resistance": [
+    102
+  ],
+  "Transistor output resistance formula": [
+    103
+  ],
+  "Collector current and beta relationship": [
+    103
+  ],
+  "Base current and beta relationship": [
+    103
+  ],
+  "Transconductance definition": [
+    103,
+    208
+  ],
+  "Effect of transconductance on output resistance": [
+    103
+  ],
+  "Transistor β": [
+    104
+  ],
+  "Common Emitter Transistor Amplifier": [
+    104
+  ],
+  "Voltage Gain Formula": [
+    104
+  ],
+  "Small Signal Analysis": [
+    104
+  ],
+  "Emitter Resistance Calculation": [
+    104
+  ],
+  "Resistor Values in Circuits": [
+    104
+  ],
+  "Approximation in Circuit Analysis": [
+    104
+  ],
+  "Closest Reasonable Estimate Selection": [
+    104
+  ],
+  "Transistor current gain (β)": [
+    105
+  ],
+  "Input resistance of a BJT in common-emitter configuration": [
+    105
+  ],
+  "Internal emitter resistance (r_e)": [
+    105
+  ],
+  "Small-signal model of a BJT": [
+    105
+  ],
+  "Approximation of input resistance using β and R_E": [
+    105
+  ],
+  "Amplifier Circuits": [
+    106,
+    434
+  ],
+  "Common-Emitter Configuration": [
+    106,
+    111
+  ],
+  "Common-Collector Configuration": [
+    106,
+    111,
+    115,
+    122,
+    315
+  ],
+  "Common-Base Configuration": [
+    106,
+    111
+  ],
+  "Current Gain": [
+    106
+  ],
+  "Power Amplification": [
+    106
+  ],
+  "Transistor Amplifier Configurations": [
+    107,
+    108,
+    326
+  ],
+  "Grounding in Transistor Circuits": [
+    107
+  ],
+  "Common Emitter Configuration": [
+    107
+  ],
+  "Common Base Configuration": [
+    107
+  ],
+  "Common Collector Configuration": [
+    107
+  ],
+  "Circuit Connection Analysis": [
+    107
+  ],
+  "Input Resistance in Transistor Circuits": [
+    108
+  ],
+  "Common-Emitter Configuration Characteristics": [
+    108,
+    109,
+    121,
+    123
+  ],
+  "Common-Collector Configuration Characteristics": [
+    108,
+    109,
+    116,
+    121
+  ],
+  "Common-Base Configuration Characteristics": [
+    108,
+    109,
+    121
+  ],
+  "Feedback in Transistor Circuits": [
+    108
+  ],
+  "Input Resistance of Transistor Configurations": [
+    109
+  ],
+  "Miller Effect in Transistors": [
+    109
+  ],
+  "Output resistance of transistor configurations": [
+    110
+  ],
+  "Common-collector configuration characteristics": [
+    110,
+    112
+  ],
+  "Common-emitter configuration characteristics": [
+    110,
+    112
+  ],
+  "Common-base configuration characteristics": [
+    110,
+    112
+  ],
+  "Impedance matching in transistor circuits": [
+    110
+  ],
+  "Amplifier Configurations": [
+    111,
+    114,
+    123
+  ],
+  "Voltage Gain in Amplifiers": [
+    111,
+    113,
+    219,
+    289,
+    326
+  ],
+  "Emitter Follower Characteristics": [
+    111
+  ],
+  "Current gain in transistor configurations": [
+    112
+  ],
+  "Properties of Common-Emitter Amplifier": [
+    113
+  ],
+  "Properties of Common-Base Amplifier": [
+    113
+  ],
+  "Properties of Common-Collector Amplifier": [
+    113
+  ],
+  "Input Impedance in Amplifiers": [
+    113
+  ],
+  "Output Impedance in Amplifiers": [
+    113
+  ],
+  "Voltage Follower Characteristics": [
+    113
+  ],
+  "Current Follower Characteristics": [
+    114
+  ],
+  "Input and Output Impedance": [
+    114
+  ],
+  "Common-Base Configuration Properties": [
+    114
+  ],
+  "Output Impedance": [
+    115,
+    122,
+    315
+  ],
+  "Input Impedance": [
+    115,
+    122,
+    543
+  ],
+  "Load Driving Capability": [
+    115,
+    121
+  ],
+  "Input Impedance of Amplifier Configurations": [
+    116
+  ],
+  "High Input Impedance": [
+    116,
+    196
+  ],
+  "Low Output Impedance": [
+    116,
+    196
+  ],
+  "Current Draw from Signal Source": [
+    116,
+    122
+  ],
+  "Amplifier configurations": [
+    117,
+    120,
+    197,
+    198,
+    452
+  ],
+  "Voltage amplification": [
+    117,
+    457
+  ],
+  "Current amplification": [
+    117,
+    457
+  ],
+  "Input capacitance": [
+    118,
+    124
+  ],
+  "Miller effect": [
+    118,
+    124
+  ],
+  "Parasitic capacitance": [
+    118,
+    177
+  ],
+  "High-frequency performance": [
+    118
+  ],
+  "Properties of common-emitter configuration": [
+    119
+  ],
+  "Properties of common-collector configuration": [
+    119
+  ],
+  "Properties of common-base configuration": [
+    119
+  ],
+  "Voltage follower characteristics": [
+    119
+  ],
+  "Current follower characteristics": [
+    120
+  ],
+  "Input and output impedance characteristics": [
+    120
+  ],
+  "Output Impedance of Amplifier Configurations": [
+    121
+  ],
+  "Emitter Follower Circuit": [
+    122
+  ],
+  "Voltage Amplification": [
+    123
+  ],
+  "Current Amplification": [
+    123
+  ],
+  "High-frequency roll-off": [
+    124
+  ],
+  "Common-base amplifier configuration": [
+    125,
+    128
+  ],
+  "Emitter and collector currents in transistors": [
+    125
+  ],
+  "Base current in transistors": [
+    125
+  ],
+  "Ratios and proportions in electrical circuits": [
+    125
+  ],
+  "Power amplification": [
+    126
+  ],
+  "Transistors": [
+    126,
+    327
+  ],
+  "Operational amplifiers": [
+    126,
+    339
+  ],
+  "Active devices": [
+    126
+  ],
+  "Signal power level increase": [
+    126
+  ],
+  "Knowledge of common-base amplifier configuration": [
+    127
+  ],
+  "Knowledge of transistor terminals (base, emitter, collector)": [
+    127
+  ],
+  "Understanding of circuit common points (common ground)": [
+    127
+  ],
+  "Biasing in transistor circuits": [
+    128
+  ],
+  "Forward biasing": [
+    128
+  ],
+  "Reverse biasing": [
+    128
+  ],
+  "Amplification region in transistors": [
+    128
+  ],
+  "Common Emitter Amplifier Configuration": [
+    129
+  ],
+  "Voltage Gain Formula for Common Emitter Amplifier": [
+    129
+  ],
+  "Transconductance Calculation": [
+    129
+  ],
+  "Base Current and Collector Current Relationship": [
+    129,
+    169
+  ],
+  "Thermal Voltage": [
+    129
+  ],
+  "Collector Resistor Calculation": [
+    129
+  ],
+  "Magnitude of Voltage Gain": [
+    129
+  ],
+  "Input Resistance in Electronic Circuits": [
+    130
+  ],
+  "Typical Values of Input Resistance": [
+    130
+  ],
+  "Impedance Matching in Circuits": [
+    130
+  ],
+  "Loading Effect in Circuits": [
+    130,
+    190
+  ],
+  "Common-base amplifier characteristics": [
+    131,
+    388
+  ],
+  "Thermal voltage": [
+    131
+  ],
+  "Emitter current": [
+    131
+  ],
+  "Capacitive reactance in circuits": [
+    131
+  ],
+  "Symmetry in N-channel JFET structure": [
+    132
+  ],
+  "Interchangeability of drain and source terminals in JFET": [
+    132
+  ],
+  "JFET operation principles": [
+    132
+  ],
+  "Field-Effect Transistor (FET) operation": [
+    133,
+    142
+  ],
+  "Constant current region conditions": [
+    133
+  ],
+  "Gate-to-source voltage (u_GS)": [
+    133,
+    142,
+    153
+  ],
+  "Threshold voltage (U_GS(off))": [
+    133
+  ],
+  "Drain-to-source voltage (u_DS)": [
+    133,
+    142
+  ],
+  "JFET operation": [
+    134,
+    149,
+    158
+  ],
+  "Gate-to-source voltage effect on JFET channel width": [
+    134
+  ],
+  "Depletion region in JFET": [
+    134
+  ],
+  "Conducting channel in JFET": [
+    134,
+    153
+  ],
+  "N-channel JFET operation": [
+    135,
+    138,
+    141
+  ],
+  "Constant current region in JFET": [
+    135
+  ],
+  "Gate-to-source voltage in JFET": [
+    135,
+    139
+  ],
+  "Pinch-off voltage in JFET": [
+    135,
+    139
+  ],
+  "Field-effect transistor (FET) operation": [
+    136
+  ],
+  "Cutoff region": [
+    136
+  ],
+  "Constant current region": [
+    136
+  ],
+  "Variable resistor region": [
+    136
+  ],
+  "Transfer characteristic of a field-effect transistor": [
+    137
+  ],
+  "Drain current and gate-to-source voltage in FETs": [
+    137
+  ],
+  "Correct terminology for FET characteristics": [
+    137
+  ],
+  "Variable resistance region": [
+    138,
+    141
+  ],
+  "Gate-to-source voltage": [
+    138,
+    145,
+    147
+  ],
+  "Gate-to-drain voltage": [
+    138,
+    147
+  ],
+  "Pinch-off voltage": [
+    138
+  ],
+  "Characteristics of N-channel JFET": [
+    139
+  ],
+  "Output characteristics of JFET": [
+    139
+  ],
+  "Saturation region in JFET": [
+    139
+  ],
+  "Pre-pinch-off region in JFET": [
+    139
+  ],
+  "N-channel JFET characteristics": [
+    140
+  ],
+  "Cutoff region definition": [
+    140
+  ],
+  "Gate-source voltage relationship": [
+    140
+  ],
+  "Drain current dependence on gate-to-source voltage": [
+    141
+  ],
+  "Drain current dependence on drain-to-source voltage": [
+    141
+  ],
+  "Output characteristic curve definition": [
+    142
+  ],
+  "Drain current (i_D)": [
+    142
+  ],
+  "N-channel enhancement-mode MOSFET operation": [
+    143
+  ],
+  "Threshold voltage (Vth) in MOSFETs": [
+    143
+  ],
+  "Conductive channel formation in MOSFETs": [
+    143,
+    148
+  ],
+  "Source-drain current in MOSFETs": [
+    143
+  ],
+  "NMOS Transistor Operation": [
+    144
+  ],
+  "Threshold Voltage": [
+    144
+  ],
+  "Gate-to-Drain Voltage": [
+    144
+  ],
+  "Pinch-Off Region": [
+    144
+  ],
+  "Conducting Channel": [
+    144
+  ],
+  "Pre-Pinch-Off Region": [
+    144
+  ],
+  "MOSFET operation": [
+    145,
+    148,
+    151,
+    152,
+    158,
+    204
+  ],
+  "Threshold voltage": [
+    145,
+    147
+  ],
+  "Conduction conditions for n-channel and p-channel MOSFETs": [
+    145
+  ],
+  "Transistor basics": [
+    146
+  ],
+  "MOSFET structure and operation": [
+    146
+  ],
+  "JFET structure and operation": [
+    146
+  ],
+  "Insulation in MOSFETs": [
+    146
+  ],
+  "Reverse-biased p-n junction in JFETs": [
+    146
+  ],
+  "MOSFET operation regions": [
+    147
+  ],
+  "Pinch-off condition": [
+    147
+  ],
+  "N-channel depletion MOSFET characteristics": [
+    148,
+    152
+  ],
+  "Threshold voltage in MOSFETs": [
+    148,
+    154
+  ],
+  "Depletion-type MOSFET operation": [
+    149
+  ],
+  "Gate-to-source voltage in MOSFETs and JFETs": [
+    149
+  ],
+  "Constant current region in transistors": [
+    149
+  ],
+  "Depletion-type MOSFET characteristics": [
+    150,
+    151
+  ],
+  "Gate-to-source voltage in MOSFETs": [
+    150,
+    152,
+    154
+  ],
+  "Conducting channel in MOSFETs": [
+    150
+  ],
+  "Enhancement-type vs Depletion-type MOSFETs": [
+    150
+  ],
+  "Constant current region in MOSFETs": [
+    151
+  ],
+  "Gate-source voltage (u_GS) influence on MOSFET operation": [
+    151
+  ],
+  "Pinch-off voltage in MOSFETs": [
+    152
+  ],
+  "Field-effect transistors": [
+    153,
+    159
+  ],
+  "Junction field-effect transistor (JFET)": [
+    153
+  ],
+  "Default on-state of JFET": [
+    153
+  ],
+  "Conductive channel formation in enhanced MOSFETs": [
+    154
+  ],
+  "Depletion-mode MOSFET operation": [
+    155
+  ],
+  "Conductive channel in MOSFETs": [
+    155
+  ],
+  "Gate-source voltage in MOSFETs": [
+    155
+  ],
+  "Junction Field-Effect Transistor (JFET) operation": [
+    156
+  ],
+  "Reverse bias in semiconductor devices": [
+    156
+  ],
+  "Gate-source junction in JFET": [
+    156
+  ],
+  "High resistance in reverse-biased junctions": [
+    156
+  ],
+  "Properties of MOSFET": [
+    157
+  ],
+  "Gate oxide layer in MOSFET": [
+    157
+  ],
+  "Resistance in electronic components": [
+    157
+  ],
+  "Voltage polarity effects in electronic devices": [
+    157
+  ],
+  "Transistor types and their characteristics": [
+    158
+  ],
+  "Depletion MOSFET characteristics": [
+    158
+  ],
+  "Enhancement MOSFET characteristics": [
+    158
+  ],
+  "Gate-to-source voltage in FETs": [
+    158
+  ],
+  "Constant current region in FETs": [
+    158,
+    159,
+    160
+  ],
+  "N-channel Enhancement MOSFET operation": [
+    159
+  ],
+  "Gate-to-source voltage requirements for FETs": [
+    159
+  ],
+  "P-channel Enhancement MOSFET operation": [
+    160
+  ],
+  "Gate-to-source voltage requirement for P-channel Enhancement MOSFET": [
+    160
+  ],
+  "Depletion and enhancement modes in MOSFETs": [
+    160
+  ],
+  "Current gain (β) in transistors": [
+    161
+  ],
+  "Proportionality between voltage gain and current gain": [
+    161
+  ],
+  "Effect of β on amplifier performance": [
+    161
+  ],
+  "Transistor operation in active region": [
+    162
+  ],
+  "Base-emitter junction forward bias": [
+    162,
+    322
+  ],
+  "Base-collector junction reverse bias": [
+    162,
+    322
+  ],
+  "Input resistance in transistors": [
+    162
+  ],
+  "Current amplification in transistors": [
+    162,
+    212
+  ],
+  "Transistor operation modes": [
+    163,
+    298
+  ],
+  "Small-signal model": [
+    163
+  ],
+  "Parallel resistance formula": [
+    163
+  ],
+  "Open Circuit Concept": [
+    164,
+    373
+  ],
+  "Constant Voltage Source Behavior": [
+    164
+  ],
+  "Understanding of Constant Values": [
+    165
+  ],
+  "Interpreting Question Context": [
+    165
+  ],
+  "Evaluating Options Based on Given Information": [
+    165
+  ],
+  "Understanding of the context from Question 5": [
+    166
+  ],
+  "Interpreting the effects of given conditions on a quantity": [
+    166
+  ],
+  "Determining the trend (increase, decrease, remain unchanged) of a quantity based on conditions": [
+    166
+  ],
+  "Evaluating options in a multiple-choice format": [
+    166
+  ],
+  "Understanding demand and supply curves": [
+    167
+  ],
+  "Shifts in demand curve": [
+    167
+  ],
+  "Equilibrium price and quantity": [
+    167
+  ],
+  "Impact of increased demand on equilibrium price and quantity": [
+    167
+  ],
+  "Understanding the context of a given question": [
+    168
+  ],
+  "Analyzing changes in quantities under specific conditions": [
+    168
+  ],
+  "Evaluating options in multiple-choice questions": [
+    168
+  ],
+  "Interpreting the meaning of \"Remain Unchanged\" in mathematical contexts": [
+    168
+  ],
+  "Transistor Amplifier Circuit": [
+    169
+  ],
+  "Biasing Conditions in Transistors": [
+    169
+  ],
+  "Voltage Drop Across Resistor": [
+    169
+  ],
+  "Collector-Emitter Voltage Relationship": [
+    169
+  ],
+  "Effect of Parameter Change on Biasing Conditions": [
+    169
+  ],
+  "Understanding of variables": [
+    170
+  ],
+  "Interpreting given information": [
+    170
+  ],
+  "Evaluating options based on available data": [
+    170
+  ],
+  "Identifying insufficient information for conclusion": [
+    170
+  ],
+  "Understanding the context of the question": [
+    171
+  ],
+  "Analyzing the impact of given factors": [
+    171
+  ],
+  "Interpreting the meaning of \"Increase\" in the context of the problem": [
+    171
+  ],
+  "Evaluating the options to select the correct answer": [
+    171
+  ],
+  "Understanding changes in variables": [
+    172
+  ],
+  "Analyzing context from previous questions": [
+    172
+  ],
+  "Determining expected outcomes based on given information": [
+    172
+  ],
+  "Understanding the context of the problem": [
+    173
+  ],
+  "Analyzing the given information": [
+    173
+  ],
+  "Interpreting the effect on the variable": [
+    173
+  ],
+  "Identifying the correct option based on the analysis": [
+    173
+  ],
+  "Capacitors act as open circuits at very low frequencies": [
+    174
+  ],
+  "Inductors act as short circuits at very low frequencies": [
+    174
+  ],
+  "Resistors have no frequency-dependent behavior": [
+    174
+  ],
+  "Series and parallel combinations of components in circuits": [
+    174
+  ],
+  "High-pass and low-pass filters in circuits": [
+    174
+  ],
+  "Operational Amplifier Configurations": [
+    175
+  ],
+  "Transistor Amplifiers": [
+    175
+  ],
+  "Voltage Gain Calculation": [
+    175,
+    262,
+    547
+  ],
+  "Resistive Divider Circuits": [
+    175
+  ],
+  "Understanding of circuit configurations": [
+    176
+  ],
+  "Phase relationship between input and output voltages": [
+    176
+  ],
+  "Direct proportionality in circuit analysis": [
+    176
+  ],
+  "Phase shift in electrical circuits": [
+    176,
+    379
+  ],
+  "High-frequency circuits": [
+    177
+  ],
+  "Parasitic inductance": [
+    177
+  ],
+  "Bandwidth optimization": [
+    177
+  ],
+  "Input Resistance": [
+    178,
+    200,
+    384,
+    486
+  ],
+  "Parallel Paths": [
+    178
+  ],
+  "Understanding of Output Resistance": [
+    179
+  ],
+  "Factors Affecting Output Resistance": [
+    179
+  ],
+  "Circuit Configuration and Output Resistance": [
+    179
+  ],
+  "Behavior of Output Resistance in Standard Amplifier Configurations": [
+    179
+  ],
+  "Capacitors in AC circuits": [
+    180,
+    181,
+    223
+  ],
+  "Impedance in AC circuits": [
+    180
+  ],
+  "Feedback in amplifiers": [
+    180,
+    424,
+    531
+  ],
+  "Gain of an amplifier": [
+    180
+  ],
+  "Short circuit concept in electrical circuits": [
+    181
+  ],
+  "Input resistance in electrical circuits": [
+    181
+  ],
+  "Lack of context in problem statement": [
+    182
+  ],
+  "Interpreting default behavior without additional information": [
+    182
+  ],
+  "Voltage Measurement": [
+    183
+  ],
+  "Reading and Interpreting Voltage Values": [
+    183
+  ],
+  "Understanding Multiple Choice Questions in Physics": [
+    183
+  ],
+  "Transistor Operation Regions": [
+    184
+  ],
+  "Constant Current Region": [
+    184
+  ],
+  "Drain-to-Source Voltage": [
+    184
+  ],
+  "Drain Current Characteristics": [
+    184
+  ],
+  "Variable Resistance Region characteristics": [
+    185
+  ],
+  "Drain-to-source voltage (uDS) in Variable Resistance Region": [
+    185
+  ],
+  "Gate-to-source voltage (uGS) impact on current in Variable Resistance Region": [
+    185
+  ],
+  "Behavior of transistor as a variable resistor in Variable Resistance Region": [
+    185
+  ],
+  "Operational Regions of Transistors": [
+    186
+  ],
+  "Constant Current Region Characteristics": [
+    186
+  ],
+  "Transistor as a Current Source": [
+    186
+  ],
+  "Current-Voltage Characteristics of Electronic Tubes": [
+    187
+  ],
+  "Constant Current Region in Electronic Tubes": [
+    187
+  ],
+  "Ability to identify correct answer from given options": [
+    188
+  ],
+  "Voltage gain of amplifiers": [
+    189,
+    201
+  ],
+  "Two-stage amplifier circuits": [
+    189
+  ],
+  "Load effect on amplifier stages": [
+    189
+  ],
+  "Overall gain calculation in multi-stage amplifiers": [
+    189
+  ],
+  "Voltage Gain Stability": [
+    190
+  ],
+  "Input resistance of an amplifier": [
+    191
+  ],
+  "Characteristics of multistage amplifiers": [
+    191
+  ],
+  "Signal source internal resistance": [
+    191,
+    194
+  ],
+  "Independence of input resistance from signal source internal resistance": [
+    191
+  ],
+  "Internal Resistance": [
+    192,
+    543
+  ],
+  "Signal Source": [
+    192
+  ],
+  "Multistage Amplifier Circuit": [
+    192
+  ],
+  "Output Resistance": [
+    192,
+    200,
+    384
+  ],
+  "Input Stage Impact": [
+    192
+  ],
+  "Overall Gain Influence": [
+    192
+  ],
+  "Waveform distortion in amplifiers": [
+    193
+  ],
+  "Quiescent operating point": [
+    193,
+    425
+  ],
+  "Biasing in amplifier stages": [
+    193
+  ],
+  "Non-linearities in amplifier stages": [
+    193
+  ],
+  "Power supply issues in amplifiers": [
+    193
+  ],
+  "Signal overload in amplifiers": [
+    193
+  ],
+  "High input impedance": [
+    194,
+    195
+  ],
+  "Loading effects": [
+    194
+  ],
+  "Common Source Amplifier": [
+    194,
+    200
+  ],
+  "Common Drain Amplifier": [
+    194
+  ],
+  "Low output impedance": [
+    195,
+    318
+  ],
+  "Common Collector Amplifier": [
+    195,
+    200
+  ],
+  "Stable Output Voltage": [
+    195
+  ],
+  "Load Resistance Variation": [
+    195
+  ],
+  "Common Emitter Amplifier Circuit": [
+    197,
+    341
+  ],
+  "Common Collector Amplifier Circuit": [
+    197
+  ],
+  "Current gain": [
+    197,
+    239
+  ],
+  "Input impedance": [
+    197,
+    239
+  ],
+  "Output impedance": [
+    197,
+    490
+  ],
+  "Load driving capability": [
+    197,
+    198
+  ],
+  "Input and output impedance": [
+    198
+  ],
+  "Common Collector Amplifier characteristics": [
+    198,
+    201
+  ],
+  "High Input Resistance": [
+    199
+  ],
+  "Moderate to High Voltage Gain": [
+    199
+  ],
+  "Common Source Amplifier Characteristics": [
+    199
+  ],
+  "Common Emitter Amplifier": [
+    200
+  ],
+  "Amplifier Stages": [
+    200,
+    409
+  ],
+  "Input resistance of amplifiers": [
+    201,
+    541
+  ],
+  "Output resistance of amplifiers": [
+    201,
+    542
+  ],
+  "Common Emitter Amplifier characteristics": [
+    201
+  ],
+  "Common Base Amplifier characteristics": [
+    201
+  ],
+  "Common Source Amplifier characteristics": [
+    201
+  ],
+  "Common Drain Amplifier characteristics": [
+    201
+  ],
+  "Three-stage amplifier design principles": [
+    201
+  ],
+  "MOSFET operation modes": [
+    202
+  ],
+  "Biasing techniques for MOSFETs": [
+    202
+  ],
+  "Field-Effect Transistors (FETs)": [
+    203
+  ],
+  "Self-Bias Circuit": [
+    203
+  ],
+  "Quiescent Operating Point": [
+    203,
+    228,
+    249
+  ],
+  "Gate-Source Voltage (Vgs)": [
+    203
+  ],
+  "Biasing circuits": [
+    204
+  ],
+  "Self-bias circuit limitations": [
+    204
+  ],
+  "Quiescent operating point requirements": [
+    204
+  ],
+  "Voltage Divider Biasing Circuit": [
+    205
+  ],
+  "MOSFET Quiescent Operating Point": [
+    205
+  ],
+  "Gate Voltage Stability": [
+    205
+  ],
+  "Field-Effect Transistor (FET) characteristics": [
+    206
+  ],
+  "AC equivalent model of FET": [
+    206
+  ],
+  "Gate-to-source resistance in FET": [
+    206
+  ],
+  "Insulation of the gate in FET": [
+    206
+  ],
+  "Minimal current flow into the gate of FET": [
+    206
+  ],
+  "High input resistance in FET circuits": [
+    206
+  ],
+  "Voltage sources and current sources": [
+    207
+  ],
+  "Modeling electrical components": [
+    207
+  ],
+  "Output terminal characteristics in circuits": [
+    207
+  ],
+  "Drain current as a function of gate-to-source voltage": [
+    208
+  ],
+  "Partial derivatives in electrical engineering": [
+    208
+  ],
+  "Transfer characteristic of FET": [
+    208
+  ],
+  "Common-source amplifier characteristics": [
+    209
+  ],
+  "Voltage amplification in amplifiers": [
+    209
+  ],
+  "Transconductance in amplifiers": [
+    209
+  ],
+  "Output resistance in amplifiers": [
+    209,
+    488
+  ],
+  "Input resistance of common-source amplifier": [
+    210
+  ],
+  "Input resistance of common-emitter amplifier": [
+    210
+  ],
+  "Gate-to-source resistance of MOSFET": [
+    210
+  ],
+  "Base-emitter junction resistance of BJT": [
+    210
+  ],
+  "Amplifier Gain Formula": [
+    211
+  ],
+  "Resistor Values and Their Effects on Circuit Performance": [
+    211
+  ],
+  "Composite transistor configuration": [
+    212
+  ],
+  "Combining transistors to increase gain": [
+    212
+  ],
+  "Properties of Composite Materials": [
+    213
+  ],
+  "Types of Tubes": [
+    213
+  ],
+  "Dependence of Composite Properties on Constituent Materials": [
+    213
+  ],
+  "Transistor operation under applied voltage": [
+    214
+  ],
+  "Current paths in transistor circuits": [
+    214
+  ],
+  "Composite transistor formation": [
+    214
+  ],
+  "Transistor functionality in circuits": [
+    214
+  ],
+  "Differential amplifier configurations": [
+    215
+  ],
+  "Q-point in differential amplifiers": [
+    215
+  ],
+  "Symmetric and asymmetric loading effects": [
+    215
+  ],
+  "Biasing in differential amplifiers": [
+    215
+  ],
+  "Common-mode rejection ratio (CMRR)": [
+    216
+  ],
+  "Differential amplifier operation": [
+    216,
+    226,
+    279,
+    286
+  ],
+  "Single-ended output vs dual-output configuration": [
+    216
+  ],
+  "Effects of common-mode signals in amplifiers": [
+    216
+  ],
+  "Base-emitter voltage": [
+    217
+  ],
+  "Symmetrical transistor properties": [
+    217
+  ],
+  "Collector quiescent current": [
+    218
+  ],
+  "Circuit configuration": [
+    218
+  ],
+  "Milliamps unit conversion": [
+    218
+  ],
+  "Bipolar Junction Transistor (BJT) Characteristics": [
+    219
+  ],
+  "Resistor Values and Units": [
+    219
+  ],
+  "Basic Arithmetic Operations": [
+    219
+  ],
+  "Rounding Numbers": [
+    219
+  ],
+  "Differential Amplifier Gain": [
+    220,
+    228
+  ],
+  "Differential Input Voltage Calculation": [
+    220
+  ],
+  "Output Voltage Calculation in Differential Amplifiers": [
+    220,
+    255
+  ],
+  "Sign Convention for Output Voltage in Differential Amplifiers": [
+    220
+  ],
+  "Transistor Biasing Conditions": [
+    221
+  ],
+  "Active Region Operation of Transistor": [
+    221
+  ],
+  "Amplification in Transistors": [
+    221
+  ],
+  "Differential Amplifier Configuration": [
+    222,
+    288
+  ],
+  "Non-Inverting Input Terminal": [
+    222
+  ],
+  "Phase Relationship in Differential Amplifiers": [
+    222
+  ],
+  "Phase shift in RC circuits": [
+    223
+  ],
+  "Connecting components in electrical circuits": [
+    223
+  ],
+  "Differential Amplifier Basics": [
+    224
+  ],
+  "Input Signal Definitions": [
+    224
+  ],
+  "Differential Input Signal Calculation": [
+    224
+  ],
+  "Common-mode input signal definition": [
+    225,
+    268
+  ],
+  "Average calculation": [
+    225
+  ],
+  "Differential mode signal": [
+    226
+  ],
+  "Emitter current cancellation": [
+    226
+  ],
+  "Dynamic potential at emitters": [
+    226
+  ],
+  "Potentiometers in circuits": [
+    227
+  ],
+  "Balancing differential inputs": [
+    227
+  ],
+  "Output voltage in static conditions": [
+    227
+  ],
+  "Transistor Biasing": [
+    228
+  ],
+  "Resistive Divider Circuit": [
+    228
+  ],
+  "Midpoint Voltage Division": [
+    228
+  ],
+  "Circuit Configuration Changes": [
+    229
+  ],
+  "Feedback and Input Impedance": [
+    229
+  ],
+  "Biasing Conditions": [
+    229
+  ],
+  "Effective Resistance and Capacitance": [
+    229
+  ],
+  "Common-Mode Voltage Gain": [
+    229,
+    274,
+    277,
+    288
+  ],
+  "Differential Amplifier Circuit": [
+    230,
+    238,
+    249,
+    252,
+    253,
+    258,
+    265,
+    266,
+    267,
+    269,
+    275,
+    276,
+    278,
+    280,
+    281,
+    325,
+    329
+  ],
+  "Biasing Resistors": [
+    230
+  ],
+  "Supply Voltage": [
+    230
+  ],
+  "Collector Static Current": [
+    230
+  ],
+  "Voltage Drop Across Load Resistor": [
+    230
+  ],
+  "Static Voltage": [
+    230
+  ],
+  "Differential Input Voltage": [
+    230,
+    253
+  ],
+  "Common-Mode Input Voltage": [
+    230,
+    281
+  ],
+  "Symmetrical Inputs": [
+    230
+  ],
+  "Differential Amplifier Circuit Analysis": [
+    231,
+    285
+  ],
+  "Transistor Static Operating Point": [
+    231
+  ],
+  "Emitter Resistance Effect on Collector Current": [
+    231
+  ],
+  "Differential Voltage Gain Calculation": [
+    231
+  ],
+  "Common-Mode Voltage Gain Calculation": [
+    231
+  ],
+  "Transconductance Concept": [
+    231
+  ],
+  "Resistance and Voltage Amplification Relationship": [
+    231
+  ],
+  "Input Offset Voltage Definition": [
+    232,
+    333
+  ],
+  "Operational Amplifier Characteristics": [
+    232
+  ],
+  "Voltage Transfer Properties": [
+    232
+  ],
+  "Circuit Composition": [
+    232
+  ],
+  "Structural Characteristics": [
+    232
+  ],
+  "Operational Amplifier Basics": [
+    233,
+    328,
+    340,
+    479,
+    547
+  ],
+  "Input Offset Current Definition": [
+    233
+  ],
+  "Definition of Common-Mode Rejection Ratio (CMRR)": [
+    234
+  ],
+  "Differential gain and common-mode gain in operational amplifiers": [
+    234
+  ],
+  "Mathematical representation of CMRR": [
+    234
+  ],
+  "Active load definition": [
+    235,
+    336
+  ],
+  "Output impedance concept": [
+    235
+  ],
+  "Output current in amplifiers": [
+    235,
+    314
+  ],
+  "Amplifier Biasing": [
+    236
+  ],
+  "Operating Point of Transistors": [
+    236
+  ],
+  "Input Signal and Dynamic Current": [
+    236
+  ],
+  "Bias Circuit Functionality": [
+    236
+  ],
+  "Capacitors in circuits": [
+    237,
+    464,
+    527,
+    531
+  ],
+  "Direct coupling in amplifiers": [
+    237,
+    549
+  ],
+  "Fabrication challenges in integrated circuits": [
+    237
+  ],
+  "Space constraints on silicon chips": [
+    237
+  ],
+  "Temperature Drift": [
+    238
+  ],
+  "Common-Mode Signals": [
+    238
+  ],
+  "Amplifying Difference Between Two Input Signals": [
+    238
+  ],
+  "Common-collector amplifier circuit": [
+    239
+  ],
+  "Common-base amplifier circuit": [
+    239
+  ],
+  "Zero drift phenomenon": [
+    240
+  ],
+  "Differential amplifiers": [
+    240,
+    290
+  ],
+  "Temperature effects on circuits": [
+    240
+  ],
+  "Supply voltage effects on circuits": [
+    240
+  ],
+  "Common-mode signals can be DC or AC": [
+    241
+  ],
+  "Differential-mode signals can be DC or AC": [
+    241
+  ],
+  "Differential amplifier circuits": [
+    242
+  ],
+  "Common-mode signals": [
+    242
+  ],
+  "Differential-mode signals": [
+    242
+  ],
+  "Signal phase relationships": [
+    242
+  ],
+  "Principle of stabilizing the static operating point in a differential amplifier": [
+    243
+  ],
+  "Negative feedback mechanisms in electronic circuits": [
+    243
+  ],
+  "Principle of suppressing common-mode signals in a differential amplifier": [
+    243
+  ],
+  "Use of negative feedback to reduce unwanted effects in electronic circuits": [
+    243
+  ],
+  "Transistor parameters affected by temperature": [
+    244
+  ],
+  "Power supply voltage instability": [
+    244
+  ],
+  "Difference between two input signals": [
+    245
+  ],
+  "Average of two signals": [
+    246
+  ],
+  "Differential Amplifier Circuit Requirements": [
+    247
+  ],
+  "Symmetry in Circuit Parameters": [
+    247,
+    248
+  ],
+  "Common-Mode Rejection Ratio (CMRR)": [
+    247,
+    248,
+    274,
+    275,
+    276
+  ],
+  "Differential Amplifiers": [
+    248
+  ],
+  "Common-Mode Signal Suppression": [
+    248
+  ],
+  "Resistor Effect on Gain": [
+    249
+  ],
+  "Practical Limits of Resistor Values": [
+    249
+  ],
+  "Noise in Amplifier Circuits": [
+    249
+  ],
+  "Differential Amplifier Design": [
+    250
+  ],
+  "Temperature Drift Suppression": [
+    250
+  ],
+  "Transistor Matching": [
+    250
+  ],
+  "Thermal Coupling": [
+    250
+  ],
+  "Differential Pair Operation": [
+    250
+  ],
+  "Symmetry in circuit structure and parameters": [
+    251
+  ],
+  "Improving stability and performance through symmetry": [
+    251
+  ],
+  "Cancellation of disturbances in symmetrical circuits": [
+    251
+  ],
+  "Symmetry in Differential Amplifier": [
+    252
+  ],
+  "Differential Mode Signals": [
+    252
+  ],
+  "Common Mode Signals": [
+    252
+  ],
+  "Amplification of Differential Mode": [
+    252
+  ],
+  "Rejection of Common Mode": [
+    252
+  ],
+  "Output Voltage Formula": [
+    253
+  ],
+  "Differential Gain": [
+    253,
+    263,
+    264
+  ],
+  "Subtraction of Input Voltages": [
+    253
+  ],
+  "Capacitive Bypassing in Differential Amplifiers": [
+    254
+  ],
+  "Differential Mode Operation of Long-Tailed Pair": [
+    254
+  ],
+  "AC Equivalent Circuit Analysis": [
+    254
+  ],
+  "Short Circuit Concept in Circuit Analysis": [
+    254
+  ],
+  "Proportional Relationships": [
+    255
+  ],
+  "Differential Amplifier Operation": [
+    255,
+    299,
+    301
+  ],
+  "Constant Current Source Functionality": [
+    255
+  ],
+  "Negative feedback in amplifiers": [
+    256,
+    257,
+    447,
+    451,
+    459,
+    478,
+    481,
+    484,
+    485,
+    488,
+    490,
+    493,
+    495,
+    496,
+    498,
+    503,
+    512,
+    513,
+    514,
+    515,
+    518,
+    541
+  ],
+  "Stabilization of operating point": [
+    256
+  ],
+  "Suppression of zero drift": [
+    256
+  ],
+  "Temperature and power supply variations": [
+    256
+  ],
+  "Common mode signals": [
+    257
+  ],
+  "Differential mode signals": [
+    257
+  ],
+  "Long-tailed differential amplifier circuit": [
+    257
+  ],
+  "Emitter resistor (Re) role in differential amplifiers": [
+    257
+  ],
+  "Collector Resistor": [
+    258
+  ],
+  "Differential Mode Amplification": [
+    258
+  ],
+  "Gain Proportionality": [
+    258
+  ],
+  "Increase Re to enhance stability and reduce common-mode gain": [
+    259
+  ],
+  "Replace Re with a constant current source for improved biasing stability": [
+    259
+  ],
+  "Base-Emitter Voltage Drop": [
+    260
+  ],
+  "Resistor Value Interpretation": [
+    260
+  ],
+  "Rounding Rules for Approximation": [
+    260
+  ],
+  "Transistor Circuit Analysis": [
+    261,
+    284
+  ],
+  "DC Biasing in Transistors": [
+    261
+  ],
+  "Differential Voltage Gain": [
+    262,
+    274
+  ],
+  "Negative Feedback Amplifiers": [
+    262
+  ],
+  "Operational Amplifiers": [
+    262,
+    325,
+    520
+  ],
+  "Sign Convention in Amplifiers": [
+    262
+  ],
+  "Differential Amplifier": [
+    263,
+    264,
+    274,
+    277
+  ],
+  "Inverting Amplifier": [
+    263
+  ],
+  "Voltage Calculation": [
+    263
+  ],
+  "Sign Convention for Amplifiers": [
+    263
+  ],
+  "Output Voltage Calculation": [
+    264
+  ],
+  "Voltage Difference Calculation": [
+    264
+  ],
+  "Single-Ended Input": [
+    265
+  ],
+  "Dual-Ended Output": [
+    265
+  ],
+  "Differential Mode Signal": [
+    265
+  ],
+  "Input Terminal Voltages": [
+    265
+  ],
+  "Differential Mode Input Signal": [
+    266
+  ],
+  "Input Signal Difference": [
+    266
+  ],
+  "Common-Mode Input Signal": [
+    267
+  ],
+  "Single-Ended Input Configuration": [
+    267
+  ],
+  "Average of Input Signals": [
+    267
+  ],
+  "Grounded Terminal Concept": [
+    267
+  ],
+  "Differential amplifier circuit operation": [
+    268
+  ],
+  "Average calculation for two values": [
+    268
+  ],
+  "Differential Mode Voltage Gain": [
+    269
+  ],
+  "Common Mode Voltage": [
+    269
+  ],
+  "Common Mode Rejection Ratio (CMRR)": [
+    269,
+    278
+  ],
+  "Difference between two input signals in a differential amplifier": [
+    270
+  ],
+  "Definition of common-mode input signal": [
+    271
+  ],
+  "Average calculation method": [
+    271
+  ],
+  "Differential mode voltage gain": [
+    272
+  ],
+  "Output differential mode voltage": [
+    272
+  ],
+  "Input differential mode voltage": [
+    272
+  ],
+  "Definition of common-mode voltage gain": [
+    273
+  ],
+  "Ratio of output common-mode voltage to input common-mode voltage": [
+    273
+  ],
+  "Amplification or attenuation of common-mode signals in circuits": [
+    273
+  ],
+  "Constant Current Source": [
+    275,
+    278
+  ],
+  "Static Operating Current": [
+    275
+  ],
+  "Output Offset Voltage": [
+    275
+  ],
+  "Dynamic Equivalent Resistance": [
+    276
+  ],
+  "Emitter Resistor Replacement": [
+    276
+  ],
+  "Common-Mode Gain Reduction": [
+    276
+  ],
+  "Ideal Current Source": [
+    277
+  ],
+  "Single-Ended Output": [
+    277
+  ],
+  "Biasing Condition": [
+    278
+  ],
+  "Common Mode Gain": [
+    278
+  ],
+  "Ideal current source characteristics": [
+    279
+  ],
+  "Common-mode gain definition": [
+    279
+  ],
+  "Common-mode rejection ratio (CMRR) definition": [
+    279
+  ],
+  "Ratio of differential gain to common-mode gain": [
+    279
+  ],
+  "Zero-Adjust Potentiometer Function": [
+    280,
+    281
+  ],
+  "Input Offset Voltage Balancing": [
+    280
+  ],
+  "Optimal Potentiometer Value Selection": [
+    280
+  ],
+  "Resistor Ratio in Differential Amplifier": [
+    281
+  ],
+  "Circuit Balance Adjustment": [
+    281
+  ],
+  "Effect of Potentiometer on Differential Voltage Gain": [
+    281
+  ],
+  "Differential amplifier circuit": [
+    282
+  ],
+  "Bipolar junction transistors (BJTs)": [
+    282
+  ],
+  "Field-effect transistors (FETs)": [
+    282
+  ],
+  "Voltage-controlled operation": [
+    282
+  ],
+  "Signal loading": [
+    282
+  ],
+  "Circuit analysis": [
+    283,
+    303,
+    412,
+    529,
+    530
+  ],
+  "Symmetry in circuits": [
+    283
+  ],
+  "Potentiometer operation": [
+    283
+  ],
+  "Collector resistor impact on current": [
+    283
+  ],
+  "Static current balancing": [
+    283
+  ],
+  "Resistors in Parallel": [
+    284
+  ],
+  "Current Division Rule": [
+    284
+  ],
+  "Balancing Resistors for Equal Currents": [
+    284
+  ],
+  "Differential Voltage Gain Formula": [
+    285
+  ],
+  "Effect of Emitter Resistor on Differential Voltage Gain": [
+    285
+  ],
+  "Common-mode rejection ratio": [
+    286,
+    290,
+    335
+  ],
+  "Single-ended output configuration": [
+    286
+  ],
+  "Common-mode voltage gain": [
+    286,
+    290
+  ],
+  "Effect of output configuration on amplifier gains": [
+    286
+  ],
+  "Proportional and Inverse Relationships": [
+    287
+  ],
+  "Operational Amplifier Gain Formula": [
+    287
+  ],
+  "Feedback Resistor Impact on Gain": [
+    287
+  ],
+  "Common-Mode Rejection Ratio": [
+    288,
+    340
+  ],
+  "Single-Ended Output Effects": [
+    288
+  ],
+  "Proportionality in Electrical Circuits": [
+    289
+  ],
+  "Circuit Analysis Fundamentals": [
+    289
+  ],
+  "Single-ended configuration": [
+    290
+  ],
+  "Input resistance in differential amplifiers": [
+    291
+  ],
+  "Current flow in differential amplifiers": [
+    291
+  ],
+  "Gain of differential amplifiers": [
+    291
+  ],
+  "Single-ended output in differential amplifiers": [
+    291
+  ],
+  "Understanding of areas under curves": [
+    292
+  ],
+  "Interpretation of Auc1 and Auc2": [
+    292
+  ],
+  "Effect of parameter changes on area under the curve": [
+    292
+  ],
+  "Magnitude of area under the curve": [
+    292
+  ],
+  "Decrease in area under the curve": [
+    292
+  ],
+  "Current Mirroring Principle": [
+    293
+  ],
+  "Resistor Ratio in Current Mirrors": [
+    293
+  ],
+  "Effect of Resistance Change on Mirror Current": [
+    293
+  ],
+  "Series Circuit Analysis": [
+    294
+  ],
+  "Voltage Drop Across Resistors": [
+    294
+  ],
+  "Total Resistance Calculation": [
+    294
+  ],
+  "Voltage Supply in Circuits": [
+    295
+  ],
+  "Transistor Operation Basics": [
+    295
+  ],
+  "Circuit Performance and Stability Factors": [
+    295
+  ],
+  "DC negative feedback": [
+    296,
+    505
+  ],
+  "Output current comparison": [
+    296
+  ],
+  "Reference current matching": [
+    296
+  ],
+  "Circuit theory": [
+    297
+  ],
+  "Powered load characteristics": [
+    297
+  ],
+  "Current flow in electrical circuits": [
+    297
+  ],
+  "Amplification state of transistors": [
+    298
+  ],
+  "Function of transistors in circuits": [
+    298
+  ],
+  "Signal amplification in transistors": [
+    298
+  ],
+  "Transistors used for switching": [
+    298
+  ],
+  "Transistors used for voltage regulation": [
+    298
+  ],
+  "Transistor Current Control": [
+    299
+  ],
+  "Common-Mode Signal Handling": [
+    299
+  ],
+  "Differential-Mode Signal Enhancement": [
+    299
+  ],
+  "Gain Adjustment in Amplifiers": [
+    299
+  ],
+  "Differential Amplifier Circuit Configuration": [
+    300
+  ],
+  "Current Source Function in Differential Amplifiers": [
+    300
+  ],
+  "Transistor Roles in Differential Amplifiers": [
+    300
+  ],
+  "Current Sharing in Differential Pair": [
+    301
+  ],
+  "Transistor Emitter Current Calculation": [
+    301
+  ],
+  "Understanding static and dynamic currents in circuits": [
+    302
+  ],
+  "Basic algebra for summing currents": [
+    302
+  ],
+  "Interpreting changes in current values": [
+    302
+  ],
+  "Identifying initial conditions in circuit analysis": [
+    302
+  ],
+  "Differential pairs": [
+    303
+  ],
+  "Current mirrors": [
+    303
+  ],
+  "Amplifier stages": [
+    303
+  ],
+  "Transistors in a mirror current source configuration": [
+    304
+  ],
+  "Transistor biasing in analog circuits": [
+    304
+  ],
+  "Transistor roles in amplifier circuits": [
+    304
+  ],
+  "Transistor configurations in differential amplifiers": [
+    305
+  ],
+  "Current source circuits in analog electronics": [
+    305
+  ],
+  "Active loads in transistor circuits": [
+    305
+  ],
+  "Gain in differential amplifier stages": [
+    305
+  ],
+  "VT5 and VT6 roles in the given circuit configuration": [
+    305
+  ],
+  "Current source behavior": [
+    306
+  ],
+  "Active load concept": [
+    306
+  ],
+  "Diodes in Op-Amp Circuits": [
+    307
+  ],
+  "Protection of Op-Amp Inputs": [
+    307
+  ],
+  "Standard Terminology in Electronics": [
+    307
+  ],
+  "Complex Protection Circuits in Op-Amps": [
+    307
+  ],
+  "Diode function in circuits": [
+    308
+  ],
+  "Output protection circuit components": [
+    308
+  ],
+  "Circuit diagram interpretation": [
+    308
+  ],
+  "Component placement in circuits": [
+    308
+  ],
+  "Diode operation": [
+    309
+  ],
+  "Polarity protection": [
+    309
+  ],
+  "Operational amplifier basics": [
+    309
+  ],
+  "Circuit protection techniques": [
+    310
+  ],
+  "Differential mode input protection": [
+    310
+  ],
+  "Common mode input protection": [
+    310
+  ],
+  "Reverse polarity protection": [
+    310
+  ],
+  "Output voltage limiting": [
+    310
+  ],
+  "MOS transistor operation": [
+    311
+  ],
+  "Channel width and length effects on current": [
+    311
+  ],
+  "Multi-channel current sources": [
+    311
+  ],
+  "Proportionality of current to channel dimensions": [
+    311
+  ],
+  "Collector junction area and current relationship": [
+    312
+  ],
+  "Multi-collector current source circuit design": [
+    312
+  ],
+  "Channel current control in multi-collector circuits": [
+    312
+  ],
+  "Current gain (β)": [
+    313
+  ],
+  "Base-emitter voltage (V_BE)": [
+    313
+  ],
+  "Current mirror configuration": [
+    313
+  ],
+  "Collector current relationship in PNP transistors": [
+    313
+  ],
+  "DC power dissipation in amplifiers": [
+    314
+  ],
+  "Quiescent current in amplifiers": [
+    314
+  ],
+  "Load and signal dependence on output current": [
+    314
+  ],
+  "Complementary Output Stage": [
+    315
+  ],
+  "Common-Drain Configuration": [
+    315
+  ],
+  "Current Drive Capability": [
+    315
+  ],
+  "Impedance matching": [
+    316
+  ],
+  "Buffering applications in electronics": [
+    316
+  ],
+  "Transistor types and functions": [
+    317
+  ],
+  "Symmetry in electrical circuits": [
+    317
+  ],
+  "Complementary output stages in electronics": [
+    317
+  ],
+  "Complementary output stage design": [
+    318
+  ],
+  "Common collector configuration": [
+    318
+  ],
+  "Strong current delivery to the load": [
+    318
+  ],
+  "Quasi-complementary output stage purpose": [
+    319
+  ],
+  "Push-pull configuration in amplifiers": [
+    319
+  ],
+  "Efficiency improvement in amplifiers": [
+    319
+  ],
+  "Distortion reduction in amplifiers": [
+    319
+  ],
+  "Crossover distortion is not a type of saturation distortion": [
+    320
+  ],
+  "Crossover distortion occurs in Class B amplifiers": [
+    320
+  ],
+  "Class B amplifiers use two transistors to amplify positive and negative halves of the signal": [
+    320
+  ],
+  "Transistors in Class B amplifiers switch when the input signal crosses zero": [
+    320
+  ],
+  "Crossover distortion causes a small gap in the output waveform due to the switching of transistors": [
+    320
+  ],
+  "Diode operation in biasing circuits": [
+    321
+  ],
+  "Crossover distortion in amplifiers": [
+    321
+  ],
+  "Transistor biasing for linear operation": [
+    321
+  ],
+  "Active region of a transistor": [
+    322
+  ],
+  "Integrated Operational Amplifier Coupling Method": [
+    323
+  ],
+  "Direct Coupling in Operational Amplifiers": [
+    323,
+    338
+  ],
+  "Low-Frequency Characteristics of Direct Coupled Amplifiers": [
+    323
+  ],
+  "RC Coupling and Its Frequency Response": [
+    323
+  ],
+  "Direct Coupling in Amplifiers": [
+    324
+  ],
+  "Low-Frequency Characteristics of Amplifiers": [
+    324
+  ],
+  "Integrated Operational Amplifiers": [
+    324
+  ],
+  "RC Coupling in Amplifiers": [
+    324,
+    397
+  ],
+  "High Gain": [
+    325
+  ],
+  "Common-Mode Rejection": [
+    325
+  ],
+  "Analog-to-Digital Converters": [
+    325
+  ],
+  "Common-Emitter Amplifier Characteristics": [
+    326
+  ],
+  "Current Gain in Amplifiers": [
+    326
+  ],
+  "Signal Inversion in Common-Emitter Configuration": [
+    326
+  ],
+  "Push-pull configuration": [
+    327
+  ],
+  "Quasi-complementary output stage": [
+    327
+  ],
+  "Audio amplifiers": [
+    327
+  ],
+  "Efficiency and distortion reduction": [
+    327
+  ],
+  "Input and Output Polarity Relationship in Op-Amps": [
+    328
+  ],
+  "Inverting and Non-Inverting Inputs of Op-Amps": [
+    328
+  ],
+  "Voltage Difference and Output Polarity in Op-Amps": [
+    328
+  ],
+  "Input and Output Configuration of Differential Amplifiers": [
+    329
+  ],
+  "Dual-input Single-output Configuration": [
+    329
+  ],
+  "Circuit Amplification Stages": [
+    330
+  ],
+  "Transistor Identification in Circuits": [
+    330
+  ],
+  "Secondary Amplification Stage Functionality": [
+    330
+  ],
+  "Transistor types and characteristics": [
+    331
+  ],
+  "Complementary Output Stage configuration": [
+    331
+  ],
+  "Signal amplification using transistors": [
+    331
+  ],
+  "Positive and negative signal amplification": [
+    331
+  ],
+  "Crossover distortion in Class B amplifiers": [
+    332
+  ],
+  "Biasing techniques in amplifiers": [
+    332
+  ],
+  "Function of diodes in amplifier circuits": [
+    332
+  ],
+  "Differential Input Voltage Definition": [
+    333
+  ],
+  "Definition of input offset current in operational amplifiers": [
+    334
+  ],
+  "Absolute value concept": [
+    334
+  ],
+  "Operational amplifier": [
+    335
+  ],
+  "Differential gain": [
+    335
+  ],
+  "Common-mode gain": [
+    335
+  ],
+  "Transistor configuration as current source or sink": [
+    336
+  ],
+  "Amplifier circuit output resistance": [
+    336
+  ],
+  "Relationship between output resistance and output current": [
+    336
+  ],
+  "Bias Circuit Function": [
+    337
+  ],
+  "Quiescent Current Definition": [
+    337
+  ],
+  "Dynamic Current Response": [
+    337
+  ],
+  "Amplifying Tube Operating Point": [
+    337
+  ],
+  "Amplifier Characteristic Curve Regions": [
+    337
+  ],
+  "Capacitors in Integrated Circuits": [
+    338
+  ],
+  "Bandwidth limitations": [
+    339
+  ],
+  "Low-frequency signal amplification": [
+    339
+  ],
+  "High-frequency signal limitations": [
+    339
+  ],
+  "Differential Amplifier Function": [
+    340
+  ],
+  "Temperature Drift in Circuits": [
+    340
+  ],
+  "High Voltage Gain": [
+    341
+  ],
+  "Operational Amplifier Stages": [
+    341
+  ],
+  "Operational Amplifier Types": [
+    342
+  ],
+  "Low-Frequency Amplification Requirements": [
+    342
+  ],
+  "Wideband Amplification Requirements": [
+    342
+  ],
+  "High-Precision Measurement Requirements": [
+    342
+  ],
+  "High-Impedance Signal Source Requirements": [
+    342
+  ],
+  "High-Power Load Drive Requirements": [
+    342
+  ],
+  "High-Voltage Output Requirements": [
+    342
+  ],
+  "Aerospace Instrumentation Requirements": [
+    342
+  ],
+  "Characteristics of operational amplifiers": [
+    343
+  ],
+  "General-purpose operational amplifier": [
+    343
+  ],
+  "High-impedance operational amplifier": [
+    343
+  ],
+  "High-speed operational amplifier": [
+    343
+  ],
+  "High-precision operational amplifier": [
+    343
+  ],
+  "Transistor operating states in circuits": [
+    344
+  ],
+  "Differential amplifier configuration": [
+    344
+  ],
+  "Current division in parallel resistors": [
+    344
+  ],
+  "Ohm's law": [
+    344
+  ],
+  "Emitter current calculation in differential pairs": [
+    344
+  ],
+  "Input resistance calculation in differential amplifiers": [
+    344
+  ],
+  "Differential gain calculation in differential amplifiers": [
+    344
+  ],
+  "Common-mode gain in differential amplifiers": [
+    344
+  ],
+  "Differential Pair": [
+    345
+  ],
+  "Amplify Difference Between Two Input Signals": [
+    345
+  ],
+  "Differential Voltage Gain Expression": [
+    345
+  ],
+  "gmRL": [
+    345
+  ],
+  "Transistor output stage configuration": [
+    346
+  ],
+  "Diode elimination of crossover distortion": [
+    346
+  ],
+  "Maximum undistorted output voltage calculation": [
+    346
+  ],
+  "Current gain in multistage transistor amplifiers": [
+    346
+  ],
+  "Reactance of a Capacitor": [
+    347
+  ],
+  "Lower Cutoff Frequency": [
+    347,
+    407
+  ],
+  "Frequency Response of Amplifier Circuits": [
+    347
+  ],
+  "Coupling Capacitors in Amplifiers": [
+    347
+  ],
+  "Heart rate definition": [
+    348
+  ],
+  "Factors affecting heart rate": [
+    348
+  ],
+  "Interpreting changes in heart rate based on given conditions": [
+    348
+  ],
+  "Capacitance and Reactance": [
+    349
+  ],
+  "Frequency Response of Transistors": [
+    349
+  ],
+  "Low-Frequency Cutoff": [
+    349,
+    360
+  ],
+  "Inter-Electrode Capacitance Effects": [
+    349
+  ],
+  "Understanding of high-pass filter": [
+    350
+  ],
+  "Cutoff frequency formula for high-pass filter": [
+    350
+  ],
+  "Component values influence on cutoff frequency": [
+    350
+  ],
+  "Assumption of constant component values without explicit changes": [
+    350
+  ],
+  "Coupling Capacitors in Amplifier Circuits": [
+    351
+  ],
+  "High-Pass Filter Characteristics": [
+    351
+  ],
+  "AC and DC Signal Behavior in Circuits": [
+    351
+  ],
+  "Frequency Response of Capacitors": [
+    351
+  ],
+  "Capacitance in transistors": [
+    352
+  ],
+  "RC circuits": [
+    352
+  ],
+  "Low-pass filters": [
+    352
+  ],
+  "Signal frequency response": [
+    352
+  ],
+  "Coupling capacitance": [
+    353
+  ],
+  "Inter-electrode capacitance of the transistor": [
+    354
+  ],
+  "Coupling capacitance and its effect on low-frequency response": [
+    354
+  ],
+  "Transistor characteristic frequency fT": [
+    355
+  ],
+  "Capacitive reactance and phase shift": [
+    355
+  ],
+  "Distributed capacitance and parasitic effects": [
+    355
+  ],
+  "Internal capacitances of the transistor": [
+    356
+  ],
+  "External components affecting frequency response": [
+    356
+  ],
+  "Lower cutoff frequency determination": [
+    356,
+    376
+  ],
+  "Upper cutoff frequency determination": [
+    356,
+    390
+  ],
+  "Capacitance": [
+    357
+  ],
+  "Resistance": [
+    357
+  ],
+  "Cutoff frequency": [
+    357
+  ],
+  "RC time constant": [
+    357,
+    382,
+    405
+  ],
+  "Frequency response of circuits": [
+    357,
+    404,
+    524
+  ],
+  "Capacitive Reactance": [
+    358,
+    360,
+    364,
+    373,
+    380,
+    383
+  ],
+  "Resistance in Circuits": [
+    358
+  ],
+  "Lower Cutoff Frequency Formula": [
+    358
+  ],
+  "RC Time Constant": [
+    358
+  ],
+  "Transistor regions of operation": [
+    359
+  ],
+  "Frequency response of amplifiers": [
+    359,
+    374,
+    375,
+    377,
+    382,
+    394,
+    398,
+    512,
+    521
+  ],
+  "Transistor gain": [
+    359
+  ],
+  "Internal capacitances of transistors": [
+    359
+  ],
+  "High-Frequency Cutoff": [
+    360
+  ],
+  "Circuit Parameters": [
+    360
+  ],
+  "Capacitors in AC Circuits": [
+    360
+  ],
+  "Resistors in AC Circuits": [
+    360
+  ],
+  "High-frequency equivalent circuits": [
+    361
+  ],
+  "Low-frequency equivalent circuits": [
+    361
+  ],
+  "Hybrid-pi model": [
+    361
+  ],
+  "H-parameter model": [
+    361
+  ],
+  "Transistor behavior at different frequencies": [
+    361
+  ],
+  "Hybrid pi model": [
+    362
+  ],
+  "Base region body resistance": [
+    362
+  ],
+  "Transistor modeling": [
+    362
+  ],
+  "Electronics fundamentals": [
+    362
+  ],
+  "Transistor Hybrid Pi Model": [
+    363
+  ],
+  "High-Frequency Characteristics of Transistors": [
+    363
+  ],
+  "Dependence of Capacitance on Operating Point": [
+    363
+  ],
+  "Time Constant": [
+    364
+  ],
+  "Voltage Gain in Amplifier Circuits": [
+    364
+  ],
+  "Transistor Parameters (β, fT)": [
+    364
+  ],
+  "Frequency Response of Amplifiers": [
+    364
+  ],
+  "Cutoff Frequencies (fL, fH)": [
+    364
+  ],
+  "Effect of Component Values on Frequency Response": [
+    364
+  ],
+  "Frequency response measurement conditions": [
+    365
+  ],
+  "Collector-to-emitter voltage in active region": [
+    365
+  ],
+  "Frequency effects on transistor": [
+    366
+  ],
+  "Internal capacitances in transistors": [
+    366
+  ],
+  "Phase shift in transistors": [
+    366
+  ],
+  "Gain reduction at high frequencies": [
+    366,
+    523
+  ],
+  "Phase lead definition": [
+    367
+  ],
+  "Electrical engineering basics": [
+    367
+  ],
+  "Control systems fundamentals": [
+    367
+  ],
+  "Circuit design principles": [
+    367,
+    527
+  ],
+  "Positive phase shift concept": [
+    367
+  ],
+  "Capacitance in semiconductors": [
+    368
+  ],
+  "High-frequency performance of transistors": [
+    368
+  ],
+  "Relationship between capacitance and frequency in transistors": [
+    368
+  ],
+  "Transition frequency in transistors": [
+    369
+  ],
+  "Current gain (beta) in transistors": [
+    369
+  ],
+  "Common-base current gain (alpha) in transistors": [
+    369
+  ],
+  "Relationship between beta and alpha": [
+    369
+  ],
+  "Low-frequency current gain (beta_0)": [
+    369
+  ],
+  "Frequency at which current gain (beta) is measured (f_beta)": [
+    369
+  ],
+  "Frequency at which common-base current gain (alpha) drops to 0.5 (f_alpha)": [
+    369
+  ],
+  "Coupling capacitors in AC equivalent circuits": [
+    370
+  ],
+  "Inter-electrode capacitances in transistor circuits": [
+    370
+  ],
+  "Mid-frequency range analysis in transistor amplifiers": [
+    370
+  ],
+  "AC signal behavior through capacitors": [
+    370
+  ],
+  "Transistor hybrid π model": [
+    371
+  ],
+  "Transistor h-parameter model": [
+    371
+  ],
+  "Mid-frequency analysis in amplification circuits": [
+    371
+  ],
+  "Voltage gain calculation in amplifiers": [
+    371
+  ],
+  "Equivalence of transistor models in mid-frequency range": [
+    371
+  ],
+  "Coupling capacitors in AC circuits": [
+    372
+  ],
+  "Reactance of capacitors at low frequencies": [
+    372
+  ],
+  "Low-frequency AC equivalent circuit analysis": [
+    372
+  ],
+  "Open circuit behavior of capacitors at low frequencies": [
+    372
+  ],
+  "Low Frequency AC Circuits": [
+    373
+  ],
+  "Effect of frequency on amplifier gain": [
+    374
+  ],
+  "Phase shift in amplifiers": [
+    375,
+    388,
+    395,
+    452,
+    514,
+    549
+  ],
+  "Transistor performance at low frequencies": [
+    375
+  ],
+  "Reactive components in circuits": [
+    376
+  ],
+  "Bypass capacitors": [
+    376,
+    389
+  ],
+  "Gain at cutoff frequency": [
+    377
+  ],
+  "Decibel scale for gain": [
+    377
+  ],
+  "Decibels (dB)": [
+    378
+  ],
+  "Gain in electronics": [
+    378
+  ],
+  "Logarithmic scale for sound and signal levels": [
+    378
+  ],
+  "Lagging and leading phase angles": [
+    379
+  ],
+  "Understanding phase relationships in AC circuits": [
+    379
+  ],
+  "High-Frequency Circuit Analysis": [
+    380
+  ],
+  "AC Equivalent Circuit": [
+    380
+  ],
+  "Coupling Capacitors": [
+    380
+  ],
+  "Short Circuit Concept": [
+    380
+  ],
+  "Capacitance in AC circuits": [
+    381
+  ],
+  "High-frequency behavior of capacitors": [
+    381
+  ],
+  "Equivalent circuits in electronics": [
+    381
+  ],
+  "Inter-electrode capacitance in transistors": [
+    381
+  ],
+  "Open circuits and short circuits in electronics": [
+    381
+  ],
+  "Capacitance in circuits": [
+    382,
+    404,
+    514
+  ],
+  "Roll-off in frequency response": [
+    382
+  ],
+  "Parasitic capacitances in electronic circuits": [
+    382
+  ],
+  "Phase Lag in AC Circuits": [
+    383
+  ],
+  "Mid-Frequency and High-Frequency Behavior of Amplifiers": [
+    383
+  ],
+  "Coupling Capacitor": [
+    384
+  ],
+  "Bypass Capacitor": [
+    384
+  ],
+  "Inter-electrode Capacitance": [
+    384
+  ],
+  "Capacitive Reactance in Amplifier Circuits": [
+    385
+  ],
+  "High-Frequency Response of Transistors": [
+    385
+  ],
+  "-3dB Point and Voltage Gain Reduction": [
+    385
+  ],
+  "Common-Emitter Amplifier Frequency Response": [
+    385
+  ],
+  "Decibel (dB) scale": [
+    386
+  ],
+  "Gain in amplifiers": [
+    386
+  ],
+  "Reading and interpreting technical graphs or figures": [
+    386
+  ],
+  "Understanding multiple choice question format": [
+    386
+  ],
+  "Phase Relationship in AC Circuits": [
+    387
+  ],
+  "Lagging and Leading Phases": [
+    387
+  ],
+  "Full Circle in Degrees": [
+    387
+  ],
+  "Negative Phase Angles": [
+    387
+  ],
+  "Positive Phase Angles": [
+    387
+  ],
+  "Stability issues in amplifiers": [
+    388
+  ],
+  "Bandwidth of amplifiers": [
+    388
+  ],
+  "Transistor junction capacitance": [
+    389,
+    390
+  ],
+  "External coupling capacitors": [
+    389
+  ],
+  "Lower cutoff frequency": [
+    389
+  ],
+  "Resistance in circuits": [
+    390
+  ],
+  "RC networks": [
+    390
+  ],
+  "Decibel formula for voltage gain": [
+    391
+  ],
+  "Logarithmic equations": [
+    391
+  ],
+  "Exponential equations": [
+    391
+  ],
+  "Mid-frequency voltage gain": [
+    391
+  ],
+  "Cutoff frequency formula for an RC circuit": [
+    392
+  ],
+  "Unit conversion for resistance and capacitance": [
+    392
+  ],
+  "Basic arithmetic operations": [
+    392
+  ],
+  "Rounding to the nearest option": [
+    392
+  ],
+  "Frequency calculation in circuits": [
+    393
+  ],
+  "Resistive-capacitive (RC) time constant": [
+    393
+  ],
+  "Unit conversion for electrical components": [
+    393
+  ],
+  "Approximation and rounding in calculations": [
+    393
+  ],
+  "Bandwidth of multistage amplifiers": [
+    394
+  ],
+  "Cumulative effect of multiple stages on bandwidth": [
+    394
+  ],
+  "Summation of phase shifts in multistage amplifiers": [
+    395
+  ],
+  "Behavior of transistors at high frequencies": [
+    395
+  ],
+  "Phase shift in RC-coupled amplifiers": [
+    396
+  ],
+  "Cumulative phase shift in multi-stage amplifiers": [
+    396
+  ],
+  "Summation of phase shifts from individual stages": [
+    396
+  ],
+  "Cutoff Frequency in RC Circuits": [
+    397
+  ],
+  "Dominant Pole Approximation in Multi-Stage Amplifiers": [
+    397
+  ],
+  "Frequency Response of Amplifier Stages": [
+    397
+  ],
+  "Dominant pole approximation in frequency response": [
+    398
+  ],
+  "Bandwidth determination in multi-stage amplifiers": [
+    398
+  ],
+  "Superposition of Bode plots": [
+    399
+  ],
+  "Addition of individual Bode plots": [
+    399
+  ],
+  "Amplitude response of a single transistor amplification circuit": [
+    400
+  ],
+  "Frequency response of multi-stage amplification circuits": [
+    400
+  ],
+  "Decibel scale for expressing amplitude changes": [
+    400
+  ],
+  "Capacitors in RC-coupled amplifiers act as high-pass filters": [
+    401
+  ],
+  "Direct coupling allows DC and low-frequency signals to pass without attenuation": [
+    401
+  ],
+  "RC-coupled amplifiers introduce phase shifts at low frequencies": [
+    401
+  ],
+  "Directly coupled amplifiers have a better low-frequency response": [
+    401
+  ],
+  "RC coupling circuit characteristics": [
+    402
+  ],
+  "Capacitive reactance and frequency relationship": [
+    402
+  ],
+  "Signal attenuation in RC circuits at low frequencies": [
+    402
+  ],
+  "Cutoff Frequency": [
+    403
+  ],
+  "Decibel Scale": [
+    403
+  ],
+  "Roll-off Characteristics": [
+    403
+  ],
+  "Emitter current in transistors": [
+    404
+  ],
+  "Equivalent resistance in circuits": [
+    404
+  ],
+  "Upper limit frequency in circuits": [
+    404
+  ],
+  "Resistive and capacitive elements in circuits": [
+    405
+  ],
+  "Lower cutoff frequency formula": [
+    405
+  ],
+  "Upper cutoff frequency formula": [
+    405
+  ],
+  "Transistor parameters in AC analysis": [
+    405
+  ],
+  "Input resistance approximation in transistors": [
+    405
+  ],
+  "Equivalent capacitance in transistor circuits": [
+    405
+  ],
+  "Relationship between Rs and fL": [
+    406
+  ],
+  "Effect of connecting a load on fL": [
+    406
+  ],
+  "Relationship between Rs and fH": [
+    406
+  ],
+  "Relationship between Rb and gm": [
+    406
+  ],
+  "Effect of Rb decrease on the parameter in question": [
+    406
+  ],
+  "Voltage Gain in Circuits": [
+    407
+  ],
+  "Higher Cutoff Frequency": [
+    407
+  ],
+  "Bode plot interpretation": [
+    408,
+    519
+  ],
+  "Single pole system": [
+    408
+  ],
+  "Frequency response": [
+    408
+  ],
+  "Pole-zero analysis": [
+    408
+  ],
+  "Magnitude and phase plots": [
+    408
+  ],
+  "Transfer function representation": [
+    408
+  ],
+  "First-order system dynamics": [
+    408
+  ],
+  "Coupling Methods in Circuits": [
+    409
+  ],
+  "Frequency Response and Bode Plots": [
+    409
+  ],
+  "Decibel Scale for Voltage Gain": [
+    409
+  ],
+  "Mid-frequency gain calculation": [
+    410
+  ],
+  "Cascaded amplifier stages": [
+    410
+  ],
+  "Gain multiplication in multistage amplifiers": [
+    410
+  ],
+  "Phase inversion in amplifiers": [
+    410
+  ],
+  "Cutoff frequency calculation": [
+    411
+  ],
+  "Two-stage amplifier frequency response": [
+    411
+  ],
+  "First stage lower cutoff frequency": [
+    411
+  ],
+  "Second stage higher cutoff frequency": [
+    411
+  ],
+  "Transistor parameters": [
+    412
+  ],
+  "Bipolar junction transistor (BJT) operation": [
+    412
+  ],
+  "Cutoff frequencies in transistor circuits": [
+    412
+  ],
+  "Effect of load resistance on circuit parameters": [
+    412
+  ],
+  "Effect of biasing resistors on transistor parameters": [
+    412
+  ],
+  "Transconductance and its relationship with circuit components": [
+    412
+  ],
+  "Capacitance in transistor circuits": [
+    412
+  ],
+  "Frequency response of transistor amplifiers": [
+    412
+  ],
+  "Low-frequency response of transistor circuits": [
+    413
+  ],
+  "Cutoff frequency in RC circuits": [
+    413
+  ],
+  "Capacitive reactance and its effect on circuit performance": [
+    413
+  ],
+  "Millers theorem and its application in analyzing transistor circuits": [
+    413
+  ],
+  "Equivalent resistance in parallel and series circuits": [
+    413
+  ],
+  "Transistor small-signal model including Cμ and C'π": [
+    413
+  ],
+  "Effect of bypass capacitors on low-frequency response": [
+    413
+  ],
+  "Emitter resistance influence on low-frequency cutoff frequency": [
+    413
+  ],
+  "Feedback systems": [
+    414,
+    442
+  ],
+  "Output quantity": [
+    414,
+    440
+  ],
+  "Input quantity": [
+    414,
+    416
+  ],
+  "System performance adjustment": [
+    414
+  ],
+  "Feedback in control systems": [
+    415,
+    440
+  ],
+  "Net input voltage": [
+    415
+  ],
+  "System gain": [
+    415
+  ],
+  "Stability of a system": [
+    415
+  ],
+  "Performance of a system": [
+    415
+  ],
+  "Control systems": [
+    416
+  ],
+  "Feedback quantity": [
+    416
+  ],
+  "System response": [
+    416,
+    442
+  ],
+  "Output adjustment": [
+    416
+  ],
+  "Feedback definition": [
+    417,
+    432
+  ],
+  "Signal phase and polarity in feedback systems": [
+    417
+  ],
+  "Feedback in amplification circuits": [
+    418
+  ],
+  "Output of feedback network": [
+    418
+  ],
+  "Input and output quantities in circuits": [
+    418
+  ],
+  "Positive and negative feedback": [
+    418
+  ],
+  "Feedback Amplifier Circuit": [
+    419
+  ],
+  "Net Input Quantity": [
+    419
+  ],
+  "Basic Amplifying Circuit": [
+    419
+  ],
+  "Input Signal": [
+    419
+  ],
+  "Feedback Signal": [
+    419
+  ],
+  "Negative Feedback Definition": [
+    420
+  ],
+  "Feedback Signal Effect on Input": [
+    420
+  ],
+  "Input Signal Stability with Feedback": [
+    420
+  ],
+  "Feedback in circuits": [
+    421,
+    428,
+    429
+  ],
+  "DC feedback definition": [
+    421
+  ],
+  "Feedback in Amplifier Circuits": [
+    422
+  ],
+  "Interstage Feedback Definition": [
+    422
+  ],
+  "Multi-Stage Amplifier Circuit Operation": [
+    422
+  ],
+  "DC feedback in circuits": [
+    423
+  ],
+  "AC feedback in circuits": [
+    423
+  ],
+  "Stabilization of gain in amplifiers": [
+    423
+  ],
+  "Operating point in circuits": [
+    423
+  ],
+  "Stabilization of amplifier gain": [
+    424,
+    481,
+    496
+  ],
+  "Amplifier circuits": [
+    425
+  ],
+  "Feedback in electronics": [
+    425
+  ],
+  "DC feedback": [
+    425
+  ],
+  "AC feedback": [
+    425,
+    530
+  ],
+  "Negative feedback": [
+    425,
+    548
+  ],
+  "Positive feedback": [
+    425,
+    442,
+    548
+  ],
+  "Net input in feedback systems": [
+    425
+  ],
+  "Input resistance in feedback systems": [
+    425
+  ],
+  "Output in feedback systems": [
+    425
+  ],
+  "DC path in amplifier circuits": [
+    425
+  ],
+  "AC path in amplifier circuits": [
+    425
+  ],
+  "Voltage negative feedback stabilizes output voltage": [
+    426
+  ],
+  "Output voltage and output current are controlled by different mechanisms in a circuit": [
+    426
+  ],
+  "Series feedback configuration": [
+    427
+  ],
+  "Amplifier input signal modification": [
+    427
+  ],
+  "Feedback network connection": [
+    427
+  ],
+  "Current feedback definition": [
+    428
+  ],
+  "Effects of current feedback on net input": [
+    428
+  ],
+  "Current feedback": [
+    429
+  ],
+  "Voltage feedback": [
+    429
+  ],
+  "Output voltage stabilization": [
+    429
+  ],
+  "Series and Parallel Feedback Concepts": [
+    430
+  ],
+  "Voltage and Current Superposition": [
+    430
+  ],
+  "Feedback Signal Combination Methods": [
+    430
+  ],
+  "Series negative feedback requirements": [
+    431
+  ],
+  "Parallel negative feedback requirements": [
+    431
+  ],
+  "Voltage negative feedback effects": [
+    431
+  ],
+  "Current negative feedback effects": [
+    431
+  ],
+  "Parasitic elements in circuits": [
+    432
+  ],
+  "Internal circuitry effects": [
+    432
+  ],
+  "AC and DC feedback": [
+    433
+  ],
+  "Components and configuration of circuits": [
+    433
+  ],
+  "RC Coupling": [
+    434
+  ],
+  "AC Feedback": [
+    434
+  ],
+  "DC Feedback": [
+    434
+  ],
+  "Feedback in Amplifiers": [
+    434,
+    486
+  ],
+  "AC feedback definition": [
+    435
+  ],
+  "Circuit analysis fundamentals": [
+    435
+  ],
+  "Amplifier operation basics": [
+    435
+  ],
+  "Feedback Path in Amplifier Circuits": [
+    436
+  ],
+  "Open Loop Configuration": [
+    436
+  ],
+  "Amplifier Gain Characteristics": [
+    436
+  ],
+  "Feedback Path": [
+    437
+  ],
+  "Closed Loop System": [
+    437
+  ],
+  "Negative feedback reduces net input": [
+    438
+  ],
+  "Negative feedback opposes input signal": [
+    438
+  ],
+  "Positive feedback definition": [
+    439
+  ],
+  "Feedback amplification effect": [
+    439
+  ],
+  "Feedback network configuration": [
+    440
+  ],
+  "Understanding of feedback systems": [
+    441
+  ],
+  "Concept of negative feedback": [
+    441
+  ],
+  "Subtraction in algebraic expressions": [
+    441
+  ],
+  "Net input": [
+    442
+  ],
+  "Output change": [
+    442
+  ],
+  "Series feedback definition": [
+    443
+  ],
+  "Feedback types in control systems": [
+    443
+  ],
+  "Input and feedback signal addition in series configuration": [
+    443
+  ],
+  "Voltage Feedback Concept": [
+    444
+  ],
+  "Feedback Quantity Interpretation": [
+    444
+  ],
+  "Output Voltage Control": [
+    444
+  ],
+  "Series Feedback Configuration": [
+    445
+  ],
+  "Constant Current Source Characteristics": [
+    445
+  ],
+  "Voltage Variations in Feedback Loops": [
+    445
+  ],
+  "Parallel feedback configuration": [
+    446
+  ],
+  "Current source as a signal source": [
+    446
+  ],
+  "Voltage source characteristics": [
+    446
+  ],
+  "Feedback network connection in parallel": [
+    446
+  ],
+  "Signal source compatibility with feedback type": [
+    446
+  ],
+  "Current negative feedback": [
+    447,
+    505
+  ],
+  "Voltage negative feedback": [
+    447,
+    499,
+    505
+  ],
+  "Feedback amplifier circuits": [
+    448,
+    459,
+    493
+  ],
+  "Bipolar Junction Transistor (BJT) terminals": [
+    448
+  ],
+  "Field-Effect Transistor (FET) terminals": [
+    448
+  ],
+  "Net input voltage in amplifiers": [
+    448
+  ],
+  "Polarity of feedback in amplifier circuits": [
+    449
+  ],
+  "Base current in BJT transistors": [
+    449
+  ],
+  "Gate current in FET transistors": [
+    449
+  ],
+  "Controlling currents in transistors": [
+    449
+  ],
+  "Current feedback in amplifiers": [
+    450
+  ],
+  "Transistor collector and emitter currents": [
+    450
+  ],
+  "Load current variability": [
+    450
+  ],
+  "Negative feedback in electronic circuits": [
+    450,
+    516
+  ],
+  "Stability of transistor currents": [
+    450
+  ],
+  "Reliability of feedback signals": [
+    450
+  ],
+  "Amplifier gain stability": [
+    451
+  ],
+  "Load current variation": [
+    451
+  ],
+  "External factors affecting load current": [
+    451
+  ],
+  "Inverting and non-inverting amplifiers": [
+    452
+  ],
+  "Common-emitter amplifier": [
+    452
+  ],
+  "Common-collector amplifier": [
+    452
+  ],
+  "Common-base amplifier": [
+    452
+  ],
+  "Common-source amplifier": [
+    452
+  ],
+  "Common-drain amplifier": [
+    452
+  ],
+  "Voltage series negative feedback": [
+    453,
+    461,
+    470,
+    489,
+    505
+  ],
+  "Proportional output voltage": [
+    453
+  ],
+  "Stabilized gain": [
+    453
+  ],
+  "Improved performance characteristics": [
+    453
+  ],
+  "Negative feedback amplifier circuits": [
+    454,
+    523
+  ],
+  "Voltage-controlled current functionality": [
+    454
+  ],
+  "Current-controlled voltage functionality": [
+    454
+  ],
+  "Principle of virtual ground": [
+    455
+  ],
+  "Current feedback circuits": [
+    455
+  ],
+  "Voltage feedback circuits": [
+    455
+  ],
+  "Input current in feedback circuits": [
+    455
+  ],
+  "Input voltage in feedback circuits": [
+    455
+  ],
+  "Negative Feedback Circuits": [
+    456
+  ],
+  "Feedback Mechanisms in Electronics": [
+    456
+  ],
+  "Net Input Voltage Concept": [
+    456
+  ],
+  "Deep Series Negative Feedback Operation": [
+    456
+  ],
+  "Negative feedback in amplifier circuits": [
+    457,
+    521
+  ],
+  "Current-to-voltage conversion": [
+    457
+  ],
+  "Voltage-to-current conversion": [
+    457
+  ],
+  "Dimensions of gain": [
+    457
+  ],
+  "Effect of negative feedback on gain": [
+    457
+  ],
+  "Deep negative feedback in amplifiers": [
+    458
+  ],
+  "Voltage gain with feedback formula": [
+    458
+  ],
+  "Feedback factor definition": [
+    458,
+    480
+  ],
+  "Open-loop gain definition": [
+    458
+  ],
+  "Simplification of equations under deep negative feedback conditions": [
+    458
+  ],
+  "Notation for feedback factor": [
+    458
+  ],
+  "Voltage stabilization": [
+    459
+  ],
+  "Load independence in feedback amplifiers": [
+    459
+  ],
+  "Voltage gain expression": [
+    459
+  ],
+  "Linear relationships in circuits": [
+    460
+  ],
+  "Voltage amplification formula for current negative feedback amplifiers": [
+    460
+  ],
+  "Output resistance in amplifier circuits": [
+    460
+  ],
+  "Relationship between output voltage and load resistance": [
+    460
+  ],
+  "Output current calculation in amplifiers": [
+    460
+  ],
+  "Effect of load resistance on output current in amplifiers": [
+    460
+  ],
+  "Deep negative feedback configuration": [
+    461
+  ],
+  "Voltage amplification factor": [
+    461
+  ],
+  "Circuit analysis under deep negative feedback": [
+    461
+  ],
+  "Circuit Diagram Interpretation": [
+    462
+  ],
+  "AC Positive Feedback": [
+    462
+  ],
+  "AC Negative Feedback": [
+    462
+  ],
+  "Interstage AC Negative Feedback": [
+    462
+  ],
+  "Identify components in a circuit": [
+    463
+  ],
+  "Understand DC feedback in circuits": [
+    463
+  ],
+  "Understand AC feedback in circuits": [
+    463
+  ],
+  "Role of resistors in DC feedback": [
+    463
+  ],
+  "Role of capacitors in AC feedback": [
+    463
+  ],
+  "Role of resistors in AC feedback": [
+    463
+  ],
+  "DC and AC feedback in circuits": [
+    464
+  ],
+  "Circuit analysis with open components": [
+    464
+  ],
+  "AC voltage negative feedback": [
+    465,
+    467
+  ],
+  "AC current negative feedback": [
+    465,
+    467
+  ],
+  "Series negative feedback": [
+    465,
+    467,
+    503,
+    505
+  ],
+  "Parallel negative feedback": [
+    465,
+    467,
+    503
+  ],
+  "Understanding of AC voltage negative feedback": [
+    466
+  ],
+  "Understanding of AC current negative feedback": [
+    466
+  ],
+  "Identifying feedback paths in circuits": [
+    466
+  ],
+  "Circuits and Feedback": [
+    468
+  ],
+  "Negative Feedback": [
+    468,
+    471,
+    520
+  ],
+  "AC Voltage Negative Feedback": [
+    468
+  ],
+  "AC Current Negative Feedback": [
+    468
+  ],
+  "Series Negative Feedback": [
+    468,
+    504,
+    543
+  ],
+  "Parallel Negative Feedback": [
+    468
+  ],
+  "Voltage Series AC Negative Feedback": [
+    469
+  ],
+  "Resistor Network in Feedback Loop": [
+    469
+  ],
+  "Feedback factor in deep negative feedback": [
+    470
+  ],
+  "Voltage gain in deep negative feedback": [
+    470
+  ],
+  "Feedback Coefficient": [
+    471
+  ],
+  "Open-Loop Gain": [
+    471
+  ],
+  "Feedback Factor": [
+    471
+  ],
+  "Negative feedback in op-amps": [
+    472
+  ],
+  "Linear operation of op-amps": [
+    472
+  ],
+  "Saturation in op-amps": [
+    472
+  ],
+  "Gain reduction by negative feedback": [
+    472
+  ],
+  "Ideal Operational Amplifier Characteristics": [
+    473
+  ],
+  "Linear Region Operation": [
+    473
+  ],
+  "Virtual Short Concept": [
+    473
+  ],
+  "Virtual Open Concept": [
+    473
+  ],
+  "Ideal op-amp characteristics": [
+    474
+  ],
+  "Open-loop differential voltage gain": [
+    474
+  ],
+  "Infinite gain assumption in ideal op-amps": [
+    474
+  ],
+  "Practical limitations of real op-amps": [
+    474
+  ],
+  "Ideal Op-Amp Characteristics": [
+    475
+  ],
+  "Voltage Series Feedback Configuration": [
+    475
+  ],
+  "Voltage Gain Formula for Non-Inverting Amplifier": [
+    475
+  ],
+  "Resistor Open and Short Circuit Effects": [
+    475
+  ],
+  "Output Voltage Limitations of Op-Amp": [
+    475
+  ],
+  "Ratio of output to input": [
+    476
+  ],
+  "Dimensional analysis": [
+    476
+  ],
+  "Negative feedback amplifier": [
+    476,
+    482
+  ],
+  "Basic amplifier circuit gain": [
+    476
+  ],
+  "Negative Feedback in Amplifiers": [
+    477,
+    479
+  ],
+  "Amplification Path in Feedback Systems": [
+    477
+  ],
+  "Stability of Closed-Loop Gain": [
+    477
+  ],
+  "Function of Feedback Network": [
+    477
+  ],
+  "Circuit requirements": [
+    478
+  ],
+  "Amplification factor independence under negative feedback": [
+    478
+  ],
+  "High Gain of Operational Amplifiers": [
+    479
+  ],
+  "Stabilization and Performance Improvement in Amplifiers": [
+    479
+  ],
+  "Feedback resistor role in amplifier circuits": [
+    480
+  ],
+  "Input voltage constancy in feedback circuits": [
+    480
+  ],
+  "Output voltage relationship with feedback factor and feedback voltage": [
+    480
+  ],
+  "Effect of load resistance on output voltage": [
+    481
+  ],
+  "Role of feedback in reducing gain variations": [
+    481
+  ],
+  "Gain stability": [
+    482
+  ],
+  "Feedback factor": [
+    482
+  ],
+  "Amplifier gain formula": [
+    482
+  ],
+  "Voltage Negative Feedback": [
+    483,
+    545
+  ],
+  "Output Voltage Stabilization": [
+    483
+  ],
+  "Load Current Stability": [
+    483
+  ],
+  "Load Resistance": [
+    483
+  ],
+  "Circuit Behavior Under Varying Loads": [
+    483
+  ],
+  "Current series feedback": [
+    484
+  ],
+  "Feedback effects on amplifier parameters": [
+    484
+  ],
+  "Current series negative feedback effect on input impedance": [
+    485
+  ],
+  "Parallel Connection in Circuits": [
+    486
+  ],
+  "Negative Feedback Effects": [
+    486
+  ],
+  "Shunt Current Concept": [
+    486
+  ],
+  "Current shunt negative feedback decreases input resistance": [
+    487
+  ],
+  "Parallel connection reduces overall input resistance": [
+    487
+  ],
+  "Current series negative feedback effects": [
+    488
+  ],
+  "Output resistance reduction": [
+    489
+  ],
+  "Feedback stabilization of output voltage": [
+    489
+  ],
+  "Load resistance sensitivity": [
+    489
+  ],
+  "Shunt effect in feedback networks": [
+    490
+  ],
+  "Parallel current negative feedback reduces input impedance": [
+    491
+  ],
+  "Parallel current negative feedback increases output impedance": [
+    491
+  ],
+  "AC negative feedback": [
+    492,
+    505
+  ],
+  "Series feedback increases Ri": [
+    492
+  ],
+  "Parallel feedback decreases Ri": [
+    492
+  ],
+  "Series negative feedback increases Ri": [
+    492
+  ],
+  "Parallel negative feedback decreases Ri": [
+    492
+  ],
+  "Input resistance increases with series feedback": [
+    492
+  ],
+  "Output resistance decreases with parallel feedback": [
+    492
+  ],
+  "Input resistance increases with series negative feedback": [
+    492
+  ],
+  "Output resistance increases with parallel negative feedback": [
+    492
+  ],
+  "Input resistance decreases with parallel feedback": [
+    492
+  ],
+  "Output resistance increases with series feedback": [
+    492
+  ],
+  "Bandwidth of operational amplifiers": [
+    493
+  ],
+  "Effect of negative feedback on amplifier bandwidth": [
+    493
+  ],
+  "Deep negative feedback in circuits": [
+    493
+  ],
+  "Operational amplifier characteristics": [
+    493
+  ],
+  "Negative feedback reduces gain": [
+    494
+  ],
+  "Negative feedback increases bandwidth": [
+    494
+  ],
+  "Negative feedback stabilizes the circuit": [
+    494
+  ],
+  "Negative feedback reduces distortion": [
+    494
+  ],
+  "Non-linear distortion in electronic circuits": [
+    495
+  ],
+  "Harmonics in electrical signals": [
+    495
+  ],
+  "Fundamental wave amplitude": [
+    495
+  ],
+  "Amplifier gain stabilization": [
+    495
+  ],
+  "Transfer function linearization": [
+    495
+  ],
+  "Nonlinear distortion in circuits": [
+    496
+  ],
+  "Correction of deviations from linear operation": [
+    496
+  ],
+  "AC negative feedback affects input and output resistances within the feedback loop": [
+    497
+  ],
+  "Resistances outside the feedback loop are not affected by AC negative feedback": [
+    497
+  ],
+  "Amplifier performance characteristics": [
+    498
+  ],
+  "Gain reduction in amplifiers": [
+    498
+  ],
+  "Stability in amplifiers": [
+    498
+  ],
+  "Linearity in amplifiers": [
+    498
+  ],
+  "Bandwidth in amplifiers": [
+    498
+  ],
+  "Noise in amplifiers": [
+    498
+  ],
+  "Stabilization of output voltage": [
+    499
+  ],
+  "Feedback mechanisms in amplifiers": [
+    499
+  ],
+  "Load variation effects on output voltage": [
+    499
+  ],
+  "Current negative feedback reduces input impedance": [
+    500
+  ],
+  "Lower input impedance increases current drawn from the signal source": [
+    500
+  ],
+  "Maximizing input current requires high input impedance": [
+    500
+  ],
+  "Current negative feedback decreases input current drawn from the signal source": [
+    500
+  ],
+  "Negative feedback in circuits": [
+    501,
+    530
+  ],
+  "Stabilization of output current": [
+    501
+  ],
+  "Feedback mechanisms in electronics": [
+    501
+  ],
+  "Load variation effects on output current": [
+    501
+  ],
+  "Counteracting load changes with feedback": [
+    501
+  ],
+  "Negative feedback reduces amplifier gain": [
+    502
+  ],
+  "Reduced gain results in smaller output for given input voltage": [
+    502
+  ],
+  "Voltage negative feedback does not maximize input voltage": [
+    502
+  ],
+  "Ideal current source in circuits": [
+    503
+  ],
+  "Stability in Amplifier Circuits": [
+    504
+  ],
+  "Reduction of Distortion in Amplifiers": [
+    504
+  ],
+  "Frequency Response in Amplifiers": [
+    504
+  ],
+  "Voltage shunt negative feedback": [
+    505
+  ],
+  "Current series negative feedback": [
+    505
+  ],
+  "Current shunt negative feedback": [
+    505
+  ],
+  "Shunt negative feedback": [
+    505
+  ],
+  "Negative feedback in amplifiers reduces gain and improves stability": [
+    506
+  ],
+  "Positive feedback is required for self-oscillation": [
+    506
+  ],
+  "Self-oscillation sustains oscillations": [
+    506
+  ],
+  "Negative feedback amplifiers cannot be used as signal sources based on self-oscillation": [
+    506
+  ],
+  "Phase shift in feedback loops": [
+    507,
+    523
+  ],
+  "Stability in amplifier circuits": [
+    507,
+    513,
+    549
+  ],
+  "Negative feedback amplifiers": [
+    507,
+    511
+  ],
+  "Oscillation conditions in electronic circuits": [
+    507
+  ],
+  "Phase balance condition": [
+    508,
+    509
+  ],
+  "Start-up condition": [
+    508
+  ],
+  "Loop gain": [
+    508,
+    535
+  ],
+  "Oscillation conditions": [
+    508
+  ],
+  "Circuit oscillation theory": [
+    508
+  ],
+  "Amplitude condition": [
+    509
+  ],
+  "Oscillation criteria in circuits": [
+    509
+  ],
+  "Negative feedback reduces gain and stabilizes the system": [
+    510
+  ],
+  "Negative feedback minimizes distortion and improves linearity": [
+    510
+  ],
+  "Phase shift introduced by negative feedback opposes potential oscillations in the mid-frequency range": [
+    510
+  ],
+  "Capacitors and inductors in circuits": [
+    511
+  ],
+  "Resonant circuits": [
+    511
+  ],
+  "Phase shifts in feedback loops": [
+    511
+  ],
+  "Barkhausen's criterion for oscillation": [
+    511
+  ],
+  "Capacitor-coupled amplifier circuits": [
+    512
+  ],
+  "Low-frequency and high-frequency stability in amplifiers": [
+    512
+  ],
+  "Oscillations in amplifier circuits": [
+    512
+  ],
+  "Phase shift in amplifier circuits": [
+    513,
+    515
+  ],
+  "High-frequency and low-frequency behavior of amplifiers": [
+    513
+  ],
+  "Phase margin in amplifier design": [
+    513
+  ],
+  "Stability of electronic circuits": [
+    514
+  ],
+  "Low-frequency oscillations in amplifiers": [
+    514
+  ],
+  "Stability in feedback systems": [
+    515
+  ],
+  "High-frequency behavior of amplifiers": [
+    515
+  ],
+  "Oscillations in electronic circuits": [
+    515
+  ],
+  "Feedback factor in amplifiers": [
+    516
+  ],
+  "Loop gain in feedback systems": [
+    516,
+    521
+  ],
+  "Stability criteria in feedback systems": [
+    516
+  ],
+  "Oscillation conditions in amplifiers": [
+    516
+  ],
+  "Feedback in electronic circuits": [
+    517
+  ],
+  "Common-collector amplifier characteristics": [
+    517
+  ],
+  "Self-excitation oscillation in circuits": [
+    517
+  ],
+  "Stability of direct-coupled amplifiers": [
+    518
+  ],
+  "High-frequency and low-frequency oscillations": [
+    518
+  ],
+  "Feedback effects on oscillator frequency range": [
+    518
+  ],
+  "Gain crossover frequency": [
+    519
+  ],
+  "Phase margin calculation": [
+    519
+  ],
+  "Stability criteria for feedback systems": [
+    519
+  ],
+  "Phase angle measurement": [
+    519
+  ],
+  "Oscillation condition in feedback systems": [
+    519
+  ],
+  "Phase Shift": [
+    520,
+    534
+  ],
+  "Gain": [
+    520
+  ],
+  "Oscillation": [
+    520
+  ],
+  "Self-Excitation Oscillation": [
+    520
+  ],
+  "Phase shift in feedback amplifiers": [
+    521
+  ],
+  "Oscillation conditions in feedback circuits": [
+    521
+  ],
+  "Lag compensation": [
+    522
+  ],
+  "Pole placement in frequency response": [
+    522
+  ],
+  "Reduction in gain at higher frequencies": [
+    522
+  ],
+  "Bandwidth of an amplifier circuit": [
+    522
+  ],
+  "Self-oscillation in amplifiers": [
+    523
+  ],
+  "Lag compensation in circuits": [
+    523
+  ],
+  "Low-pass filters in circuit design": [
+    523
+  ],
+  "Preventing sustained oscillation": [
+    523
+  ],
+  "Compensating capacitors in circuits": [
+    524
+  ],
+  "Stability in electronic circuits": [
+    524
+  ],
+  "Circuit compensation techniques": [
+    524
+  ],
+  "Compensation Capacitor Placement": [
+    525
+  ],
+  "Multi-Stage Amplifier Stability": [
+    525
+  ],
+  "Oscillation Prevention in Amplifiers": [
+    525
+  ],
+  "Main Amplification Stage Impact on Gain and Stability": [
+    525
+  ],
+  "Negative feedback amplifier circuit": [
+    526,
+    535,
+    549
+  ],
+  "Self-oscillation elimination": [
+    526
+  ],
+  "Bandwidth impact minimization": [
+    526
+  ],
+  "Circuit stability maintenance": [
+    526
+  ],
+  "Frequency response preservation": [
+    526
+  ],
+  "Circuit stability": [
+    527
+  ],
+  "Overshoot in circuits": [
+    527
+  ],
+  "Optimal component selection": [
+    527
+  ],
+  "Simple Lag Compensation": [
+    528
+  ],
+  "Miller Compensation": [
+    528
+  ],
+  "Phase Margin": [
+    528
+  ],
+  "Oscillatory Circuits Stability": [
+    528
+  ],
+  "AC feedback paths": [
+    529
+  ],
+  "Signal flow in circuits": [
+    529
+  ],
+  "Resistor function in circuits": [
+    530
+  ],
+  "Component interaction in circuits": [
+    530
+  ],
+  "AC positive feedback": [
+    531
+  ],
+  "Resistors in circuits": [
+    531
+  ],
+  "In-phase signal feedback": [
+    531
+  ],
+  "Operational Amplifier Input Properties": [
+    532
+  ],
+  "Virtual Short and Virtual Open Concepts": [
+    532
+  ],
+  "Positive Feedback in Operational Amplifiers": [
+    532
+  ],
+  "Operational amplifiers can operate in both linear and nonlinear regions": [
+    533
+  ],
+  "Circuit configuration affects op-amp operation": [
+    533
+  ],
+  "Input signals affect op-amp operation": [
+    533
+  ],
+  "Positive Feedback": [
+    534
+  ],
+  "Barkhausen Criterion": [
+    534
+  ],
+  "Loop Gain": [
+    534
+  ],
+  "Phase shift": [
+    535
+  ],
+  "Oscillation condition": [
+    535
+  ],
+  "Barkhausen criterion": [
+    535
+  ],
+  "Ideal operational amplifier characteristics": [
+    536
+  ],
+  "Inverting operational amplifier configuration": [
+    536
+  ],
+  "Voltage gain formula for inverting op-amp": [
+    536
+  ],
+  "Resistors in op-amp circuits": [
+    536
+  ],
+  "Identify the type of op-amp circuit": [
+    537
+  ],
+  "Understand the inverting amplifier configuration": [
+    537
+  ],
+  "Know the voltage gain formula for an inverting amplifier: Auf = -Rf / Rin": [
+    537
+  ],
+  "Identify resistors Rf and Rin from the circuit diagram": [
+    537
+  ],
+  "Substitute the values of Rf and Rin into the formula": [
+    537
+  ],
+  "Simplify the expression if necessary": [
+    537
+  ],
+  "Compare the result with the given options": [
+    537
+  ],
+  "AC interstage feedback reduces input resistance": [
+    538
+  ],
+  "Interpreting multiple choice options in context": [
+    538
+  ],
+  "Understanding the impact of feedback on amplifier circuits": [
+    538
+  ],
+  "Interstage AC feedback": [
+    539,
+    540,
+    542
+  ],
+  "Positive feedback in amplifier circuits": [
+    539
+  ],
+  "Effect of positive AC feedback on input impedance": [
+    539
+  ],
+  "Negative feedback mechanism": [
+    540
+  ],
+  "Reduction in gain": [
+    540
+  ],
+  "Output resistance decrease": [
+    540
+  ],
+  "AC interstage feedback": [
+    541
+  ],
+  "Effect of feedback on amplifier characteristics": [
+    542
+  ],
+  "Circuit Stability": [
+    543
+  ],
+  "Understanding of internal resistance": [
+    544
+  ],
+  "Concept of current sources": [
+    544
+  ],
+  "Configuration of load in parallel with a current source": [
+    544
+  ],
+  "Purpose of negative feedback in amplifiers": [
+    544
+  ],
+  "Types of negative feedback: voltage, current, series, parallel": [
+    544
+  ],
+  "Selection criteria for negative feedback configurations": [
+    544
+  ],
+  "Output Voltage Stability": [
+    545
+  ],
+  "Line and Load Regulation": [
+    545
+  ],
+  "Feedback Mechanisms in Electrical Circuits": [
+    546
+  ],
+  "Current Negative Feedback": [
+    546
+  ],
+  "Stabilization of Current in Load Resistance": [
+    546
+  ],
+  "Types of Negative Feedback in Amplifiers": [
+    546
+  ],
+  "Ideal Op-Amp Assumptions": [
+    547
+  ],
+  "Feedback Loop Analysis": [
+    547
+  ],
+  "Saturation Voltage Limits": [
+    547
+  ],
+  "Virtual Ground Concept": [
+    547
+  ],
+  "Circuit Fault Analysis": [
+    547
+  ],
+  "Feedback path": [
+    548
+  ],
+  "Circuit diagrams": [
+    548
+  ],
+  "Signal reinforcement": [
+    548
+  ],
+  "Phase relationship": [
+    548
+  ],
+  "Stages in an amplifier circuit": [
+    549
+  ],
+  "Self-excitation oscillation": [
+    549
+  ],
+  "Frequency bands in electronics": [
+    549
+  ],
+  "Feedback coefficient in amplifiers": [
+    549
+  ],
+  "Decibel measurement in electronics": [
+    549
+  ]
+}
