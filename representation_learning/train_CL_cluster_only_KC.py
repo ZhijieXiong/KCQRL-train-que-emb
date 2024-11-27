@@ -48,13 +48,13 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Train a model on Math Dataset")
     parser.add_argument('--json_file_dataset', type=str,
-                        default="../data/moocradar-C_746997/metadata/questions_translated_kc_sol_annotated_mapped.json",
+                        default="../data/moocradar-C_746997/metadata/questions_translated_kc_sol_annotated_mapped_original_kc.json",
                         help='Path to the JSON file containing the dataset')
     parser.add_argument('--json_file_cluster_kc', type=str,
-                        default="../data/moocradar-C_746997/metadata/kc_clusters_hdbscan.json",
+                        default="../data/moocradar-C_746997/metadata/kc_clusters_hdbscan_original_kc.json",
                         help='Path to the JSON file containing KC cluster mappings')
     parser.add_argument('--json_file_kc_questions', type=str,
-                        default="../data/moocradar-C_746997/metadata/kc_questions_map.json",
+                        default="../data/moocradar-C_746997/metadata/kc_questions_map_original_kc.json",
                         help='Path to the JSON file mapping KCs to question IDs')
     parser.add_argument('--batch_size', type=int, default=32, help='Training batch size')
     parser.add_argument('--eval_batch_size', type=int, default=256, help='Evaluation batch size')
@@ -64,7 +64,7 @@ if __name__ == '__main__':
     parser.add_argument('--num_epochs', type=int, default=50, help='Number of epochs to train for')
     parser.add_argument('--patience', type=int, default=5, help='Patience for early stopping')
     parser.add_argument('--model_save_dir', type=str,
-                        default='/home/xiongzj/myProjects/KCQRL-main/models_CL-cluster_only',
+                        default='/home/xiongzj/myProjects/KCQRL-main/models_CL-cluster_only-original-KC',
                         help='Directory where the trained model will be saved')
     parser.add_argument('--temperature', type=float, default=0.1, help='Temperature scaling for softmax in the loss computation')
     parser.add_argument('--max_length', type=int, default=128, help='Maximum length for tokenized question text')

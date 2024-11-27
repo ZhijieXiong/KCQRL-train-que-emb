@@ -1,0 +1,567 @@
+{
+  "0": [
+    "Amplifying circuit",
+    "Common emitter amplifier circuit",
+    "Basic common emitter amplifier circuit",
+    "Basic amplifier circuit",
+    "DC negative feedback",
+    "Multi-stage amplification circuit",
+    "Common source amplification circuit",
+    "Circuit amplification",
+    "operational amplifier ",
+    "Integrated amplifier circuit",
+    "Principle of integrated operational amplifier",
+    "Basic common amplification circuit",
+    "Integrated operational amplifier",
+    "Integrated operational amplifier circuit",
+    "Operational Amplifier ",
+    "Types of integrated operational amplifiers",
+    "Two-stage amplification circuit",
+    "Feedback circuit",
+    "Feedback amplification circuit",
+    "Negative feedback circuit",
+    "Voltage negative feedback",
+    "Negative current feedback",
+    "Positive feedback circuit",
+    "Negative feedback amplification circuit",
+    "Parallel negative feedback",
+    "Series negative feedback",
+    "Negative feedback of AC current",
+    "Negative feedback of AC voltage",
+    "Ideal operational amplifier",
+    "Feedback amplification circuit with integrated operational amplifier",
+    "Current series negative feedback",
+    "Voltage parallel negative feedback",
+    "Current parallel negative feedback",
+    "Voltage series negative feedback"
+  ],
+  "1": [
+    "Transistor characteristics",
+    "Crystal transistor",
+    "Transistor status",
+    "Transistor parameters",
+    "N-channel junction field-effect transistor",
+    "N-channel depletion type",
+    "Junction field-effect transistor",
+    "P-channel enhanced MOS transistor",
+    "Depletion type MOS transistor",
+    "Enhanced MOS transistor",
+    "transistor"
+  ],
+  "2": [
+    "Co injection DC current amplification factor",
+    "Co injection AC current amplification factor",
+    "Voltage amplification factor",
+    "Current amplification factor",
+    "The amplitude of the amplification factor",
+    "Intermediate frequency amplification factor",
+    "Low frequency amplification factor",
+    "High frequency amplification factor"
+  ],
+  "3": [
+    "Lower cut-off frequency",
+    "Upper limit cutoff frequency",
+    "Upper and lower cutoff frequencies",
+    "High frequency cutoff frequency",
+    "Capacitor affects the lower limit cutoff frequency",
+    "Lower limit frequency",
+    "Upper limit frequency",
+    "Upper and lower limit frequencies"
+  ],
+  "4": [
+    "Low frequency characteristics",
+    "High frequency characteristics",
+    "Low frequency signal",
+    "frequency response",
+    "High frequency response",
+    "Frequency response of amplification factor",
+    "Low frequency response"
+  ],
+  "5": [
+    "Static potential",
+    "Static working point",
+    "Static current",
+    "Static voltage",
+    "Static working current",
+    "Dynamic current"
+  ],
+  "6": [
+    "Signal distortion",
+    "Distortion analysis",
+    "Saturation distortion",
+    "Crossing distortion",
+    "Reduce nonlinear distortion"
+  ],
+  "7": [
+    "temperature compensation",
+    "Positive temperature coefficient",
+    "Negative temperature coefficient",
+    "temperature stability ",
+    "temperature drift "
+  ],
+  "8": [
+    "Input offset voltage",
+    "Output quantity",
+    "Net input voltage",
+    "Input quantity",
+    "Net input quantity"
+  ],
+  "9": [
+    "Input characteristic curve",
+    "Output characteristic curve",
+    "output characteristic ",
+    "Transfer characteristic curve"
+  ],
+  "10": [
+    "Communication component",
+    "Communication signal",
+    "Communication channels",
+    "signal source"
+  ],
+  "11": [
+    "Common mode (signal)",
+    "Common mode signal",
+    "Suppress common mode signals",
+    "Common mode input signal"
+  ],
+  "12": [
+    "Current source circuit",
+    "Constant current source",
+    "Constant current source signal",
+    "Constant voltage source signal"
+  ],
+  "13": [
+    "Exchange feedback",
+    "Communicating positive feedback",
+    "positive feedback",
+    "Inter level communication feedback"
+  ],
+  "14": [
+    "Unidirectional conductivity",
+    "Conductive channel",
+    "Conductive channel type"
+  ],
+  "15": [
+    "Input resistance",
+    "Output resistance",
+    "Internal resistance of signal source"
+  ],
+  "16": [
+    "Output stage",
+    "Complementary output stage",
+    "Quasi complementary output stage"
+  ],
+  "17": [
+    "Direct coupling method",
+    "Direct coupling",
+    "Coupling method"
+  ],
+  "18": [
+    "Input protection circuit",
+    "Output protection circuit",
+    "protection circuit "
+  ],
+  "19": [
+    "Advanced phase shift",
+    "Additional phase shift",
+    "Phase balance condition"
+  ],
+  "20": [
+    "Junction voltage current",
+    "Collector current"
+  ],
+  "21": [
+    "Resistive capacitance coupling amplification circuit",
+    "Direct coupling amplification circuit"
+  ],
+  "22": [
+    "Common base amplifier circuit",
+    "Common base circuit"
+  ],
+  "23": [
+    "common-mode gain ",
+    "Open-loop differential mode gain"
+  ],
+  "24": [
+    "High pass circuit",
+    "High frequency equivalent circuit"
+  ],
+  "25": [
+    "Voltage current characteristics of semiconductor diodes"
+  ],
+  "26": [
+    "Electronic Science and Technology"
+  ],
+  "27": [
+    "Reverse current"
+  ],
+  "28": [
+    "Positive conduction voltage drop"
+  ],
+  "29": [
+    "Magnify state"
+  ],
+  "30": [
+    "Penetrating current"
+  ],
+  "31": [
+    "DC component "
+  ],
+  "32": [
+    "DC signal"
+  ],
+  "33": [
+    "graphic method"
+  ],
+  "34": [
+    "Circuit"
+  ],
+  "35": [
+    "DC path"
+  ],
+  "36": [
+    "Maximum dissipated power of collector"
+  ],
+  "37": [
+    "Saturation tube pressure drop"
+  ],
+  "38": [
+    "characteristic frequency"
+  ],
+  "39": [
+    "Stable circuit"
+  ],
+  "40": [
+    "Divided pressure working point"
+  ],
+  "41": [
+    "Stable static working point"
+  ],
+  "42": [
+    "Thermistor"
+  ],
+  "43": [
+    "DC equivalent model"
+  ],
+  "44": [
+    "H-parameter equivalent model"
+  ],
+  "45": [
+    "High frequency small signal"
+  ],
+  "46": [
+    "Load resistance"
+  ],
+  "47": [
+    "output voltage "
+  ],
+  "48": [
+    "Equivalent circuit for communication"
+  ],
+  "49": [
+    "Graphical analysis"
+  ],
+  "50": [
+    "High frequency large signal analysis"
+  ],
+  "51": [
+    "negative feedback"
+  ],
+  "52": [
+    "Collective amplification circuit"
+  ],
+  "53": [
+    "Basic Circuit Connections"
+  ],
+  "54": [
+    "Current amplification capability"
+  ],
+  "55": [
+    "Voltage following characteristics"
+  ],
+  "56": [
+    "configuration"
+  ],
+  "57": [
+    "common-base configuration "
+  ],
+  "58": [
+    "Collective configuration"
+  ],
+  "59": [
+    "Co injection configuration"
+  ],
+  "60": [
+    "Deadline Zone"
+  ],
+  "61": [
+    "Constant current zone"
+  ],
+  "62": [
+    "Variable resistance area"
+  ],
+  "63": [
+    "Pre clamping trajectory"
+  ],
+  "64": [
+    "Pinch off zone"
+  ],
+  "65": [
+    "Enhanced type"
+  ],
+  "66": [
+    "Equivalent resistance"
+  ],
+  "67": [
+    "Circuit performance"
+  ],
+  "68": [
+    "Input level"
+  ],
+  "69": [
+    "Voltage Divider Biasing Circuit "
+  ],
+  "70": [
+    "Self-sufficient bias circuit"
+  ],
+  "71": [
+    "Communication Equivalent Model"
+  ],
+  "72": [
+    "Leakage current"
+  ],
+  "73": [
+    "Composite pipe"
+  ],
+  "74": [
+    "Dual ended input"
+  ],
+  "75": [
+    "Common mode rejection ratio"
+  ],
+  "76": [
+    "Characteristic Ideal Symmetry"
+  ],
+  "77": [
+    "a vd "
+  ],
+  "78": [
+    "Output changes"
+  ],
+  "79": [
+    "Differential amplification circuit"
+  ],
+  "80": [
+    "Differential signal effect"
+  ],
+  "81": [
+    "Active load"
+  ],
+  "82": [
+    "Bias circuit"
+  ],
+  "83": [
+    "Zero drift"
+  ],
+  "84": [
+    "Differential mode signal"
+  ],
+  "85": [
+    "static analysis"
+  ],
+  "86": [
+    "Differential mode AC equivalent circuit"
+  ],
+  "87": [
+    "Amplify differential mode signal"
+  ],
+  "88": [
+    "Single ended input, dual ended output"
+  ],
+  "89": [
+    "Differential input signal"
+  ],
+  "90": [
+    "Differential voltage amplification"
+  ],
+  "91": [
+    "Common mode voltage amplification"
+  ],
+  "92": [
+    "current mirror "
+  ],
+  "93": [
+    "Reference current"
+  ],
+  "94": [
+    "Magnifying tube"
+  ],
+  "95": [
+    "Dynamic time flow"
+  ],
+  "96": [
+    "Main amplifier"
+  ],
+  "97": [
+    "Power supply polarity"
+  ],
+  "98": [
+    "Differential input"
+  ],
+  "99": [
+    "Multi channel current output"
+  ],
+  "100": [
+    "Channel"
+  ],
+  "101": [
+    "Collector area"
+  ],
+  "102": [
+    "Collective form"
+  ],
+  "103": [
+    "Multiplier circuit"
+  ],
+  "104": [
+    "Resistance capacitance coupling"
+  ],
+  "105": [
+    "Intermediate level"
+  ],
+  "106": [
+    "Input/output terminal"
+  ],
+  "107": [
+    "Input offset current"
+  ],
+  "108": [
+    "Warm float"
+  ],
+  "109": [
+    "Coupling capacitor"
+  ],
+  "110": [
+    "Interelectrode capacitance"
+  ],
+  "111": [
+    "Low pass circuit"
+  ],
+  "112": [
+    "Single tube common source amplifier circuit"
+  ],
+  "113": [
+    "High frequency equivalent model"
+  ],
+  "114": [
+    "Matrix resistance"
+  ],
+  "115": [
+    "gain"
+  ],
+  "116": [
+    "terminal voltage"
+  ],
+  "117": [
+    "Bandwidth gain product"
+  ],
+  "118": [
+    "Intermediate frequency voltage"
+  ],
+  "119": [
+    "Passband"
+  ],
+  "120": [
+    "Bode Plots"
+  ],
+  "121": [
+    "feedback"
+  ],
+  "122": [
+    "Feedback quantity"
+  ],
+  "123": [
+    "DC feedback"
+  ],
+  "124": [
+    "Inter level feedback"
+  ],
+  "125": [
+    "Serial feedback"
+  ],
+  "126": [
+    "Parallel feedback"
+  ],
+  "127": [
+    "Feedback pathway"
+  ],
+  "128": [
+    "open loop"
+  ],
+  "129": [
+    "closed loop"
+  ],
+  "130": [
+    "Feedback Network"
+  ],
+  "131": [
+    "Discrete component"
+  ],
+  "132": [
+    "Voltage series connection"
+  ],
+  "133": [
+    "Parallel current connection"
+  ],
+  "134": [
+    "Deep negative feedback amplification circuit"
+  ],
+  "135": [
+    "Deep negative feedback"
+  ],
+  "136": [
+    "Communicating negative feedback"
+  ],
+  "137": [
+    "Feedback coefficient"
+  ],
+  "138": [
+    "Linear region"
+  ],
+  "139": [
+    "Deep negative feedback condition"
+  ],
+  "140": [
+    "Stable load current"
+  ],
+  "141": [
+    "Broadband"
+  ],
+  "142": [
+    "Output fundamental amplitude"
+  ],
+  "143": [
+    "Self-excited oscillation"
+  ],
+  "144": [
+    "Vibration initiation conditions"
+  ],
+  "145": [
+    "Low frequency oscillation"
+  ],
+  "146": [
+    "High frequency oscillation"
+  ],
+  "147": [
+    "Lag compensation"
+  ],
+  "148": [
+    "Compensation capacitor"
+  ],
+  "149": [
+    "Miller compensation "
+  ],
+  "150": [
+    "Nonlinear region"
+  ]
+}

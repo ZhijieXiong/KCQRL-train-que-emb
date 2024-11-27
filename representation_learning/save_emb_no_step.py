@@ -9,8 +9,8 @@ from sklearn.preprocessing import normalize
 # Get the folder to load the trained model
 folder_saved_model = '/home/xiongzj/myProjects/KCQRL-main/models_CL-cluster_only-original-KC' # Experiment folder
 embeddings_name = "qid2content_CL-cluster_only-original-KC.json"
-path_data_questions = '/home/xiongzj/myProjects/KCQRL-main/data/XES3G5M/metadata/questions_translated_kc_sol_annotated_mapped_original_kc.json'
-path_kc_questions_map = '/home/xiongzj/myProjects/KCQRL-main/data/XES3G5M/metadata/kc_questions_map_original_kc.json'
+path_data_questions = '/home/xiongzj/myProjects/KCQRL-main/data/moocradar-C_746997/metadata/questions_translated_kc_sol_annotated_mapped_original_kc.json'
+path_kc_questions_map = '/home/xiongzj/myProjects/KCQRL-main/data/moocradar-C_746997/metadata/kc_questions_map_original_kc.json'
 embeddings_save_folder = "/home/xiongzj/myProjects/KCQRL-main/representation_learning"
 
 with open(path_data_questions, 'r') as file:
